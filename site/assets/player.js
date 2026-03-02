@@ -15,7 +15,7 @@
   function makeTrackUrl(repo, branch, albumFolder, filePrefix, n) {
     var file = filePrefix + pad2(n) + ".mp3";
     return (
-      "https://raw.githubusercontent.com/" +
+      "https://media.githubusercontent.com/media/" +
       repo +
       "/" + branch + "/series/CCAG/" +
       encodeURIComponent(albumFolder) +
