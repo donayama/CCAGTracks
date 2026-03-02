@@ -141,6 +141,14 @@ button:hover {
   color: #aaa;
 }
 
+.cover-thumb {
+  width: 72px;
+  height: 72px;
+  object-fit: cover;
+  border: 1px solid #333;
+  display: block;
+}
+
 .badge {
   display: inline-block;
   border: 1px solid #555;
