@@ -16,6 +16,11 @@ h1 {
   font-size: 1.8rem;
 }
 
+h2 {
+  margin: 28px 0 10px;
+  font-size: 1.2rem;
+}
+
 p {
   margin: 0 0 16px;
   color: #bbb;
@@ -72,4 +77,46 @@ button:hover {
 .track-btn.active {
   color: #7fd7ff;
   font-weight: 700;
+}
+
+.info-list {
+  margin: 0 0 12px;
+  padding-left: 18px;
+  color: #ddd;
+}
+
+.meta-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 8px 0 16px;
+}
+
+.meta-table th,
+.meta-table td {
+  border-top: 1px solid #2f2f2f;
+  padding: 8px 6px;
+  text-align: left;
+  vertical-align: top;
+  font-size: 0.95rem;
+}
+
+.meta-table th {
+  color: #aaa;
+}
+
+.badge {
+  display: inline-block;
+  border: 1px solid #555;
+  padding: 2px 8px;
+  font-size: 0.8rem;
+}
+
+.badge.ok {
+  border-color: #2d7f4e;
+  color: #9fe9b3;
+}
+
+.badge.pending {
+  border-color: #8c6f2a;
+  color: #ffd37a;
 }
