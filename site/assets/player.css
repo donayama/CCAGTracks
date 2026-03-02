@@ -56,12 +56,13 @@ button:hover {
 
 .cover-wrap {
   margin: 8px 0 18px;
+  max-width: 280px;
 }
 
 .cover-image {
   display: block;
-  width: 100%;
-  max-width: 280px;
+  width: 100% !important;
+  max-width: 280px !important;
   height: auto;
   border: 1px solid #2f2f2f;
 }
@@ -167,7 +168,10 @@ button:hover {
 }
 
 @media (max-width: 640px) {
-  .cover-image {
+  .cover-wrap {
     max-width: 180px;
+  }
+  .cover-image {
+    max-width: 180px !important;
   }
 }
