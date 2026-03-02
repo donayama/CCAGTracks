@@ -83,13 +83,21 @@ button:hover {
   border-top: 1px solid #2f2f2f;
 }
 
+.track-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  padding: 8px 4px;
+}
+
 .track-btn {
-  width: 100%;
+  flex: 1 1 auto;
   text-align: left;
   border: 0;
   background: transparent;
   color: #ddd;
-  padding: 10px 4px;
+  padding: 2px 0;
 }
 
 .track-btn.active {
@@ -97,10 +105,21 @@ button:hover {
   font-weight: 700;
 }
 
+.track-missing {
+  flex: 1 1 auto;
+  color: #888;
+}
+
 .info-list {
   margin: 0 0 12px;
   padding-left: 18px;
   color: #ddd;
+}
+
+.source-note {
+  color: #aaa;
+  font-size: 0.92rem;
+  margin-top: 8px;
 }
 
 .meta-table {

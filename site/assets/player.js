@@ -50,6 +50,12 @@
     if (!cfg) return;
 
     var tracks = buildTracks(cfg);
+    var availableSet = new Set(cfg.trackNumbers || []);
+    var displayNumbers = cfg.trackOrder || cfg.trackNumbers || [];
+    var availableIndexByNo = {};
+    tracks.forEach(function (t, i) {
+      availableIndexByNo[t.no] = i;
+    });
     var audio = document.getElementById("audio");
     var now = document.getElementById("nowPlaying");
     var list = document.getElementById("trackList");
@@ -86,16 +92,36 @@
       loadTrack(nextIndex, autoplay);
     }
 
-    tracks.forEach(function (t, i) {
+    displayNumbers.forEach(function (no) {
+      var available = availableSet.has(no);
+      var title = makeTrackTitle(no, cfg.trackTitles || {});
       var li = document.createElement("li");
       li.className = "track";
-      var btn = document.createElement("button");
-      btn.className = "track-btn";
-      btn.textContent = t.title;
-      btn.addEventListener("click", function () {
-        loadTrack(i, true);
-      });
-      li.appendChild(btn);
+
+      var row = document.createElement("div");
+      row.className = "track-row";
+
+      if (available) {
+        var btn = document.createElement("button");
+        btn.className = "track-btn";
+        btn.textContent = title;
+        btn.addEventListener("click", function () {
+          loadTrack(availableIndexByNo[no], true);
+        });
+        row.appendChild(btn);
+      } else {
+        var missing = document.createElement("div");
+        missing.className = "track-missing";
+        missing.textContent = title;
+        row.appendChild(missing);
+      }
+
+      var badge = document.createElement("span");
+      badge.className = available ? "badge ok" : "badge pending";
+      badge.textContent = available ? "掲載中" : "未掲載";
+      row.appendChild(badge);
+
+      li.appendChild(row);
       list.appendChild(li);
     });
 
