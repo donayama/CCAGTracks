@@ -54,6 +54,24 @@ button:hover {
   font-weight: 600;
 }
 
+.cover-wrap {
+  margin: 8px 0 18px;
+}
+
+.cover-image {
+  display: block;
+  width: 100%;
+  max-width: 420px;
+  height: auto;
+  border: 1px solid #2f2f2f;
+}
+
+.cover-caption {
+  margin-top: 6px;
+  color: #aaa;
+  font-size: 0.9rem;
+}
+
 .tracklist {
   list-style: none;
   padding: 0;

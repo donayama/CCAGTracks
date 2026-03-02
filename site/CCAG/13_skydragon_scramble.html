@@ -14,6 +14,8 @@
     <h2>Game Info</h2>
     <ul class="info-list">
       <li>Game: Skydragon Scramble</li>
+      <li>Platform: PlayStation 4/5 / Steam (PC) / Xbox Series X|S</li>
+      <li>Developer: Ironclad Sound AB</li>
       <li>Composer: Amara Osei-Bonsu</li>
       <li>Music Direction: Eva Lindqvist / Ironclad Sound AB</li>
       <li>Release: 2021 (Digital + Limited Physical)</li>
@@ -54,6 +56,10 @@
     </table>
 
     <h2>Album Player</h2>
+    <div id="coverWrap" class="cover-wrap">
+      <img id="coverImage" class="cover-image" alt="Album Cover">
+      <div class="cover-caption">Cover Art</div>
+    </div>
     <audio id="audio" controls preload="none" style="width: 100%;"></audio>
     <div class="controls">
       <button id="prevBtn" type="button">Prev</button>
@@ -69,6 +75,7 @@
       repo: "donayama/CCAGTracks",
       branches: ["main", "master"],
       albumFolder: "#13_skydragon_scramble",
+      coverFile: "CCAG#13_Skydragon_Scramble.png",
       filePrefix: "CCAG#13_track",
       trackNumbers: [1, 2, 3, 4, 5, 6, 7, 8, 9, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
       trackTitles: {

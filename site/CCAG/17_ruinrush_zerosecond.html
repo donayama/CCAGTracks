@@ -14,7 +14,7 @@
     <h2>Game Info</h2>
     <ul class="info-list">
       <li>Game: Ruin Rush: Zero Second</li>
-      <li>Platform: Steam / Nintendo Switch / PlayStation 4</li>
+      <li>Platform: Steam (PC) / Xbox Series X|S / PlayStation 4</li>
       <li>Developer: Breach Point Studios</li>
       <li>Release: 2022-07</li>
       <li>Genre: Dungeon escape action + time attack</li>
@@ -51,6 +51,10 @@
     </table>
 
     <h2>Album Player</h2>
+    <div id="coverWrap" class="cover-wrap">
+      <img id="coverImage" class="cover-image" alt="Album Cover">
+      <div class="cover-caption">Cover Art</div>
+    </div>
     <audio id="audio" controls preload="none" style="width: 100%;"></audio>
     <div class="controls">
       <button id="prevBtn" type="button">Prev</button>
@@ -66,6 +70,7 @@
       repo: "donayama/CCAGTracks",
       branches: ["main", "master"],
       albumFolder: "#17_ruinrush_zerosecond",
+      coverFile: "CCAG#17_RuinRush_ZeroSecond.png",
       filePrefix: "CCAG#17_track",
       trackNumbers: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17],
       trackTitles: {

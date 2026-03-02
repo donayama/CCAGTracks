@@ -24,6 +24,17 @@
     );
   }
 
+  function makeCoverUrl(repo, branch, albumFolder, coverFile) {
+    return (
+      "https://media.githubusercontent.com/media/" +
+      repo +
+      "/" + branch + "/series/CCAG/" +
+      encodeURIComponent(albumFolder) +
+      "/assets/cover/" +
+      encodeURIComponent(coverFile)
+    );
+  }
+
   function buildTracks(cfg) {
     return cfg.trackNumbers.map(function (n) {
       return {
@@ -45,6 +56,8 @@
     var prev = document.getElementById("prevBtn");
     var next = document.getElementById("nextBtn");
     var play = document.getElementById("playBtn");
+    var coverWrap = document.getElementById("coverWrap");
+    var coverImage = document.getElementById("coverImage");
     var index = 0;
     var branchIndex = 0;
 
@@ -109,6 +122,36 @@
       audio.src = makeTrackUrl(cfg.repo, b, cfg.albumFolder, cfg.filePrefix, t.no);
       audio.play().catch(function () {});
     });
+
+    if (coverWrap && coverImage) {
+      var coverFile = cfg.coverFile;
+      if (!coverFile) {
+        coverWrap.style.display = "none";
+      } else {
+        var coverBranchIndex = 0;
+        var coverBranches = cfg.branches || ["main", "master"];
+
+        function loadCover() {
+          coverImage.src = makeCoverUrl(
+            cfg.repo,
+            coverBranches[coverBranchIndex],
+            cfg.albumFolder,
+            coverFile
+          );
+        }
+
+        coverImage.addEventListener("error", function () {
+          if (coverBranchIndex + 1 >= coverBranches.length) {
+            coverWrap.style.display = "none";
+            return;
+          }
+          coverBranchIndex += 1;
+          loadCover();
+        });
+
+        loadCover();
+      }
+    }
 
     loadTrack(0, false);
   }
