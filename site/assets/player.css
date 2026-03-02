@@ -1,0 +1,75 @@
+body {
+  font-family: "Segoe UI", "Noto Sans JP", sans-serif;
+  margin: 0;
+  background: #111;
+  color: #eee;
+}
+
+main {
+  max-width: 880px;
+  margin: 0 auto;
+  padding: 24px 16px 48px;
+}
+
+h1 {
+  margin: 0 0 8px;
+  font-size: 1.8rem;
+}
+
+p {
+  margin: 0 0 16px;
+  color: #bbb;
+}
+
+a {
+  color: #7fd7ff;
+}
+
+.controls {
+  display: flex;
+  gap: 8px;
+  margin: 12px 0 18px;
+}
+
+button {
+  background: #242424;
+  border: 1px solid #444;
+  color: #eee;
+  padding: 8px 12px;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #2f2f2f;
+}
+
+.now-playing {
+  margin: 10px 0 14px;
+  color: #9fe9b3;
+  font-weight: 600;
+}
+
+.tracklist {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.tracklist li {
+  margin: 0;
+  border-top: 1px solid #2f2f2f;
+}
+
+.track-btn {
+  width: 100%;
+  text-align: left;
+  border: 0;
+  background: transparent;
+  color: #ddd;
+  padding: 10px 4px;
+}
+
+.track-btn.active {
+  color: #7fd7ff;
+  font-weight: 700;
+}

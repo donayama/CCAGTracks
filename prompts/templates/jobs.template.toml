@@ -1,0 +1,26 @@
+# 1st header comment (required): Album Title
+# 2nd header comment (required): Composed by <Artist Name>
+# 3rd header comment (required): <Label Name> / <YYYY>
+
+# Example jobs.toml template
+# `[[job]]` blocks can be repeated as needed.
+# `label` format is mandatory: "NN. Title NN-x-y"
+
+[[job]]
+label = "07. Neon Exploit 07-0-0"
+bpm = 160
+keyscale = "E minor"
+duration = 238
+tags = """
+High-energy instrumental, ... (ACE-Step caption here)
+"""
+# output_name = "CCAG_07_01_01_Neon_Exploit.mp3"
+
+[[job]]
+label = "07. Neon Exploit 07-1-0"
+bpm = 160
+keyscale = "E minor"
+duration = 238
+tags = """
+Variation 2...
+"""

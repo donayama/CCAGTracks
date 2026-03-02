@@ -1,0 +1,13 @@
+{
+  "copied": [
+    "docs/refs/LIMINAL_ATLAS_OST_Bible_v3.md",
+    "prompts/album_prompt_generator.md",
+    "tools/acestep/AceStep1.5API.json",
+    "tools/acestep/queue.py",
+    "tools/acestep/tag.py",
+    "series/CCAG/#07_neon_exploit/jobs.toml",
+    "series/CCAG/#07_neon_exploit/liner.md"
+  ],
+  "missing": [],
+  "generated_at": "2026-03-02T12:34:40.191954"
+}

@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>CCAG #13 Skydragon Scramble</title>
+  <link rel="stylesheet" href="../assets/player.css">
+</head>
+<body>
+  <main>
+    <h1>CCAG #13 Skydragon Scramble</h1>
+    <p><a href="index.html">Back to album list</a></p>
+
+    <audio id="audio" controls preload="none" style="width: 100%;"></audio>
+    <div class="controls">
+      <button id="prevBtn" type="button">Prev</button>
+      <button id="playBtn" type="button">Play</button>
+      <button id="nextBtn" type="button">Next</button>
+    </div>
+    <div id="nowPlaying" class="now-playing"></div>
+    <ul id="trackList" class="tracklist"></ul>
+  </main>
+
+  <script>
+    window.CCAG_PLAYER_CONFIG = {
+      repo: "donayama/CCAGTracks",
+      branches: ["main", "master"],
+      albumFolder: "#13_skydragon_scramble",
+      filePrefix: "CCAG#13_track",
+      trackNumbers: [1, 2, 3, 4, 5, 6, 7, 8, 9, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
+    };
+  </script>
+  <script src="../assets/player.js"></script>
+</body>
+</html>

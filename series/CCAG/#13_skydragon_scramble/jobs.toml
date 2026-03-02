@@ -1,0 +1,1257 @@
+# Skydragon Scramble Original Soundtrack
+# Composed by Amara Osei-Bonsu
+# Ironclad Sound AB / 2021
+# Released: 2021 — Digital + Limited Physical (2,000 copies)
+
+# 01. 夜明け前の格納庫 BPM: 72, Keyscale: E minor, duration: 258sec
+
+[[job]]
+label    = "01. 夜明け前の格納庫 01-0-0"
+bpm      = 72
+duration = 258
+keyscale = "E minor"
+tags     = """
+ambient orchestral soundscape with sparse tonal center
+very slow pulse from low strings sustaining long tones
+main lead: solo horn holding near-whisper notes for the motif hint
+subtle metallic creaks and distant tool clinks, accent only
+drop in density every 8 bars with brief near-silence gaps
+ascending melodic line appears once, then retreats
+clear harmonic resolution with a sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "01. 夜明け前の格納庫 01-1-0"
+bpm      = 72
+duration = 258
+keyscale = "E minor"
+tags     = """
+minimalist orchestral underscore with room-tone focus
+primary rhythmic foundation: soft timpani heartbeat every 2 bars
+main lead: solo cello in low register, slow cantabile notes
+occasional high-string harmonics, accent only
+16-bar micro-variation: small voicing shifts each cycle
+brief rise in harmonic tension, then immediate release
+natural tail with long reverb decay and sustained final chord
+"""
+
+[[job]]
+label    = "01. 夜明け前の格納庫 01-2-0"
+bpm      = 72
+duration = 258
+keyscale = "E minor"
+tags     = """
+dark field cue with restrained orchestral palette
+primary rhythmic foundation: muted bass drum taps, very sparse
+main lead: bassoon solo shaping the four-note motif in fragments
+subtle wind ambience and distant chain rattle, accent only
+rising harmonic tension across 16 bars, then drop in density
+brief flute breath-tone color, accent only
+clear harmonic resolution; no abrupt cutoff, let the room fade
+"""
+
+[[job]]
+label    = "01. 夜明け前の格納庫 01-3-0"
+bpm      = 72
+duration = 258
+keyscale = "E minor"
+tags     = """
+low-intensity orchestral drone with diegetic hangar atmosphere
+primary rhythmic foundation: slow pizzicato contrabass every bar
+main lead: solo viola, soft sustained notes with slight vibrato
+occasional muted horn punctuations, accent only
+8-bar rhythmic variation: rests shift by one beat each cycle
+brief swell to midrange strings, then drop in density
+end with sustained final chord and gentle decay, no abrupt cutoff
+"""
+
+
+# 02. 騎士団の誓い BPM: 96, Keyscale: G major, duration: 224sec
+
+[[job]]
+label    = "02. 騎士団の誓い 02-0-0"
+bpm      = 96
+duration = 224
+keyscale = "G major"
+tags     = """
+march-like orchestral field cue with restrained metal influence
+primary rhythmic foundation: muted snare with steady quarter pulse
+main lead: muted brass ensemble stating the four-note fanfare clearly
+subtle timpani rolls, accent only
+16-bar micro-variation: brass voicing shifts, same motif shape
+brief rise in harmonic tension before each cadence
+clear harmonic resolution with a sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "02. 騎士団の誓い 02-1-0"
+bpm      = 96
+duration = 224
+keyscale = "G major"
+tags     = """
+orchestral oath theme with measured forward motion
+primary rhythmic foundation: string pizzicato eighth-note engine
+main lead: solo trumpet (muted) carrying a compact fanfare line
+occasional low horn hit, accent only
+8-bar rhythmic variation: pizzicato accent pattern shifts subtly
+drop in density for a brief mid-track pause, then return
+end on clear harmonic resolution, sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "02. 騎士団の誓い 02-2-0"
+bpm      = 96
+duration = 224
+keyscale = "G major"
+tags     = """
+tight orchestral cue with disciplined dynamics
+primary rhythmic foundation: light toms and kick in simple march grid
+main lead: solo french horn presenting the motif with clear intervals
+subtle harp arpeggio flickers, accent only
+16-bar micro-variation: upper strings alternate arco and pizzicato
+brief rising harmonic tension into a single brass hit
+natural ending with sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "02. 騎士団の誓い 02-3-0"
+bpm      = 96
+duration = 224
+keyscale = "G major"
+tags     = """
+JRPG-style assembly theme with clean orchestral focus
+primary rhythmic foundation: steady ostinato in low strings (eighth notes)
+main lead: clarinet solo singing the fanfare as a rounded melody
+occasional muted brass stabs, accent only
+8-bar variation: ostinato swaps register every cycle
+drop in density for a short breath, then return to full pulse
+close with clear harmonic resolution and sustained final chord
+"""
+
+
+# 03. 第一翼、離陸 BPM: 180, Keyscale: E minor, duration: 302sec
+
+[[job]]
+label    = "03. 第一翼、離陸 03-0-0"
+bpm      = 180
+duration = 302
+keyscale = "E minor"
+tags     = """
+symphonic metal battle cue with JRPG battle grammar
+primary rhythmic foundation: double-kick pattern with tight snare backbeat
+main lead: male chorus in unison “oh” driving the hook
+subtle brass hits on downbeats, accent only
+16-bar micro-variation: string tremolo pattern shifts every cycle
+immediate high-energy entry; later section doubles drum subdivision for acceleration
+clear harmonic resolution with a sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "03. 第一翼、離陸 03-1-0"
+bpm      = 180
+duration = 302
+keyscale = "E minor"
+tags     = """
+symphonic metal sortie theme with controlled density
+primary rhythmic foundation: gallop rhythm in low strings and rhythm guitar
+main lead: electric lead guitar with a singing single-note line
+occasional male chorus stabs, accent only
+8-bar rhythmic variation: snare ghost-note pattern shifts slightly
+brief rising harmonic tension before the main refrain returns
+end with clear harmonic resolution and sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "03. 第一翼、離陸 03-2-0"
+bpm      = 180
+duration = 302
+keyscale = "E minor"
+tags     = """
+orchestral-meets-metal battle track with fast internal motion
+primary rhythmic foundation: 16th-note string chugs locked to kick drum
+main lead: first violins in sharp unison hook line
+subtle low brass punches, accent only
+16-bar micro-variation: hook line shifts by one beat in the second pass
+immediate high-energy entry; expanded final section with thicker choir support
+natural ending with sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "03. 第一翼、離陸 03-3-0"
+bpm      = 180
+duration = 302
+keyscale = "E minor"
+tags     = """
+fast aerial battle cue with symphonic metal backbone
+primary rhythmic foundation: steady double-kick with syncopated rhythm guitar
+main lead: male chorus holding long unison “oh” over the riff grid
+occasional dragon roar sample as a brief accent only
+8-bar variation: cymbal pattern rotates between ride and hats
+drop in density for a short mid-track break, then immediate return to full pulse
+finish on clear harmonic resolution with sustained final chord
+"""
+
+
+# 04. 雲海の哨戒 BPM: 118, Keyscale: G major, duration: 295sec
+
+[[job]]
+label    = "04. 雲海の哨戒 04-0-0"
+bpm      = 118
+duration = 295
+keyscale = "G major"
+tags     = """
+orchestral field cruise cue with light propulsion
+primary rhythmic foundation: soft shaker and pizzicato strings in eighth notes
+main lead: solo flute carrying a clear, singable melody
+subtle harp arpeggios, accent only
+16-bar micro-variation: melody ornaments change each cycle
+brief rising harmonic tension into a calm cadence
+end with sustained final chord and no abrupt cutoff
+"""
+
+[[job]]
+label    = "04. 雲海の哨戒 04-1-0"
+bpm      = 118
+duration = 295
+keyscale = "G major"
+tags     = """
+mid-tempo orchestral travel theme with steady airship feel
+primary rhythmic foundation: low strings ostinato with gentle syncopation
+main lead: solo oboe with a narrow-range lyrical line
+occasional horn long-tone swells, accent only
+8-bar rhythmic variation: ostinato accent shifts by one eighth note
+drop in density for a brief open-sky pause
+close with clear harmonic resolution, sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "04. 雲海の哨戒 04-2-0"
+bpm      = 118
+duration = 295
+keyscale = "G major"
+tags     = """
+orchestral patrol loop with clean tonal stability
+primary rhythmic foundation: marimba-like mallet pulse (soft) with strings
+main lead: solo violin in mid register, smooth legato line
+subtle flute counterline, accent only
+16-bar micro-variation: counterline enters every other cycle
+brief rise in harmonic tension, then drop in density to strings only
+natural ending on sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "04. 雲海の哨戒 04-3-0"
+bpm      = 118
+duration = 295
+keyscale = "G major"
+tags     = """
+sunlit field BGM with orchestral clarity and low fatigue
+primary rhythmic foundation: brushed snare + soft kick, simple groove
+main lead: solo flute stating the motif as a longer phrase
+occasional harp harmonics, accent only
+8-bar variation: brush pattern changes while tempo stays fixed
+ascending melodic line in the final third, then clear harmonic resolution
+end with sustained final chord, no abrupt cutoff
+"""
+
+
+# 05. 敵影、正面 BPM: 174, Keyscale: D minor, duration: 208sec
+
+[[job]]
+label    = "05. 敵影、正面 05-0-0"
+bpm      = 174
+duration = 208
+keyscale = "D minor"
+tags     = """
+symphonic metal skirmish opener without choir
+primary rhythmic foundation: double-kick with marching snare accents
+main lead: electric rhythm guitar riff as the central hook
+subtle brass hits (1–2 notes), accent only
+16-bar micro-variation: riff tail changes every cycle
+brief rising harmonic tension into a tighter second pass
+end with clear harmonic resolution and sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "05. 敵影、正面 05-1-0"
+bpm      = 174
+duration = 208
+keyscale = "D minor"
+tags     = """
+fast encounter cue with orchestral bite and controlled density
+primary rhythmic foundation: 16th-note string chugs locked to kick
+main lead: trumpets (muted) stating short call motifs
+occasional single-note lead guitar squeal, accent only
+8-bar rhythmic variation: cymbal placement shifts subtly
+drop in density for a brief bar, then immediate return to full pulse
+finish on sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "05. 敵影、正面 05-2-0"
+bpm      = 174
+duration = 208
+keyscale = "D minor"
+tags     = """
+JRPG-style combat start with tight orchestral rhythm
+primary rhythmic foundation: staccato low strings + kick in unison
+main lead: first violins in aggressive unison line
+subtle low brass punches, accent only
+16-bar micro-variation: violin line shifts register every cycle
+brief rising harmonic tension before the final push
+natural ending with clear harmonic resolution and sustained final chord
+"""
+
+[[job]]
+label    = "05. 敵影、正面 05-3-0"
+bpm      = 174
+duration = 208
+keyscale = "D minor"
+tags     = """
+mid-battle engagement cue with metal-orchestra lockstep
+primary rhythmic foundation: snare-driven march overlaying double-kick
+main lead: electric lead guitar single-note motif, tight phrasing
+occasional timpani roll, accent only
+8-bar variation: march accents rotate while riff stays constant
+drop in density for a short break with strings only
+end with sustained final chord and no abrupt cutoff
+"""
+
+
+# 06. ルーク機の最後 BPM: 58, Keyscale: A minor, duration: 333sec
+
+[[job]]
+label    = "06. ルーク機の最後 06-0-0"
+bpm      = 58
+duration = 333
+keyscale = "A minor"
+tags     = """
+slow elegy with minimal orchestral writing and long breaths
+primary rhythmic foundation: almost none, sparse pulse implied by bass
+main lead: solo cello singing a narrow, held melody
+subtle two-violin harmonies enter briefly, accent only
+16-bar micro-variation: melody phrasing shortens each cycle
+rising harmonic tension near the end, then sudden drop in density
+close with clear harmonic resolution and sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "06. ルーク機の最後 06-1-0"
+bpm      = 58
+duration = 333
+keyscale = "A minor"
+tags     = """
+funeral-adjacent slow piece with motion inside restraint
+primary rhythmic foundation: soft hand drum heartbeat every 2 bars
+main lead: solo cello with a descending melodic line
+occasional contrabass swell, accent only
+8-bar variation: heartbeat shifts to off-beat for one cycle
+brief rise in harmonic tension, then return to near-stillness
+end naturally with sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "06. ルーク機の最後 06-2-0"
+bpm      = 58
+duration = 333
+keyscale = "A minor"
+tags     = """
+sparse memorial cue with clear tonal center and wide space
+primary rhythmic foundation: slow piano single notes marking bars
+main lead: solo cello in mid register, long arco lines
+subtle string harmonics, accent only
+16-bar micro-variation: piano notes change interval each cycle
+drop in density to near-silence before the last phrase
+finish with clear harmonic resolution and sustained final chord
+"""
+
+[[job]]
+label    = "06. ルーク機の最後 06-3-0"
+bpm      = 58
+duration = 333
+keyscale = "A minor"
+tags     = """
+slow orchestral lament with minimal moving parts
+primary rhythmic foundation: soft low-string pulse, one note per bar
+main lead: solo cello stating the four-note motif in stretched time
+occasional oboe breath tone, accent only
+8-bar variation: pulse switches to two notes per bar briefly
+brief rising harmonic tension, then drop in density for the final bars
+end with sustained final chord, no abrupt cutoff
+"""
+
+
+# 07. 嵐の中の編隊 BPM: 180, Keyscale: E minor, duration: 287sec
+
+[[job]]
+label    = "07. 嵐の中の編隊 07-0-0"
+bpm      = 180
+duration = 287
+keyscale = "E minor"
+tags     = """
+storm-battle symphonic metal with SE-integrated percussion feel
+primary rhythmic foundation: double-kick with tight snare grid
+main lead: electric lead guitar cutting through with short hook phrases
+occasional thunder crack sample as brief accent only
+16-bar micro-variation: cymbal pattern shifts every cycle
+immediate high-energy entry; rising harmonic tension into expanded final section
+end on sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "07. 嵐の中の編隊 07-1-0"
+bpm      = 180
+duration = 287
+keyscale = "E minor"
+tags     = """
+symphonic metal melee with choir used as weight, not melody
+primary rhythmic foundation: string chugs in 16ths locked to kick
+main lead: male chorus unison “oh” as the primary hook carrier
+subtle brass hits aligned to lightning moments, accent only
+8-bar rhythmic variation: snare ghost notes shift subtly
+drop in density to strings-only for a short bar, then return
+finish with clear harmonic resolution and sustained final chord
+"""
+
+[[job]]
+label    = "07. 嵐の中の編隊 07-2-0"
+bpm      = 180
+duration = 287
+keyscale = "E minor"
+tags     = """
+high-tempo battle cue with orchestral propulsion and rain-swept feel
+primary rhythmic foundation: tremolo strings + kick in unison
+main lead: first violins in sharp unison line, short phrases
+occasional wind gust noise, accent only
+16-bar micro-variation: violin line shifts register on repeat
+brief rising harmonic tension before the last refrain
+end naturally with sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "07. 嵐の中の編隊 07-3-0"
+bpm      = 180
+duration = 287
+keyscale = "E minor"
+tags     = """
+aerial dogfight track with metal backbone and controlled changes
+primary rhythmic foundation: syncopated rhythm guitar over double-kick
+main lead: electric lead guitar single-note motif, tight articulation
+subtle male chorus stabs, accent only
+8-bar variation: syncopation pattern rotates while tempo stays fixed
+drop in density for a brief mid-track break, then expanded final section
+close with clear harmonic resolution and sustained final chord
+"""
+
+# 08. 要塞艦接近 BPM: 148, Keyscale: D minor, duration: 192sec
+
+[[job]]
+label    = "08. 要塞艦接近 08-0-0"
+bpm      = 148
+duration = 192
+keyscale = "D minor"
+tags     = """
+tense orchestral approach cue with heavy mass feeling
+primary rhythmic foundation: low strings pizzicato in steady eighth notes
+main lead: solo horn in low register, slow signal-like notes
+subtle timpani distant rolls, accent only
+16-bar micro-variation: pizzicato pattern shifts one beat each cycle
+rising harmonic tension through repeated pedal tones
+end with clear harmonic resolution and sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "08. 要塞艦接近 08-1-0"
+bpm      = 148
+duration = 192
+keyscale = "D minor"
+tags     = """
+boss-approach field battle cue with restrained metal edge
+primary rhythmic foundation: muted tom groove with steady kick
+main lead: solo bassoon shaping short warning phrases
+occasional low brass hit, accent only
+8-bar rhythmic variation: tom accent pattern rotates subtly
+drop in density for a brief bar of strings only
+finish with clear harmonic resolution and sustained final chord
+"""
+
+[[job]]
+label    = "08. 要塞艦接近 08-2-0"
+bpm      = 148
+duration = 192
+keyscale = "D minor"
+tags     = """
+orchestral suspense loop with clear tonal center and pressure build
+primary rhythmic foundation: tremolo strings over slow kick pulses
+main lead: solo trombone stating a compact descending line
+subtle cymbal swells, accent only
+16-bar micro-variation: tremolo voicing shifts each cycle
+brief rise in harmonic tension, then drop in density before cadence
+end naturally with sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "08. 要塞艦接近 08-3-0"
+bpm      = 148
+duration = 192
+keyscale = "D minor"
+tags     = """
+approach-to-boss cue with steady forward pull
+primary rhythmic foundation: contrabass ostinato in eighth notes
+main lead: solo clarinet in low register, narrow-range motif
+occasional horn long-tone swell, accent only
+8-bar variation: ostinato accent shifts by one eighth note
+rising harmonic tension into a single brass hit, then release
+close with clear harmonic resolution and sustained final chord
+"""
+
+# 09. 鉄の女王 BPM: 180, Keyscale: F minor, duration: 292sec
+
+[[job]]
+label    = "09. 鉄の女王 09-0-0"
+bpm      = 180
+duration = 292
+keyscale = "F minor"
+tags     = """
+boss battle symphonic metal with rigid, machine-like pulse
+primary rhythmic foundation: double-kick with strict snare grid
+main lead: male chorus octave-unison “oh” as the central hook
+subtle metallic percussion ticks, accent only
+16-bar micro-variation: string chug pattern shifts every cycle
+immediate high-energy entry; brief rising harmonic tension before final section
+end with clear harmonic resolution and sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "09. 鉄の女王 09-1-0"
+bpm      = 180
+duration = 292
+keyscale = "F minor"
+tags     = """
+symphonic metal boss theme with darker orchestral weight
+primary rhythmic foundation: 16th-note low strings locked to kick
+main lead: electric lead guitar with a sharp single-note hook
+occasional male chorus stabs, accent only
+8-bar rhythmic variation: cymbal pattern rotates while riff stays fixed
+drop in density for a short break, then return to main riff
+finish with sustained final chord and no abrupt cutoff
+"""
+
+[[job]]
+label    = "09. 鉄の女王 09-2-0"
+bpm      = 180
+duration = 292
+keyscale = "F minor"
+tags     = """
+orchestral-metal boss cue with clear motif confrontation
+primary rhythmic foundation: syncopated rhythm guitar over double-kick
+main lead: low brass choir stating the four-note motif
+subtle choir breath layer, accent only
+16-bar micro-variation: brass voicing widens slightly in second pass
+brief rising harmonic tension before final refrain
+end on clear harmonic resolution with sustained final chord
+"""
+
+[[job]]
+label    = "09. 鉄の女王 09-3-0"
+bpm      = 180
+duration = 292
+keyscale = "F minor"
+tags     = """
+first-form boss battle with disciplined structure
+primary rhythmic foundation: marching snare overlaying double-kick
+main lead: male chorus unison “oh” sustaining over riff blocks
+occasional pipe organ stab, accent only
+8-bar variation: snare accent shifts while harmony stays stable
+rising harmonic tension into final push
+end with sustained final chord and no abrupt cutoff
+"""
+
+
+# 10. 女王、覚醒 BPM: 180, Keyscale: F# minor, duration: 298sec
+
+[[job]]
+label    = "10. 女王、覚醒 10-0-0"
+bpm      = 180
+duration = 298
+keyscale = "F# minor"
+tags     = """
+second-form boss symphonic metal with sharper top layer
+primary rhythmic foundation: double-kick with tight snare grid
+main lead: solo soprano voice on wordless sustained tones
+subtle male chorus underlay, accent only
+16-bar micro-variation: string chug voicing shifts each cycle
+immediate high-energy entry; expanded final section with fuller choir support
+end with clear harmonic resolution and sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "10. 女王、覚醒 10-1-0"
+bpm      = 180
+duration = 298
+keyscale = "F# minor"
+tags     = """
+awakened boss cue with metal backbone and vocal highlight
+primary rhythmic foundation: 16th-note low strings locked to kick
+main lead: solo soprano voice in short, high-register phrases
+occasional organ stab, accent only
+8-bar rhythmic variation: cymbal placement shifts subtly
+brief rising harmonic tension before final refrain
+close with sustained final chord and no abrupt cutoff
+"""
+
+[[job]]
+label    = "10. 女王、覚醒 10-2-0"
+bpm      = 180
+duration = 298
+keyscale = "F# minor"
+tags     = """
+orchestral-metal escalation with compact dramatic arc
+primary rhythmic foundation: syncopated rhythm guitar over double-kick
+main lead: electric lead guitar carrying the main hook line
+subtle soprano single-note entry, accent only
+16-bar micro-variation: hook line shifts register in second pass
+drop in density for a short mid-section break
+end naturally with clear harmonic resolution and sustained final chord
+"""
+
+[[job]]
+label    = "10. 女王、覚醒 10-3-0"
+bpm      = 180
+duration = 298
+keyscale = "F# minor"
+tags     = """
+second-form boss theme with iron-and-voice contrast
+primary rhythmic foundation: steady double-kick with marching snare accents
+main lead: solo soprano sustaining long tones above the riff
+occasional low brass hit, accent only
+8-bar variation: snare ghost-note pattern shifts subtly
+brief rising harmonic tension into expanded final push
+finish with sustained final chord and no abrupt cutoff
+"""
+
+
+# 11. 龍と人の証明 BPM: 180, Keyscale: E minor, duration: 299sec
+
+[[job]]
+label    = "11. 龍と人の証明 11-0-0"
+bpm      = 180
+duration = 299
+keyscale = "E minor"
+tags     = """
+climax symphonic metal battle with motif convergence
+primary rhythmic foundation: double-kick with steady snare grid
+main lead: male chorus unison “oh” carrying the four-note fanfare
+subtle female choir layer, accent only
+16-bar micro-variation: fanfare shifts to higher register each cycle
+immediate high-energy entry; expanded final section with full unison fanfare
+end with clear harmonic resolution and sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "11. 龍と人の証明 11-1-0"
+bpm      = 180
+duration = 299
+keyscale = "E minor"
+tags     = """
+final battle cue with condensed long-form shape
+primary rhythmic foundation: 16th-note string chugs locked to kick
+main lead: electric lead guitar singing the fanfare as focused phrase
+occasional dragon roar sample, accent only
+8-bar rhythmic variation: cymbal pattern rotates while riff stays stable
+brief rising harmonic tension before final refrain
+close with sustained final chord and no abrupt cutoff
+"""
+
+[[job]]
+label    = "11. 龍と人の証明 11-2-0"
+bpm      = 180
+duration = 299
+keyscale = "E minor"
+tags     = """
+orchestral-metal climax with structured motif handoff
+primary rhythmic foundation: syncopated rhythm guitar over double-kick
+main lead: first violins in unison stating the four-note fanfare
+subtle male chorus breaths, accent only
+16-bar micro-variation: violin line shifts register upward
+drop in density for a short break, then expanded final refrain
+end on clear harmonic resolution with sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "11. 龍と人の証明 11-3-0"
+bpm      = 180
+duration = 299
+keyscale = "E minor"
+tags     = """
+climactic battle track optimized under five-minute constraint
+primary rhythmic foundation: tremolo strings aligned to kick drum grid
+main lead: male chorus unison “oh” in steady sustained holds
+occasional brass hit (1–2 notes), accent only
+8-bar variation: tremolo voicing shifts while harmony remains stable
+brief rising harmonic tension into final cadence
+end with sustained final chord and no abrupt cutoff
+"""
+
+# 12. 落日の編隊 BPM: 84, Keyscale: C minor, duration: 261sec
+
+[[job]]
+label    = "12. 落日の編隊 12-0-0"
+bpm      = 84
+duration = 261
+keyscale = "C minor"
+tags     = """
+pre-final-sortie quiet cue with deliberate space
+primary rhythmic foundation: slow string pulse, one note per bar
+main lead: solo flute at distant, breathy dynamic
+subtle horn long-tone swells, accent only
+16-bar micro-variation: flute phrase length shortens each cycle
+drop in density into brief near-silence gaps
+end with clear harmonic resolution and sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "12. 落日の編隊 12-1-0"
+bpm      = 84
+duration = 261
+keyscale = "C minor"
+tags     = """
+quiet formation cue with large silence percentage
+primary rhythmic foundation: sparse piano notes marking bars
+main lead: solo horn near-whisper long tones
+subtle wind ambience, accent only
+8-bar rhythmic variation: piano spacing shifts subtly
+drop in density into a short silence, then return for final cadence
+end with clear harmonic resolution and sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "12. 落日の編隊 12-2-0"
+bpm      = 84
+duration = 261
+keyscale = "C minor"
+tags     = """
+slow orchestral stillness with controlled tonal stability
+primary rhythmic foundation: soft timpani heartbeat every 2 bars
+main lead: solo cello in mid register, long held notes
+occasional high-string harmonics, accent only
+16-bar micro-variation: heartbeat shifts off-beat for one cycle
+brief rising harmonic tension, then drop in density to strings only
+close with sustained final chord and no abrupt cutoff
+"""
+
+[[job]]
+label    = "12. 落日の編隊 12-3-0"
+bpm      = 84
+duration = 261
+keyscale = "C minor"
+tags     = """
+pre-sortie pause with open air and minimal motion
+primary rhythmic foundation: low strings legato pulse in half notes
+main lead: solo flute stating stretched four-note motif
+occasional harp harmonics, accent only
+8-bar variation: pulse switches briefly to quarter notes
+drop in density into a bar of silence before last phrase
+finish with clear harmonic resolution and sustained final chord
+"""
+
+# 13. 帰還なき飛翔 BPM: 180, Keyscale: E minor, duration: 286sec
+
+[[job]]
+label    = "13. 帰還なき飛翔 13-0-0"
+bpm      = 180
+duration = 286
+keyscale = "E minor"
+tags     = """
+final sortie symphonic metal with tightened structural arc
+primary rhythmic foundation: double-kick locked to low string chugs
+main lead: electric lead guitar stating the four-note fanfare
+subtle conga and bongo layer, accent only
+16-bar micro-variation: riff tail shifts rhythmically in second pass
+immediate high-energy entry; brief rising harmonic tension before final push
+end with clear harmonic resolution and sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "13. 帰還なき飛翔 13-1-0"
+bpm      = 180
+duration = 286
+keyscale = "E minor"
+tags     = """
+decisive assault cue with compact intensity profile
+primary rhythmic foundation: syncopated rhythm guitar over double-kick
+main lead: male chorus unison “oh” entering only in final section
+subtle hand percussion patterns, accent only
+8-bar rhythmic variation: snare ghost notes rotate subtly
+drop in density for a short mid-track break
+close with sustained final chord and no abrupt cutoff
+"""
+
+[[job]]
+label    = "13. 帰還なき飛翔 13-2-0"
+bpm      = 180
+duration = 286
+keyscale = "E minor"
+tags     = """
+last-charge battle track with condensed motif recall
+primary rhythmic foundation: tremolo strings aligned with kick drum grid
+main lead: first violins in sharp unison hook line
+occasional low brass hit (1–2 notes), accent only
+16-bar micro-variation: violin line shifts to higher register
+brief rising harmonic tension before final refrain
+end naturally with clear harmonic resolution and sustained final chord
+"""
+
+[[job]]
+label    = "13. 帰還なき飛翔 13-3-0"
+bpm      = 180
+duration = 286
+keyscale = "E minor"
+tags     = """
+high-tempo finale assault with shortened dramatic arc
+primary rhythmic foundation: steady double-kick with tight snare grid
+main lead: electric lead guitar carrying ascending melodic line
+subtle male chorus stabs, accent only
+8-bar variation: cymbal pattern shifts while harmony stays stable
+brief rising harmonic tension into final cadence
+finish with sustained final chord and no abrupt cutoff
+"""
+
+# 14. 勝利、しかし沈黙 BPM: 64, Keyscale: G minor, duration: 238sec
+
+[[job]]
+label    = "14. 勝利、しかし沈黙 14-0-0"
+bpm      = 64
+duration = 238
+keyscale = "G minor"
+tags     = """
+post-battle stillness cue with restrained orchestral texture
+primary rhythmic foundation: slow string pulse in whole notes
+main lead: solo oboe in distant register, short held tones
+subtle wind ambience layer, accent only
+16-bar micro-variation: oboe phrase spacing widens each cycle
+drop in density into near-silence for several bars
+end with clear harmonic resolution and sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "14. 勝利、しかし沈黙 14-1-0"
+bpm      = 64
+duration = 238
+keyscale = "G minor"
+tags     = """
+quiet aftermath piece with open harmonic space
+primary rhythmic foundation: soft contrabass notes marking each bar
+main lead: solo clarinet in low register, narrow-range motif
+occasional high-string harmonic shimmer, accent only
+8-bar variation: bass note shifts inversion subtly
+brief rising harmonic tension, then drop in density to near-stillness
+close with sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "14. 勝利、しかし沈黙 14-2-0"
+bpm      = 64
+duration = 238
+keyscale = "G minor"
+tags     = """
+slow orchestral reflection with minimal movement
+primary rhythmic foundation: sparse piano notes every two bars
+main lead: solo violin in soft legato phrasing
+subtle oboe echo tone, accent only
+16-bar micro-variation: piano interval widens slightly each cycle
+rising harmonic tension held briefly before final cadence
+end naturally with sustained final chord and no abrupt cutoff
+"""
+
+[[job]]
+label    = "14. 勝利、しかし沈黙 14-3-0"
+bpm      = 64
+duration = 238
+keyscale = "G minor"
+tags     = """
+aftermath field cue with large dynamic restraint
+primary rhythmic foundation: low strings sustained pedal tone
+main lead: solo oboe holding long, breath-focused notes
+occasional distant horn swell, accent only
+8-bar variation: pedal shifts to upper octave briefly
+drop in density into a bar of silence before final phrase
+finish with clear harmonic resolution and sustained final chord
+"""
+
+
+# 15. 空だけが知っている BPM: 88, Keyscale: G major, duration: 311sec
+
+[[job]]
+label    = "15. 空だけが知っている 15-0-0"
+bpm      = 88
+duration = 298
+keyscale = "G major"
+tags     = """
+gentle post-war field theme with warm tonal center
+primary rhythmic foundation: soft piano eighth-note pattern
+main lead: solo piano in mid register, clear melodic line
+subtle flute counterline, accent only
+16-bar micro-variation: piano voicing shifts slightly each cycle
+brief rising harmonic tension before returning to stable tonic
+end with sustained final chord and no abrupt cutoff
+"""
+
+[[job]]
+label    = "15. 空だけが知っている 15-1-0"
+bpm      = 88
+duration = 298
+keyscale = "G major"
+tags     = """
+mid-tempo orchestral epilogue with steady forward feel
+primary rhythmic foundation: light brushed snare with soft kick
+main lead: solo flute carrying a rounded melody
+occasional harp arpeggio, accent only
+8-bar variation: brush accent pattern rotates subtly
+drop in density for a brief open-air pause
+close with clear harmonic resolution and sustained final chord
+"""
+
+[[job]]
+label    = "15. 空だけが知っている 15-2-0"
+bpm      = 88
+duration = 298
+keyscale = "G major"
+tags     = """
+reflective field cue with calm propulsion
+primary rhythmic foundation: low strings ostinato in eighth notes
+main lead: solo violin in soft legato phrasing
+subtle piano single-note accents, accent only
+16-bar micro-variation: ostinato shifts register each cycle
+brief rising harmonic tension before final refrain
+end naturally with sustained final chord and no abrupt cutoff
+"""
+
+[[job]]
+label    = "15. 空だけが知っている 15-3-0"
+bpm      = 88
+duration = 298
+keyscale = "G major"
+tags     = """
+post-ending travel theme with stable harmonic frame
+primary rhythmic foundation: gentle piano pulse with light bass support
+main lead: solo oboe presenting a narrow-range motif
+occasional string swell, accent only
+8-bar variation: pulse switches briefly to half-time feel
+drop in density into a soft bridge, then return
+finish with sustained final chord and no abrupt cutoff
+"""
+
+
+# 16. 竜の子守唄 BPM: 52, Keyscale: A minor, duration: 284sec
+
+[[job]]
+label    = "16. 竜の子守唄 16-0-0"
+bpm      = 52
+duration = 284
+keyscale = "A minor"
+tags     = """
+slow lullaby with minimal orchestral texture
+primary rhythmic foundation: sparse piano notes marking each bar
+main lead: solo cello in soft cantabile phrasing
+subtle high-string harmonics, accent only
+16-bar micro-variation: cello phrase shortens gradually
+brief rising harmonic tension before final cadence
+end with clear harmonic resolution and sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "16. 竜の子守唄 16-1-0"
+bpm      = 52
+duration = 284
+keyscale = "A minor"
+tags     = """
+staff-roll first half cue with restrained tonal focus
+primary rhythmic foundation: low strings holding long pedal tones
+main lead: solo piano stating the four-note motif slowly
+occasional cello echo phrase, accent only
+8-bar variation: pedal shifts up an octave briefly
+drop in density to near-silence before final statement
+close with sustained final chord and no abrupt cutoff
+"""
+
+[[job]]
+label    = "16. 竜の子守唄 16-2-0"
+bpm      = 52
+duration = 284
+keyscale = "A minor"
+tags     = """
+quiet memorial lullaby with clear melodic center
+primary rhythmic foundation: soft contrabass note every two bars
+main lead: solo cello in low register, descending melodic line
+subtle piano high notes, accent only
+16-bar micro-variation: cello line adds one passing tone each cycle
+brief rising harmonic tension, then clear harmonic resolution
+end naturally with sustained final chord and no abrupt cutoff
+"""
+
+[[job]]
+label    = "16. 竜の子守唄 16-3-0"
+bpm      = 52
+duration = 284
+keyscale = "A minor"
+tags     = """
+slow orchestral lullaby with large silence percentage
+primary rhythmic foundation: minimal piano pulse, very sparse
+main lead: solo cello sustaining long, warm notes
+occasional oboe breath tone, accent only
+8-bar variation: piano pulse doubles briefly then returns
+drop in density into a final near-silence bar
+finish with sustained final chord and no abrupt cutoff
+"""
+
+# 17. スクランブル（リプライズ） BPM: 180, Keyscale: E minor, duration: 213sec
+
+[[job]]
+label    = "17. スクランブル（リプライズ） 17-0-0"
+bpm      = 180
+duration = 213
+keyscale = "E minor"
+tags     = """
+string-quartet battle reprise with reduced symphonic metal phrasing
+primary rhythmic foundation: staccato cello eighth-note engine
+main lead: first violin in sharp unison hook line
+subtle second violin tremolo, accent only
+16-bar micro-variation: hook shifts up one scale degree in second cycle
+immediate high-energy entry; brief rising harmonic tension before final pass
+end with clear harmonic resolution and sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "17. スクランブル（リプライズ） 17-1-0"
+bpm      = 180
+duration = 213
+keyscale = "E minor"
+tags     = """
+chamber-style battle cue with tight articulation
+primary rhythmic foundation: viola ostinato in steady sixteenth notes
+main lead: first violin carrying the four-note fanfare clearly
+occasional cello accent slide, accent only
+8-bar rhythmic variation: ostinato accent shifts subtly
+drop in density for a short violin-only bar, then return
+close with sustained final chord and no abrupt cutoff
+"""
+
+[[job]]
+label    = "17. スクランブル（リプライズ） 17-2-0"
+bpm      = 180
+duration = 213
+keyscale = "E minor"
+tags     = """
+high-tempo quartet reprise with focused melodic presence
+primary rhythmic foundation: cello and viola in unison rhythmic chug
+main lead: first violin with ascending melodic line derived from the motif
+subtle harmonic double-stops, accent only
+16-bar micro-variation: melody gains one extra pickup note each cycle
+brief rising harmonic tension into expanded final section
+end naturally with sustained final chord and no abrupt cutoff
+"""
+
+[[job]]
+label    = "17. スクランブル（リプライズ） 17-3-0"
+bpm      = 180
+duration = 213
+keyscale = "E minor"
+tags     = """
+string ensemble reprise built for sustained focus
+primary rhythmic foundation: repeated lower-string eighth notes
+main lead: first violin in narrow-range repeated hook
+occasional pizzicato accent, accent only
+8-bar variation: pizzicato replaces arco briefly in one cycle
+drop in density for a short mid-track break
+finish with clear harmonic resolution and sustained final chord
+"""
+
+
+# 18. 格納庫、夜明け後 BPM: 76, Keyscale: E minor, duration: 242sec
+
+[[job]]
+label    = "18. 格納庫、夜明け後 18-0-0"
+bpm      = 76
+duration = 242
+keyscale = "E minor"
+tags     = """
+ambient orchestral epilogue with restrained motion
+primary rhythmic foundation: low string pulse in half notes
+main lead: solo horn holding long, quiet tones
+subtle metallic resonance, accent only
+16-bar micro-variation: horn phrase shortens slightly each cycle
+drop in density into brief near-silence gaps
+end with clear harmonic resolution and sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "18. 格納庫、夜明け後 18-1-0"
+bpm      = 76
+duration = 242
+keyscale = "E minor"
+tags     = """
+post-war hangar cue with empty space focus
+primary rhythmic foundation: sparse piano notes marking bars
+main lead: solo viola in soft legato phrasing
+occasional distant low brass swell, accent only
+8-bar variation: piano interval shifts subtly
+brief rising harmonic tension before final cadence
+close with sustained final chord and no abrupt cutoff
+"""
+
+[[job]]
+label    = "18. 格納庫、夜明け後 18-2-0"
+bpm      = 76
+duration = 242
+keyscale = "E minor"
+tags     = """
+quiet orchestral reflection with minimal layers
+primary rhythmic foundation: contrabass pedal tone across several bars
+main lead: solo clarinet in low register, short held tones
+subtle string harmonics, accent only
+16-bar micro-variation: pedal shifts up one octave briefly
+drop in density to near-silence before final phrase
+end naturally with sustained final chord and no abrupt cutoff
+"""
+
+[[job]]
+label    = "18. 格納庫、夜明け後 18-3-0"
+bpm      = 76
+duration = 242
+keyscale = "E minor"
+tags     = """
+slow epilogue cue with clear tonal stability
+primary rhythmic foundation: soft low strings in sustained chords
+main lead: solo oboe shaping a narrow descending melodic line
+occasional metal creak sample, accent only
+8-bar variation: chord inversion shifts subtly
+brief rising harmonic tension before final release
+finish with sustained final chord and no abrupt cutoff
+"""
+
+
+# 19. 第二翼のテーマ（未使用稿） BPM: 168, Keyscale: B minor, duration: 269sec
+
+[[job]]
+label    = "19. 第二翼のテーマ（未使用稿） 19-0-0"
+bpm      = 168
+duration = 269
+keyscale = "B minor"
+tags     = """
+unused character theme with orchestral lightness
+primary rhythmic foundation: piano arpeggio in steady eighth notes
+main lead: solo violin carrying a lyrical mid-range melody
+subtle string pad support, accent only
+16-bar micro-variation: melody ornament changes each cycle
+brief rising harmonic tension before returning to tonic
+end with clear harmonic resolution and sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "19. 第二翼のテーマ（未使用稿） 19-1-0"
+bpm      = 168
+duration = 269
+keyscale = "B minor"
+tags     = """
+character field theme with moderate forward motion
+primary rhythmic foundation: low strings ostinato in eighth notes
+main lead: solo violin stating a clear ascending melodic line
+occasional piano high-note accent, accent only
+8-bar rhythmic variation: ostinato accent shifts subtly
+drop in density for a brief violin-only bar
+close with sustained final chord and no abrupt cutoff
+"""
+
+[[job]]
+label    = "19. 第二翼のテーマ（未使用稿） 19-2-0"
+bpm      = 168
+duration = 269
+keyscale = "B minor"
+tags     = """
+orchestral character cue with clean tonal center
+primary rhythmic foundation: light brushed snare with soft kick
+main lead: solo violin in singing legato phrasing
+subtle flute counterline, accent only
+16-bar micro-variation: counterline enters every other cycle
+brief rising harmonic tension before final refrain
+end naturally with sustained final chord and no abrupt cutoff
+"""
+
+[[job]]
+label    = "19. 第二翼のテーマ（未使用稿） 19-3-0"
+bpm      = 168
+duration = 269
+keyscale = "B minor"
+tags     = """
+unused heroine theme with focused melodic presence
+primary rhythmic foundation: piano broken chords marking each beat
+main lead: solo violin presenting the four-note motif in expanded form
+occasional cello harmony, accent only
+8-bar variation: broken chord pattern shifts inversion
+drop in density to piano-only for one short section
+finish with clear harmonic resolution and sustained final chord
+"""
+
+
+# 20. ソ・ド・ミ・ソ（ピアノ独奏版） BPM: 60, Keyscale: E minor, duration: 177sec
+
+[[job]]
+label    = "20. ソ・ド・ミ・ソ（ピアノ独奏版） 20-0-0"
+bpm      = 60
+duration = 177
+keyscale = "E minor"
+tags     = """
+solo piano motif study with clear tonal center
+primary rhythmic foundation: simple quarter-note pulse in left hand
+main lead: right-hand piano stating the four-note fanfare plainly
+subtle pedal resonance, accent only
+16-bar micro-variation: motif spacing widens slightly each cycle
+brief rising harmonic tension before final cadence
+end with clear harmonic resolution and sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "20. ソ・ド・ミ・ソ（ピアノ独奏版） 20-1-0"
+bpm      = 60
+duration = 177
+keyscale = "E minor"
+tags     = """
+minimal piano solo with steady internal motion
+primary rhythmic foundation: broken left-hand intervals in half notes
+main lead: right-hand piano shaping a slow ascending melodic line
+occasional higher-octave echo note, accent only
+8-bar variation: broken interval pattern shifts subtly
+drop in density into a single-note passage
+close with sustained final chord and no abrupt cutoff
+"""
+
+[[job]]
+label    = "20. ソ・ド・ミ・ソ（ピアノ独奏版） 20-2-0"
+bpm      = 60
+duration = 177
+keyscale = "E minor"
+tags     = """
+intimate piano study with restrained dynamics
+primary rhythmic foundation: soft repeated low E in left hand
+main lead: right-hand piano articulating the four-note motif in long tones
+subtle inner-voice harmony, accent only
+16-bar micro-variation: motif shifts to upper register in second cycle
+brief rising harmonic tension before final release
+end naturally with sustained final chord and no abrupt cutoff
+"""
+
+[[job]]
+label    = "20. ソ・ド・ミ・ソ（ピアノ独奏版） 20-3-0"
+bpm      = 60
+duration = 177
+keyscale = "E minor"
+tags     = """
+solo piano epilogue with clear structural simplicity
+primary rhythmic foundation: sparse left-hand single notes every bar
+main lead: right-hand piano stating the motif in expanded spacing
+occasional low-octave reinforcement, accent only
+8-bar variation: spacing between notes increases slightly
+drop in density into a brief near-silence before last phrase
+finish with clear harmonic resolution and sustained final chord
+"""

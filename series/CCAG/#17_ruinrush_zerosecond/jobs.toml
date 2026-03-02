@@ -1,0 +1,1125 @@
+# Ruin Rush: Zero Second — Original Soundtrack
+# Composed by Laila Okafor
+# Breach Point Studios / 2022
+
+# 01. Zero Second: First Corridor BPM: 178, Keyscale: E minor, duration: 222sec
+
+[[job]]
+label    = "01. Zero Second: First Corridor 01-0-0"
+bpm      = 178
+duration = 222
+keyscale = "E minor"
+tags     = """
+Drum and Bass foundation at 178 BPM with steady breakbeat pulse and driving sub bass
+Shakuhachi as main lead carrying long ascending melodic line across sections
+Oud provides brief plucked counter phrases, subtle accent only between 16-bar cycles
+Tin whistle enters as occasional upper harmony accent, never taking lead
+Immediate high-energy entry with all instruments present
+A-melody to B-melody lift then expanded final section with rising harmonic tension
+Light rhythmic variation every 8 bars with hi-hat pattern shifts
+Clear harmonic resolution and sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "01. Zero Second: First Corridor 01-1-0"
+bpm      = 178
+duration = 222
+keyscale = "E minor"
+tags     = """
+High tempo Drum and Bass groove with tight kick and syncopated snare
+Oud as main lead articulating fast plucked motif in repeating 16-bar form
+Shakuhachi offers subtle sustained notes as background support, accent only
+Tin whistle appears in brief call-and-response figures, occasional accent
+Immediate high-energy entry without intro
+Structured A to B to hook section with slight drop in density before final reprise
+Sub bass remains consistent anchor throughout
+Natural deceleration in final 8 bars and sustained final chord
+"""
+
+[[job]]
+label    = "01. Zero Second: First Corridor 01-2-0"
+bpm      = 178
+duration = 222
+keyscale = "E minor"
+tags     = """
+Drum and Bass rhythm at 178 BPM with rolling hi-hat motion
+Tin whistle as main lead presenting clear melodic hook in upper register
+Shakuhachi provides brief breathy tones as subtle accent only
+Oud adds occasional rhythmic strums between phrases
+Immediate high-energy entry and stable tonal center
+16-bar micro-variation structure with light rhythmic shift every 8 bars
+Short drop in density before expanded final section
+Clear harmonic resolution and sustained ending without abrupt cutoff
+"""
+
+[[job]]
+label    = "01. Zero Second: First Corridor 01-3-0"
+bpm      = 178
+duration = 222
+keyscale = "E minor"
+tags     = """
+Fast Drum and Bass beat with steady sub bass pulse
+Shakuhachi as main lead using rising melodic contour over A and B sections
+Oud and tin whistle alternate as brief accent layers only
+Subtle tabla hits appear as occasional transition accent
+Immediate high-energy entry and consistent drive
+Rising harmonic tension toward final 32 bars
+Light rhythmic variation every 8 bars to prevent fatigue
+Sustained final chord and natural fade, no abrupt cutoff
+"""
+
+# 02. Threshold of Three Civilizations BPM: 178, Keyscale: E minor, duration: 178sec
+
+[[job]]
+label    = "02. Threshold of Three Civilizations 02-0-0"
+bpm      = 178
+duration = 178
+keyscale = "E minor"
+tags     = """
+Drum and Bass groove at 178 BPM with steady breakbeat and stable sub bass
+Shakuhachi as main lead presenting clear 4-bar motif repeated in 16-bar cycles
+Oud enters in brief plucked accents after each phrase, subtle support only
+Tin whistle appears as occasional upper harmony accent
+Structured sequential presentation of timbres across sections
+Light rhythmic variation every 8 bars through hi-hat shifts
+Short drop in density before final reprise
+Clear harmonic resolution and sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "02. Threshold of Three Civilizations 02-1-0"
+bpm      = 178
+duration = 178
+keyscale = "E minor"
+tags     = """
+High tempo Drum and Bass rhythm with tight kick and crisp snare
+Oud as main lead articulating measured melodic phrases in 4-bar units
+Shakuhachi provides subtle sustained tones as background accent only
+Tin whistle adds brief echoing responses between lead phrases
+No dramatic intro, immediate groove establishment
+16-bar micro-variation form with light percussion change every 8 bars
+Balanced A to B section lift without intensity spike
+Natural ending with sustained bass tone and no abrupt cutoff
+"""
+
+[[job]]
+label    = "02. Threshold of Three Civilizations 02-2-0"
+bpm      = 178
+duration = 178
+keyscale = "E minor"
+tags     = """
+Drum and Bass foundation at fixed 178 BPM with consistent sub bass anchor
+Tin whistle as main lead delivering concise melodic line in upper register
+Shakuhachi offers brief breath accents, subtle and sparse
+Oud contributes occasional rhythmic pluck as transition accent
+Structured rotation of instrumental color across 16-bar blocks
+Light rhythmic variation through hi-hat pattern change
+Slight drop in density before expanded final section
+Clear harmonic resolution and sustained final chord
+"""
+
+[[job]]
+label    = "02. Threshold of Three Civilizations 02-3-0"
+bpm      = 178
+duration = 178
+keyscale = "E minor"
+tags     = """
+Fast Drum and Bass pulse with steady rolling breakbeat
+Shakuhachi as main lead outlining ascending melodic line across sections
+Oud and tin whistle alternate as brief accent phrases only
+Subtle tabla hits appear occasionally to signal transition
+Immediate groove without build-up
+16-bar structural clarity with small rhythmic shift every 8 bars
+Controlled rise in harmonic tension near final section
+Sustained ending with clear tonal center and no abrupt cutoff
+"""
+
+# 03. Sakura in the Stone BPM: 179, Keyscale: E minor, duration: 195sec
+
+[[job]]
+label    = "03. Sakura in the Stone 03-0-0"
+bpm      = 179
+duration = 195
+keyscale = "E minor"
+tags     = """
+Drum and Bass rhythm at 179 BPM with rolling hi-hat and steady sub bass
+Shakuhachi as main lead presenting a descending melodic contour inspired by lullaby fragment
+Oud provides brief plucked responses as subtle accent only
+Tin whistle enters occasionally in upper register as light harmony accent
+Clear A to B lift within 16-bar micro-variation structure
+Short drop in density before final reprise
+Light rhythmic variation every 8 bars through hi-hat articulation change
+Clear harmonic resolution and sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "03. Sakura in the Stone 03-1-0"
+bpm      = 179
+duration = 195
+keyscale = "E minor"
+tags     = """
+High tempo Drum and Bass groove with syncopated snare emphasis
+Shakuhachi as main lead using breath-inflected ascending melodic line
+Oud contributes subtle rhythmic strums as occasional accent only
+Tin whistle offers brief echo phrases at end of 4-bar units
+Immediate entry with established groove
+16-bar form with light percussion shift every 8 bars
+Gradual rise in harmonic tension toward expanded final section
+Sustained ending and clear tonal center without abrupt cutoff
+"""
+
+[[job]]
+label    = "03. Sakura in the Stone 03-2-0"
+bpm      = 179
+duration = 195
+keyscale = "E minor"
+tags     = """
+Drum and Bass beat at 179 BPM with tight kick and consistent sub layer
+Shakuhachi as main lead articulating sparse melodic motif with space between phrases
+Oud appears in brief ornamented plucks as subtle accent
+Tin whistle limited to occasional sustained upper tone
+Measured A and B structure with balanced density
+Light rhythmic variation every 8 bars through hi-hat filtering
+Momentary drop in density before final return
+Clear harmonic resolution and sustained final chord
+"""
+
+[[job]]
+label    = "03. Sakura in the Stone 03-3-0"
+bpm      = 179
+duration = 195
+keyscale = "E minor"
+tags     = """
+Fast Drum and Bass foundation with rolling breakbeat pulse
+Shakuhachi as main lead outlining rising melodic tension over 16-bar cycles
+Oud and tin whistle alternate as brief accent layers only
+Subtle tabla taps used occasionally as transition accent
+Immediate groove establishment without build-up
+Light rhythmic shift every 8 bars to prevent fatigue
+Expanded final section with rising harmonic tension
+Sustained final chord and natural fade, no abrupt ending
+"""
+
+# 04. Corridor of Falling Tiles BPM: 180, Keyscale: E minor, duration: 164sec
+
+[[job]]
+label    = "04. Corridor of Falling Tiles 04-0-0"
+bpm      = 180
+duration = 164
+keyscale = "E minor"
+tags     = """
+Drum and Bass rhythm at 180 BPM with tight breakbeat and firm sub bass
+Shakuhachi as main lead delivering short ascending melodic figures
+Falling stone impact samples integrated as rhythmic accent only
+Oud provides brief plucked notes between phrases, subtle support
+Immediate high-energy entry without intro
+16-bar micro-variation structure with hi-hat change every 8 bars
+Momentary drop in density before final section
+Clear harmonic resolution and sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "04. Corridor of Falling Tiles 04-1-0"
+bpm      = 180
+duration = 164
+keyscale = "E minor"
+tags     = """
+High tempo Drum and Bass groove with syncopated snare emphasis
+Shakuhachi as main lead outlining repeated 4-bar motif
+Stone crumble samples used as occasional percussive accent
+Tin whistle appears briefly as upper harmony accent only
+Immediate groove establishment and steady tonal center
+Light rhythmic variation every 8 bars through hi-hat articulation
+Rising harmonic tension toward final reprise
+Sustained ending with no abrupt cutoff
+"""
+
+[[job]]
+label    = "04. Corridor of Falling Tiles 04-2-0"
+bpm      = 180
+duration = 164
+keyscale = "E minor"
+tags     = """
+Drum and Bass beat at 180 BPM with rolling hi-hat pattern
+Shakuhachi as main lead using sharp melodic phrasing across 16-bar cycles
+Oud adds subtle rhythmic plucks as accent only
+Falling tile sounds processed into brief rhythmic hits
+Short drop in density in middle section
+Light percussion shift every 8 bars to prevent fatigue
+Expanded final section with stable sub bass anchor
+Clear harmonic resolution and sustained final chord
+"""
+
+[[job]]
+label    = "04. Corridor of Falling Tiles 04-3-0"
+bpm      = 180
+duration = 164
+keyscale = "E minor"
+tags     = """
+Fast Drum and Bass foundation with consistent kick and sub bass pulse
+Shakuhachi as main lead presenting rising melodic contour
+Oud and tin whistle limited to brief accent phrases only
+Stone impact samples appear as subtle off-beat accent
+Immediate high-energy entry and constant drive
+16-bar form with minor rhythmic change every 8 bars
+Controlled rise in harmonic tension near final bars
+Natural fade with sustained final chord and no abrupt ending
+"""
+
+# 05. Oud and the Desert Clock BPM: 180, Keyscale: E minor, duration: 208sec
+
+[[job]]
+label    = "05. Oud and the Desert Clock 05-0-0"
+bpm      = 180
+duration = 208
+keyscale = "E minor"
+tags     = """
+Drum and Bass rhythm at 180 BPM with rolling breakbeat and steady sub bass
+Oud as main lead articulating plucked melodic line with uneven phrase lengths
+Shakuhachi provides brief sustained tones as subtle accent only
+Tin whistle appears occasionally in upper register as light harmony accent
+Immediate high-energy entry with stable tonal center
+16-bar micro-variation structure with light hi-hat change every 8 bars
+Short drop in density before expanded final section
+Clear harmonic resolution and sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "05. Oud and the Desert Clock 05-1-0"
+bpm      = 180
+duration = 208
+keyscale = "E minor"
+tags     = """
+High tempo Drum and Bass groove with tight kick and crisp snare
+Oud as main lead presenting ascending melodic contour across A and B sections
+Subtle tabla hits appear as occasional transition accent
+Shakuhachi offers brief breath tones as background support only
+Light rhythmic variation every 8 bars through hi-hat articulation
+Measured rise in harmonic tension toward final 32 bars
+Consistent sub bass anchor throughout
+Sustained ending with no abrupt cutoff
+"""
+
+[[job]]
+label    = "05. Oud and the Desert Clock 05-2-0"
+bpm      = 180
+duration = 208
+keyscale = "E minor"
+tags     = """
+Drum and Bass foundation at 180 BPM with steady breakbeat pulse
+Oud as main lead using repeated 4-bar motif in 16-bar cycles
+Tin whistle enters as occasional upper harmony accent
+Shakuhachi limited to subtle sustained notes between phrases
+Immediate groove establishment without build-up
+Short drop in density in middle section
+Light percussion shift every 8 bars to prevent fatigue
+Clear harmonic resolution and sustained final chord
+"""
+
+[[job]]
+label    = "05. Oud and the Desert Clock 05-3-0"
+bpm      = 180
+duration = 208
+keyscale = "E minor"
+tags     = """
+Fast Drum and Bass beat with consistent sub bass motion
+Oud as main lead articulating rhythmic melodic pattern
+Shakuhachi and tin whistle alternate as brief accent layers only
+Subtle sand texture samples appear as occasional background accent
+Immediate high-energy entry and steady drive
+16-bar structural clarity with light rhythmic change every 8 bars
+Expanded final section with controlled harmonic lift
+Natural ending with sustained final chord
+"""
+
+# 06. Lullaby of the Vanished Market BPM: 179, Keyscale: E minor, duration: 187sec
+
+[[job]]
+label    = "06. Lullaby of the Vanished Market 06-0-0"
+bpm      = 179
+duration = 187
+keyscale = "E minor"
+tags     = """
+Drum and Bass rhythm at 179 BPM with softened snare and steady sub bass
+Oud as main lead presenting descending melodic line inspired by lullaby fragment
+Shakuhachi offers brief sustained background tones as subtle accent only
+Tin whistle appears occasionally as light upper harmony accent
+Clear A to B section lift within 16-bar micro-variation structure
+Short drop in density to highlight melodic phrase
+Light rhythmic variation every 8 bars through hi-hat change
+Clear harmonic resolution and sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "06. Lullaby of the Vanished Market 06-1-0"
+bpm      = 179
+duration = 187
+keyscale = "E minor"
+tags     = """
+High tempo Drum and Bass groove with restrained kick emphasis
+Oud as main lead articulating spacious melodic phrasing across 16-bar cycles
+Subtle market ambience samples used as occasional background accent
+Shakuhachi provides brief breath tones between phrases
+Measured rise in harmonic tension toward final section
+Light rhythmic shift every 8 bars to prevent fatigue
+Momentary drop in density before reprise
+Sustained ending with clear tonal center and no abrupt cutoff
+"""
+
+[[job]]
+label    = "06. Lullaby of the Vanished Market 06-2-0"
+bpm      = 179
+duration = 187
+keyscale = "E minor"
+tags     = """
+Drum and Bass foundation at 179 BPM with rolling hi-hat and stable bass
+Oud as main lead outlining gentle ascending melodic contour
+Tin whistle adds occasional brief echo phrases as accent only
+Shakuhachi limited to subtle sustained tones in lower register
+Balanced A and B sections within 16-bar form
+Short drop in density in mid section
+Light rhythmic variation every 8 bars
+Clear harmonic resolution and sustained final chord
+"""
+
+[[job]]
+label    = "06. Lullaby of the Vanished Market 06-3-0"
+bpm      = 179
+duration = 187
+keyscale = "E minor"
+tags     = """
+Fast Drum and Bass beat with consistent sub bass pulse
+Oud as main lead presenting clear melodic hook with space between phrases
+Subtle tabla hits appear as occasional transition accent
+Shakuhachi and tin whistle alternate as brief supporting accents only
+Immediate groove without dramatic build
+16-bar micro-variation with minor percussion change every 8 bars
+Expanded final section with controlled harmonic lift
+Natural fade with sustained final chord
+"""
+
+# 07. Sand Pressure / BPM180 BPM: 181, Keyscale: E minor, duration: 151sec
+
+[[job]]
+label = "07. Sand Pressure / BPM180 07-0-0"
+bpm = 181
+duration = 151
+keyscale = "E minor"
+tags = """
+Drum and Bass rhythm at 181 BPM with tight breakbeat and firm sub bass
+Tabla as main lead articulating complex rhythmic pattern across 16-bar cycles
+Sand texture samples processed into tonal percussive accent only
+Oud provides brief plucked notes as subtle background accent
+Immediate high-energy entry with steady drive
+Light rhythmic variation every 8 bars through hi-hat filtering
+Short drop in density before final reprise
+Clear harmonic resolution and sustained ending
+"""
+
+[[job]]
+label = "07. Sand Pressure / BPM180 07-1-0"
+bpm = 181
+duration = 151
+keyscale = "E minor"
+tags = """
+High tempo Drum and Bass groove with crisp snare articulation
+Tabla as main lead presenting repeating rhythmic motif
+Shakuhachi appears briefly as subtle sustained accent only
+Sand impact samples integrated as occasional percussive accent
+Immediate groove establishment without intro
+16-bar structural clarity with minor rhythmic shift every 8 bars
+Controlled rise in harmonic tension near final bars
+Sustained ending with no abrupt cutoff
+"""
+
+[[job]]
+label = "07. Sand Pressure / BPM180 07-2-0"
+bpm = 181
+duration = 151
+keyscale = "E minor"
+tags = """
+Drum and Bass foundation at 181 BPM with rolling hi-hat motion
+Tabla as main lead using syncopated rhythmic figures
+Oud limited to brief accent strums between sections
+Sand texture used as subtle background accent only
+Short drop in density in middle section
+Light rhythmic variation every 8 bars
+Expanded final section with stable bass anchor
+Clear harmonic resolution and sustained final chord
+"""
+
+[[job]]
+label = "07. Sand Pressure / BPM180 07-3-0"
+bpm = 181
+duration = 151
+keyscale = "E minor"
+tags = """
+Fast Drum and Bass beat with consistent kick and sub bass pulse
+Tabla as main lead articulating ascending rhythmic tension
+Shakuhachi and oud appear as brief accent layers only
+Sand particles processed into occasional off-beat accent
+Immediate high-energy entry and steady tempo
+16-bar form with light percussion change every 8 bars
+Controlled harmonic lift toward final section
+Natural fade with sustained final chord
+"""
+
+# 08. Tin Whistle at World's Edge BPM: 181, Keyscale: E minor, duration: 199sec
+
+[[job]]
+label    = "08. Tin Whistle at World's Edge 08-0-0"
+bpm      = 181
+duration = 199
+keyscale = "E minor"
+tags     = """
+Drum and Bass rhythm at 181 BPM with rolling breakbeat and steady sub bass
+Tin whistle as main lead presenting clear melodic hook in upper register
+Oud provides brief plucked counter phrases as subtle accent only
+Shakuhachi enters occasionally with sustained lower tones as light support
+Immediate high-energy entry with stable tonal center
+16-bar micro-variation structure with hi-hat shift every 8 bars
+Short drop in density before expanded final section
+Clear harmonic resolution and sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "08. Tin Whistle at World's Edge 08-1-0"
+bpm      = 181
+duration = 199
+keyscale = "E minor"
+tags     = """
+High tempo Drum and Bass groove with tight kick and crisp snare
+Tin whistle as main lead outlining ascending melodic line across A and B sections
+Oud offers subtle rhythmic strums as occasional accent only
+Shakuhachi provides brief breath tones between phrases
+Light rhythmic variation every 8 bars through hi-hat articulation
+Momentary drop in density highlighting melodic fragment
+Controlled rise in harmonic tension toward final 32 bars
+Sustained ending with no abrupt cutoff
+"""
+
+[[job]]
+label    = "08. Tin Whistle at World's Edge 08-2-0"
+bpm      = 181
+duration = 199
+keyscale = "E minor"
+tags     = """
+Drum and Bass foundation at 181 BPM with consistent sub bass anchor
+Tin whistle as main lead using repeated 4-bar motif in 16-bar cycles
+Oud appears as brief accent plucks between phrases
+Shakuhachi limited to subtle sustained background tones
+Immediate groove establishment without build-up
+Light rhythmic change every 8 bars to prevent fatigue
+Short drop in density before final reprise
+Clear harmonic resolution and sustained final chord
+"""
+
+[[job]]
+label    = "08. Tin Whistle at World's Edge 08-3-0"
+bpm      = 181
+duration = 199
+keyscale = "E minor"
+tags     = """
+Fast Drum and Bass beat with steady rolling hi-hat pattern
+Tin whistle as main lead presenting rising melodic contour with clear phrasing
+Oud and shakuhachi alternate as brief accent layers only
+Subtle tabla hits appear occasionally as transition accent
+Immediate high-energy entry and consistent drive
+16-bar structural clarity with minor rhythmic shift every 8 bars
+Expanded final section with stable sub bass support
+Natural fade with sustained final chord and no abrupt ending
+"""
+
+# 09. Three into Two BPM: 181, Keyscale: E minor, duration: 175sec
+
+[[job]]
+label    = "09. Three into Two 09-0-0"
+bpm      = 181
+duration = 175
+keyscale = "E minor"
+tags     = """
+Drum and Bass rhythm at 181 BPM with rolling breakbeat and steady sub bass
+Tin whistle as main lead presenting clear melodic hook in upper register
+Oud provides brief plucked counter phrases as subtle accent only
+Shakuhachi appears in opening section then gradually drops in density
+Immediate high-energy entry with stable tonal center
+16-bar micro-variation structure with light rhythmic shift every 8 bars
+Noticeable drop in density after midpoint to reflect instrument loss
+Clear harmonic resolution and sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "09. Three into Two 09-1-0"
+bpm      = 181
+duration = 175
+keyscale = "E minor"
+tags     = """
+High tempo Drum and Bass groove with tight kick and crisp snare
+Oud as main lead articulating ascending melodic contour across sections
+Tin whistle offers brief upper harmony accent only
+Shakuhachi fades gradually and disappears after mid section
+Immediate groove establishment without intro
+Light rhythmic variation every 8 bars through hi-hat articulation
+Short drop in density before final reprise
+Sustained ending with clear tonal center and no abrupt cutoff
+"""
+
+[[job]]
+label    = "09. Three into Two 09-2-0"
+bpm      = 181
+duration = 175
+keyscale = "E minor"
+tags     = """
+Drum and Bass foundation at 181 BPM with consistent sub bass anchor
+Tin whistle as main lead using repeated 4-bar motif in 16-bar cycles
+Oud appears as occasional rhythmic pluck accent
+Shakuhachi present briefly then removed after first half
+Immediate high-energy entry and steady drive
+Light percussion shift every 8 bars to prevent fatigue
+Momentary drop in density following instrument reduction
+Clear harmonic resolution and sustained final chord
+"""
+
+[[job]]
+label    = "09. Three into Two 09-3-0"
+bpm      = 181
+duration = 175
+keyscale = "E minor"
+tags     = """
+Fast Drum and Bass beat with steady rolling hi-hat pattern
+Oud as main lead outlining rising melodic line
+Tin whistle limited to brief accent phrases only
+Shakuhachi fades into subtle sustained tone then fully absent
+Immediate groove without dramatic build
+16-bar structural clarity with minor rhythmic change every 8 bars
+Controlled harmonic lift toward final section
+Natural fade with sustained final chord and no abrupt ending
+"""
+
+# 10. Ruin Rhythm BPM: 182, Keyscale: E minor, duration: 168sec
+
+[[job]]
+label    = "10. Ruin Rhythm 10-0-0"
+bpm      = 182
+duration = 168
+keyscale = "E minor"
+tags     = """
+Drum and Bass rhythm at 182 BPM with tight breakbeat and steady sub bass
+Oud as main lead articulating fast plucked melodic line across 16-bar cycles
+Tin whistle provides brief upper register responses as subtle accent only
+Falling debris samples integrated as occasional rhythmic accent
+Immediate high-energy entry with fixed tempo
+Light rhythmic variation every 8 bars through hi-hat articulation
+Short drop in density before final reprise
+Clear harmonic resolution and sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "10. Ruin Rhythm 10-1-0"
+bpm      = 182
+duration = 168
+keyscale = "E minor"
+tags     = """
+High tempo Drum and Bass groove with crisp snare and firm sub bass
+Tin whistle as main lead presenting ascending melodic contour
+Oud offers subtle rhythmic strums as brief accent only
+Debris impact sounds processed into off-beat accent hits
+Immediate groove without build-up
+16-bar micro-variation with light percussion shift every 8 bars
+Controlled rise in harmonic tension toward final section
+Sustained ending with clear tonal center and no abrupt cutoff
+"""
+
+[[job]]
+label    = "10. Ruin Rhythm 10-2-0"
+bpm      = 182
+duration = 168
+keyscale = "E minor"
+tags     = """
+Drum and Bass foundation at 182 BPM with rolling hi-hat motion
+Oud as main lead using repeated 4-bar motif in fast tempo
+Tin whistle appears occasionally as short echo phrase accent
+Subtle sand texture samples used as background accent only
+Immediate high-energy entry and stable sub bass anchor
+Light rhythmic variation every 8 bars to prevent fatigue
+Momentary drop in density before expanded final section
+Clear harmonic resolution and sustained final chord
+"""
+
+[[job]]
+label    = "10. Ruin Rhythm 10-3-0"
+bpm      = 182
+duration = 168
+keyscale = "E minor"
+tags     = """
+Fast Drum and Bass beat with consistent kick and sub bass pulse
+Tin whistle as main lead outlining sharp melodic phrasing
+Oud limited to brief plucked accents between phrases
+Falling stone sounds appear as subtle percussive accent
+Immediate high-energy entry and steady drive
+16-bar structure with minor rhythmic change every 8 bars
+Rising harmonic tension near final 16 bars
+Natural fade with sustained final chord and no abrupt ending
+"""
+
+# 11. Last Instrument BPM: 182, Keyscale: E minor, duration: 213sec
+
+[[job]]
+label    = "11. Last Instrument 11-0-0"
+bpm      = 182
+duration = 213
+keyscale = "E minor"
+tags     = """
+Drum and Bass rhythm at 182 BPM with tight breakbeat and steady sub bass
+Tin whistle as main lead presenting clear melodic line across 16-bar cycles
+Oud provides brief plucked phrases as subtle accent only in first half
+Oud gradually drops in density and disappears after midpoint
+Immediate high-energy entry with fixed tempo
+Light rhythmic variation every 8 bars through hi-hat articulation
+Noticeable drop in density before final section
+Sustained final chord from tin whistle and natural ending, no abrupt cutoff
+"""
+
+[[job]]
+label    = "11. Last Instrument 11-1-0"
+bpm      = 182
+duration = 213
+keyscale = "E minor"
+tags     = """
+High tempo Drum and Bass groove with crisp snare and firm sub bass
+Tin whistle as main lead outlining ascending melodic contour
+Oud appears briefly as background accent then removed after mid section
+Subtle debris samples used as occasional percussive accent
+Immediate groove without intro
+16-bar micro-variation with light rhythmic shift every 8 bars
+Short drop in density highlighting final melodic phrase
+Clear harmonic resolution and sustained ending
+"""
+
+[[job]]
+label    = "11. Last Instrument 11-2-0"
+bpm      = 182
+duration = 213
+keyscale = "E minor"
+tags     = """
+Drum and Bass foundation at 182 BPM with rolling hi-hat motion
+Tin whistle as main lead using repeated 4-bar motif in upper register
+Oud limited to subtle plucked accents in opening section only
+Oud fades out gradually leaving single melodic voice
+Immediate high-energy entry and stable tonal center
+Light rhythmic variation every 8 bars
+Momentary drop in density before final reprise
+Sustained final chord and natural fade without abrupt cutoff
+"""
+
+[[job]]
+label    = "11. Last Instrument 11-3-0"
+bpm      = 182
+duration = 213
+keyscale = "E minor"
+tags     = """
+Fast Drum and Bass beat with consistent kick and sub bass pulse
+Tin whistle as main lead presenting rising melodic tension across sections
+Oud appears briefly as subtle accent then removed after midpoint
+No additional melodic layers beyond single lead in final third
+Immediate groove establishment and steady drive
+16-bar structure with minor rhythmic change every 8 bars
+Expanded final section focused on single melodic line
+Clear harmonic resolution and sustained final chord, no abrupt ending
+"""
+
+# 12. Skeleton Run BPM: 182, Keyscale: E minor, duration: 137sec
+
+[[job]]
+label    = "12. Skeleton Run 12-0-0"
+bpm      = 182
+duration = 137
+keyscale = "E minor"
+tags     = """
+Drum and Bass rhythm at 182 BPM with tight breakbeat and dominant sub bass
+Synth bass as main lead articulating short repeated tonal motif
+No melodic instruments beyond bass, percussion only support
+Subtle filtered noise appears as occasional accent only
+Immediate high-energy entry with no intro
+16-bar micro-variation structure with hi-hat shift every 8 bars
+Short drop in density in middle section
+Clear harmonic resolution and sustained final bass tone, no abrupt cutoff
+"""
+
+[[job]]
+label    = "12. Skeleton Run 12-1-0"
+bpm      = 182
+duration = 137
+keyscale = "E minor"
+tags     = """
+High tempo Drum and Bass groove with crisp snare and rolling hi-hat
+Synth bass as main lead using ascending tonal contour within fixed key center
+Percussion layers limited to breakbeat and subtle ghost notes
+Occasional filtered debris texture used as background accent only
+Immediate high-energy entry and stable tempo
+Light rhythmic variation every 8 bars
+Momentary drop in density before final reprise
+Sustained ending with sub bass holding tonal center
+"""
+
+[[job]]
+label    = "12. Skeleton Run 12-2-0"
+bpm      = 182
+duration = 137
+keyscale = "E minor"
+tags     = """
+Drum and Bass foundation at 182 BPM with steady sub bass pulse
+Synth bass as main lead presenting repeating 4-bar motif
+Percussion restricted to tight kick and snare pattern
+Brief hi-hat filtering change every 8 bars for micro-variation
+Immediate groove without build-up
+Short drop in density in mid section
+Controlled rise in harmonic tension toward final bars
+Clear harmonic resolution and sustained bass tone
+"""
+
+[[job]]
+label    = "12. Skeleton Run 12-3-0"
+bpm      = 182
+duration = 137
+keyscale = "E minor"
+tags     = """
+Fast Drum and Bass beat with consistent kick and firm low-end
+Synth bass as main lead outlining rhythmic tonal figure
+No melodic accents beyond bass line, percussion as sole support
+Subtle noise swell appears occasionally as accent only
+Immediate high-energy entry and constant drive
+16-bar structure with minor rhythmic change every 8 bars
+Expanded final section with steady sub bass anchor
+Natural fade with sustained final tone and no abrupt ending
+"""
+
+# 13. Zero: Silence Before Exit BPM: 182, Keyscale: E minor, duration: 118sec
+
+[[job]]
+label    = "13. Zero: Silence Before Exit 13-0-0"
+bpm      = 182
+duration = 118
+keyscale = "E minor"
+tags     = """
+Drum and Bass rhythm at 182 BPM with restrained breakbeat and steady sub bass
+Synth bass as main lead outlining minimal descending tonal figure
+Percussion gradually drops in density toward final section
+No melodic instruments beyond bass, subtle filtered noise accent only
+Immediate groove establishment with controlled intensity
+16-bar micro-variation with light hi-hat change every 8 bars
+Complete drop in density leading into brief silence near end
+Clear harmonic resolution before silence and sustained final tone
+"""
+
+[[job]]
+label    = "13. Zero: Silence Before Exit 13-1-0"
+bpm      = 182
+duration = 118
+keyscale = "E minor"
+tags     = """
+High tempo Drum and Bass groove with tight kick and crisp snare
+Synth bass as main lead using sparse repeated motif
+Percussion elements reduced progressively across sections
+Subtle debris texture appears as occasional background accent
+Immediate entry without build-up
+Short drop in density in final 16 bars
+Brief silence before ending gesture
+Sustained tonal center and no abrupt cutoff
+"""
+
+[[job]]
+label    = "13. Zero: Silence Before Exit 13-2-0"
+bpm      = 182
+duration = 118
+keyscale = "E minor"
+tags     = """
+Drum and Bass foundation at 182 BPM with steady sub bass anchor
+Synth bass as main lead presenting ascending tonal contour
+Percussion gradually thins to kick and sub only
+Filtered noise swell used as subtle accent in transitions
+Immediate groove with stable tempo
+Light rhythmic variation every 8 bars
+Full drop in density leading into silence before final tone
+Clear harmonic resolution and sustained ending
+"""
+
+[[job]]
+label    = "13. Zero: Silence Before Exit 13-3-0"
+bpm      = 182
+duration = 118
+keyscale = "E minor"
+tags     = """
+Fast Drum and Bass beat with consistent kick and low-end pulse
+Synth bass as main lead articulating short tonal phrases
+Percussion reduced step by step toward final bars
+Occasional subtle impact accent used sparingly
+Immediate high-energy entry with controlled restraint
+16-bar structure with minor rhythmic change every 8 bars
+Complete drop in density followed by brief silence
+Natural ending with sustained final bass tone
+"""
+
+# 14. Ruins Remember BPM: 178, Keyscale: E minor, duration: 245sec
+
+[[job]]
+label    = "14. Ruins Remember 14-0-0"
+bpm      = 178
+duration = 245
+keyscale = "E minor"
+tags     = """
+Drum and Bass rhythm at 178 BPM with softened breakbeat and steady sub bass
+Tin whistle as main lead presenting clear melodic line in upper register
+Oud returns as brief plucked counter phrase, subtle accent only
+Shakuhachi enters later with sustained lower tones as occasional support
+Gradual instrument reintroduction across 16-bar cycles
+Light rhythmic variation every 8 bars through hi-hat articulation
+Expanded final section with rising harmonic tension
+Clear harmonic resolution and sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "14. Ruins Remember 14-1-0"
+bpm      = 178
+duration = 245
+keyscale = "E minor"
+tags     = """
+High tempo Drum and Bass groove with controlled kick and crisp snare
+Shakuhachi as main lead outlining ascending melodic contour
+Tin whistle provides brief harmony accents in early section
+Oud appears gradually as subtle plucked support only
+Structured A to B to reprise form over 16-bar blocks
+Light rhythmic shift every 8 bars to prevent fatigue
+Short drop in density before expanded closing section
+Sustained ending with clear tonal center and no abrupt cutoff
+"""
+
+[[job]]
+label    = "14. Ruins Remember 14-2-0"
+bpm      = 178
+duration = 245
+keyscale = "E minor"
+tags     = """
+Drum and Bass foundation at 178 BPM with steady sub bass anchor
+Oud as main lead articulating repeated 4-bar melodic motif
+Tin whistle adds occasional upper harmony accent
+Shakuhachi limited to subtle sustained tones in later half
+Gradual layering of instruments across 16-bar micro-variation structure
+Light percussion change every 8 bars
+Momentary drop in density before final convergence
+Clear harmonic resolution and sustained final chord
+"""
+
+[[job]]
+label    = "14. Ruins Remember 14-3-0"
+bpm      = 178
+duration = 245
+keyscale = "E minor"
+tags     = """
+Fast Drum and Bass beat with rolling hi-hat and steady sub bass pulse
+Tin whistle as main lead presenting rising melodic line
+Oud and shakuhachi alternate as brief accent layers only
+Subtle ambient texture appears as occasional background accent
+Gradual reassembly of instrumental layers across sections
+Light rhythmic variation every 8 bars
+Expanded final section with stable tonal center
+Natural fade with sustained final chord and no abrupt ending
+"""
+
+# 15. Any% (Speedrun Edit) BPM: 182, Keyscale: E minor, duration: 123sec
+
+[[job]]
+label    = "15. Any% (Speedrun Edit) 15-0-0"
+bpm      = 182
+duration = 123
+keyscale = "E minor"
+tags     = """
+Drum and Bass rhythm at 182 BPM with tight breakbeat and steady sub bass
+Tin whistle as main lead presenting fast melodic hook in upper register
+Oud provides brief plucked counter phrases as subtle accent only
+Shakuhachi appears occasionally as short sustained accent tone
+Immediate high-energy entry with no intro
+16-bar micro-variation structure with light hi-hat change every 8 bars
+Short drop in density before final reprise
+Clear harmonic resolution and sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "15. Any% (Speedrun Edit) 15-1-0"
+bpm      = 182
+duration = 123
+keyscale = "E minor"
+tags     = """
+High tempo Drum and Bass groove with crisp snare and firm sub bass
+Shakuhachi as main lead outlining ascending melodic contour
+Tin whistle offers brief harmony accent between phrases
+Oud limited to subtle rhythmic plucks as occasional accent
+Immediate high-energy entry and fixed tempo
+Light rhythmic variation every 8 bars
+Momentary drop in density before final expansion
+Sustained ending with clear tonal center and no abrupt cutoff
+"""
+
+[[job]]
+label    = "15. Any% (Speedrun Edit) 15-2-0"
+bpm      = 182
+duration = 123
+keyscale = "E minor"
+tags     = """
+Drum and Bass foundation at 182 BPM with rolling hi-hat motion
+Oud as main lead presenting repeating 4-bar melodic motif
+Tin whistle appears occasionally as upper accent phrase
+Shakuhachi provides brief sustained support tones only
+Immediate groove without build-up
+16-bar structural clarity with minor rhythmic change every 8 bars
+Controlled rise in harmonic tension near final section
+Clear harmonic resolution and sustained final chord
+"""
+
+[[job]]
+label    = "15. Any% (Speedrun Edit) 15-3-0"
+bpm      = 182
+duration = 123
+keyscale = "E minor"
+tags     = """
+Fast Drum and Bass beat with consistent kick and sub bass pulse
+Tin whistle as main lead delivering sharp melodic phrasing
+Oud and shakuhachi alternate as brief accent layers only
+Subtle debris texture appears occasionally as rhythmic accent
+Immediate high-energy entry and steady drive
+Light rhythmic shift every 8 bars to prevent fatigue
+Expanded final section with stable tonal center
+Natural fade with sustained final chord and no abrupt ending
+"""
+
+# 16. Field Recording: The Air of Lost Civilizations BPM: 60, Keyscale: E minor, duration: 372sec
+
+[[job]]
+label    = "16. Field Recording: The Air of Lost Civilizations 16-0-0"
+bpm      = 60
+duration = 372
+keyscale = "E minor"
+tags     = """
+Ambient environmental soundscape with slow pulse reference at 60 BPM
+No rhythmic foundation beyond distant natural ambience
+Wind texture as main lead element shaping long-form sonic contour
+Occasional distant market voices used as subtle background accent only
+Gradual change in density across extended sections
+No melodic instrument present
+Very light low frequency tonal drone anchoring tonal center
+Natural fade into sustained ambience with no abrupt cutoff
+"""
+
+[[job]]
+label    = "16. Field Recording: The Air of Lost Civilizations 16-1-0"
+bpm      = 60
+duration = 372
+keyscale = "E minor"
+tags     = """
+Minimal ambient field recording texture with implied slow pulse
+Air movement as main lead element forming evolving noise contour
+Subtle stone resonance used as occasional tonal accent
+Distant human presence appears briefly as background accent only
+Gradual drop in density midway through track
+No percussion or defined groove
+Low sustained drone maintaining stable tonal center
+Clear natural decay and sustained ambient ending
+"""
+
+[[job]]
+label    = "16. Field Recording: The Air of Lost Civilizations 16-2-0"
+bpm      = 60
+duration = 372
+keyscale = "E minor"
+tags     = """
+Environmental ambience structured around slow 60 BPM reference grid
+Open air wind resonance as main lead element
+Occasional market metal sounds used as subtle accent only
+Distant footsteps appear briefly as background texture
+Gradual density shifts every extended section
+No rhythmic percussion elements present
+Low sustained tonal drone anchoring E minor center
+Natural fade with extended ambient tail, no abrupt ending
+"""
+
+[[job]]
+label    = "16. Field Recording: The Air of Lost Civilizations 16-3-0"
+bpm      = 60
+duration = 372
+keyscale = "E minor"
+tags     = """
+Sparse ambient soundscape without defined beat
+Wind as primary lead element forming long sustained contours
+Subtle stone echo used as occasional accent only
+Distant voices appear briefly then recede
+Extended form with gradual change in density
+No melodic instrument or percussion layer
+Stable low frequency drone maintaining tonal center
+Sustained natural ending and complete ambient decay
+"""
+
+# 17. The Map Was the Music BPM: 180, Keyscale: E minor, duration: 201sec
+
+[[job]]
+label    = "17. The Map Was the Music 17-0-0"
+bpm      = 180
+duration = 201
+keyscale = "E minor"
+tags     = """
+Drum and Bass rhythm at 180 BPM with tight breakbeat and steady sub bass
+Shakuhachi as main lead presenting slow ascending melodic line over fast pulse
+Oud provides brief plucked counter phrases as subtle accent only
+Tin whistle appears occasionally as upper register harmony accent
+Immediate high-energy entry with stable tonal center
+16-bar micro-variation structure with light hi-hat change every 8 bars
+Short drop in density before expanded final section
+Clear harmonic resolution and sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "17. The Map Was the Music 17-1-0"
+bpm      = 180
+duration = 201
+keyscale = "E minor"
+tags     = """
+High tempo Drum and Bass groove with crisp snare and rolling hi-hat
+Oud as main lead articulating repeating 4-bar melodic motif
+Shakuhachi offers subtle sustained tones as occasional background accent
+Tin whistle adds brief echo phrases between sections
+Immediate groove establishment without build-up
+Light rhythmic variation every 8 bars
+Momentary drop in density before final reprise
+Sustained ending with clear tonal center and no abrupt cutoff
+"""
+
+[[job]]
+label    = "17. The Map Was the Music 17-2-0"
+bpm      = 180
+duration = 201
+keyscale = "E minor"
+tags     = """
+Drum and Bass foundation at 180 BPM with firm sub bass anchor
+Tin whistle as main lead outlining rising melodic contour
+Oud appears as brief rhythmic pluck accent only
+Shakuhachi limited to subtle lower sustained tones
+Immediate high-energy entry and consistent drive
+16-bar structural clarity with minor rhythmic shift every 8 bars
+Controlled rise in harmonic tension toward final section
+Clear harmonic resolution and sustained final chord
+"""
+
+[[job]]
+label    = "17. The Map Was the Music 17-3-0"
+bpm      = 180
+duration = 201
+keyscale = "E minor"
+tags     = """
+Fast Drum and Bass beat with steady kick and sub bass pulse
+Shakuhachi as main lead presenting extended melodic phrasing
+Oud and tin whistle alternate as brief accent layers only
+Subtle filtered noise appears occasionally as background accent
+Immediate groove without intro and stable tempo
+Light rhythmic change every 8 bars to prevent fatigue
+Expanded final section with stable tonal center
+Natural fade with sustained final chord and no abrupt ending
+"""
