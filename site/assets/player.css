@@ -61,7 +61,7 @@ button:hover {
 .cover-image {
   display: block;
   width: 100%;
-  max-width: 420px;
+  max-width: 280px;
   height: auto;
   border: 1px solid #2f2f2f;
 }
@@ -164,4 +164,10 @@ button:hover {
 .badge.pending {
   border-color: #8c6f2a;
   color: #ffd37a;
+}
+
+@media (max-width: 640px) {
+  .cover-image {
+    max-width: 180px;
+  }
 }
