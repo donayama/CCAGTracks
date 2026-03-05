@@ -1,0 +1,107 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>CCAG #03 Steam Samurai Cruise</title>
+  <link rel="stylesheet" href="../assets/player.css?v=20260303b">
+</head>
+<body>
+  <main>
+    <h1>CCAG #03 Steam Samurai Cruise</h1>
+    <p><a href="index.html">Back to album list</a></p>
+
+    <p class="source-note">※ 本ページのゲーム作品・人物・団体設定はすべて架空です。実在の作品・企業・団体・人物とは関係ありません。</p>
+    <p class="source-note">使用規約・ライセンス方針は <a href="https://github.com/donayama/CCAGTracks/blob/main/README.md">README</a> を参照してください。</p>
+    <p class="support-note">応援はこちら: <a class="support-link" href="https://donayama.booth.pm/items/8051085">Booth 支援ページ</a></p>
+
+    <h2>Game Info</h2>
+    <ul class="info-list">
+      <li>Game: Steam Samurai Cruise</li>
+      <li>Platform: Steam (PC) / Xbox Series X|S / Xbox One / Xbox Game Pass</li>
+      <li>Developer: Pale Signal Games</li>
+      <li>Composer: Aoi Watanabe</li>
+      <li>Music Direction: Marcus Hale / Pale Signal Games</li>
+      <li>Release: 2019</li>
+      <li>Genre: Steampunk intrigue RPG / Japanese jazz soundtrack</li>
+    </ul>
+
+    <h2>Liner Notes Summary</h2>
+    <p>
+      三味線の16分刻みとミュートトランペットを核に、霧に包まれた新江戸の
+      探索・戦闘・別離までを16曲で構成。和ジャズの質感でゲームの社会層と緊張推移を描くアルバム。
+    </p>
+
+    <h2>Album Player / Track一覧</h2>
+    <div id="coverWrap" class="cover-wrap">
+      <img id="coverImage" class="cover-image" alt="Album Cover">
+      <div class="cover-caption">Cover Art</div>
+    </div>
+    <audio id="audio" controls preload="none" style="width: 100%;"></audio>
+    <div class="controls">
+      <button id="prevBtn" type="button">Prev</button>
+      <button id="playBtn" type="button">Play</button>
+      <button id="nextBtn" type="button">Next</button>
+    </div>
+    <div id="nowPlaying" class="now-playing"></div>
+    <ul id="trackList" class="tracklist"></ul>
+
+    <h2>情報まとめ</h2>
+    <ul class="info-list">
+      <li>シリーズ設定: <a href="https://github.com/donayama/CCAGTracks/blob/main/series/CCAG/%2301-%2320.md">series/CCAG/#01-#20.md</a> / <a href="https://github.com/donayama/CCAGTracks/blob/main/series/CCAG/%2321-%2330.md">series/CCAG/#21-#30.md</a></li>
+      <li>ライナーノーツ: <a href="https://github.com/donayama/CCAGTracks/blob/main/series/CCAG/%2303_steam_samurai_cruise/liner.md">series/CCAG/#03_steam_samurai_cruise/liner.md</a></li>
+      <li>生成レシピ: <a href="https://github.com/donayama/CCAGTracks/blob/main/series/CCAG/%2303_steam_samurai_cruise/jobs.toml">series/CCAG/#03_steam_samurai_cruise/jobs.toml</a></li>
+    </ul>
+    <p class="source-note">このページのゲーム情報・トラック情報は上記資料をもとに整理しています。</p>
+  </main>
+
+  <script>
+    window.CCAG_PLAYER_CONFIG = {
+      repo: "donayama/CCAGTracks",
+      branches: ["main", "master"],
+      albumFolder: "#03_steam_samurai_cruise",
+      coverFile: "CCAG#03_steam_samurai_cruise.png",
+      filePrefix: "CCAG#03_track",
+      trackOrder: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16],
+      trackNumbers: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16],
+      trackFiles: {
+        1: "CCAG#03_track01_2-0.mp3",
+        2: "CCAG#03_track02_2-0.mp3",
+        3: "CCAG#03_track03_2-0.mp3",
+        4: "CCAG#03_track04_2-0.mp3",
+        5: "CCAG#03_track05_1-0.mp3",
+        6: "CCAG#03_track06_2-0.mp3",
+        7: "CCAG#03_track07_2-0.mp3",
+        8: "CCAG#03_track08_3-0.mp3",
+        9: "CCAG#03_track09_2-0.mp3",
+        10: "CCAG#03_track10_3-0.mp3",
+        11: "CCAG#03_track11_1-0.mp3",
+        12: "CCAG#03_track12_2-0.mp3",
+        13: "CCAG#03_track13_1-0.mp3",
+        14: "CCAG#03_track14_0-0.mp3",
+        15: "CCAG#03_track15_0-0.mp3",
+        16: "CCAG#03_track16_1-0.mp3"
+      },
+      trackTitles: {
+        1: "Shin-Edo: Before First Light",
+        2: "Raven Step",
+        3: "Foggy Deal",
+        4: "The Rookery",
+        5: "Daylight Mask",
+        6: "Telegraph Conspiracy",
+        7: "Ochanomizu Steam Bridge",
+        8: "Foreign Quarter: Night",
+        9: "Back-Alley Brawl",
+        10: "Foreign Blade",
+        11: "The Minister's Shadow",
+        12: "Iron Shogun",
+        13: "Smoke and Blood",
+        14: "Last Meeting at the Rookery",
+        15: "Steam Sakura",
+        16: "The Motif - Solo Shamisen"
+      }
+    };
+  </script>
+  <script src="../assets/player.js?v=20260305a"></script>
+</body>
+</html>

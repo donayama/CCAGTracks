@@ -12,8 +12,8 @@
     return "Track " + pad2(n);
   }
 
-  function makeTrackUrl(repo, branch, albumFolder, filePrefix, n) {
-    var file = filePrefix + pad2(n) + ".mp3";
+  function makeTrackUrl(repo, branch, albumFolder, filePrefix, n, fileName) {
+    var file = fileName || (filePrefix + pad2(n) + ".mp3");
     return (
       "https://media.githubusercontent.com/media/" +
       repo +
@@ -37,10 +37,12 @@
 
   function buildTracks(cfg) {
     return cfg.trackNumbers.map(function (n) {
+      var fileName = cfg.trackFiles && cfg.trackFiles[n] ? cfg.trackFiles[n] : null;
       return {
         no: n,
         title: makeTrackTitle(n, cfg.trackTitles || {}),
-        url: makeTrackUrl(cfg.repo, cfg.branches[0], cfg.albumFolder, cfg.filePrefix, n),
+        file: fileName,
+        url: makeTrackUrl(cfg.repo, cfg.branches[0], cfg.albumFolder, cfg.filePrefix, n, fileName),
       };
     });
   }
@@ -145,7 +147,7 @@
       branchIndex += 1;
       var b = branches[branchIndex];
       var t = tracks[index];
-      audio.src = makeTrackUrl(cfg.repo, b, cfg.albumFolder, cfg.filePrefix, t.no);
+      audio.src = makeTrackUrl(cfg.repo, b, cfg.albumFolder, cfg.filePrefix, t.no, t.file);
       audio.play().catch(function () {});
     });
 
