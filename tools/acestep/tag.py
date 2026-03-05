@@ -164,12 +164,34 @@ def read_trck_number(mp3_path: Path) -> int:
     return int(head)
 
 
-def rename_mp3s_by_trck(mp3_paths: list[Path], prefix: str, dry_run: bool) -> int:
+def read_variant_from_comm(mp3_path: Path) -> str | None:
     """
-    TRCK タグに基づいて `PREFIX_trackNN.mp3` へ改名する。
-    同一トラック番号が重複する場合は `_v02` 形式のサフィックスを付与する。
+    MP3 の COMM から `variant: x-y` を読み取り、x-y を返す。
+    見つからない・形式不正の場合は None を返す。
     """
-    collisions: dict[int, int] = {}
+    from mutagen.id3 import ID3
+
+    tags = ID3(mp3_path)
+    for key, frame in tags.items():
+        if not key.startswith("COMM"):
+            continue
+        if not frame.text:
+            continue
+        text = str(frame.text[0]).strip()
+        m = re.search(r"(?mi)^\s*variant\s*:\s*(\d+-\d+)\s*$", text)
+        if m:
+            return m.group(1)
+    return None
+
+
+def rename_mp3s_by_trck(mp3_paths: list[Path], prefix: str, dry_run: bool,
+                        variants_by_path: dict[Path, str] | None = None) -> int:
+    """
+    TRCK タグに基づいて MP3 を改名する。
+    variant(x-y) が取得できる場合は `PREFIX_trackNN_x-y.mp3` を優先する。
+    同一候補名が重複する場合は `_v02` 形式のサフィックスを付与する。
+    """
+    collisions: dict[str, int] = {}
     renamed = 0
 
     for src in mp3_paths:
@@ -179,9 +201,21 @@ def rename_mp3s_by_trck(mp3_paths: list[Path], prefix: str, dry_run: bool) -> in
             print(f"[RENAME][SKIP] {src.name} -> TRCK 読み取り失敗: {e}")
             continue
 
-        collisions[track_no] = collisions.get(track_no, 0) + 1
-        seq = collisions[track_no]
+        variant = ""
+        if variants_by_path and src in variants_by_path:
+            variant = variants_by_path[src].strip()
+        if not variant:
+            try:
+                variant = read_variant_from_comm(src) or ""
+            except Exception:
+                variant = ""
+
         base = f"{prefix}_track{track_no:02d}"
+        if variant and re.fullmatch(r"\d+-\d+", variant):
+            base = f"{base}_{variant}"
+
+        collisions[base] = collisions.get(base, 0) + 1
+        seq = collisions[base]
         dst_name = f"{base}.mp3" if seq == 1 else f"{base}_v{seq:02d}.mp3"
         dst = src.with_name(dst_name)
 
@@ -212,7 +246,7 @@ def main():
     parser.add_argument("--dry-run", action="store_true",
                         help="タグを実際には書き込まず確認のみ行う")
     parser.add_argument("--rename-by-trck", action="store_true",
-                        help="TRCK タグに基づき MP3 を PREFIX_trackNN.mp3 形式へ改名する")
+                        help="TRCK タグに基づき MP3 を PREFIX_trackNN(_x-y).mp3 形式へ改名する")
     parser.add_argument("--rename-prefix", default="",
                         help="改名時の接頭辞（未指定時は jobs パスから自動推定）")
     parser.add_argument("--rename-only", action="store_true",
@@ -232,11 +266,27 @@ def main():
     if args.rename_only:
         if not args.rename_by_trck:
             sys.exit("[ERROR] --rename-only を使う場合は --rename-by-trck も指定してください。")
+        variants_for_renaming: dict[Path, str] = {}
+        try:
+            with jobs_path.open("rb") as f:
+                toml_data = tomllib.load(f)
+            jobs = toml_data.get("job", [])
+            pair_count = min(len(jobs), len(mp3_files))
+            for i in range(pair_count):
+                label = jobs[i].get("label", "")
+                try:
+                    _, _, variant = parse_label(label)
+                    variants_for_renaming[mp3_files[i]] = variant
+                except Exception:
+                    continue
+        except Exception as e:
+            print(f"[WARN] jobs.toml から枝番を読めなかったため COMM/TRCK ベースで改名します: {e}")
+
         prefix = args.rename_prefix.strip() or infer_rename_prefix(jobs_path)
         print(f"リネームのみ実行: prefix={prefix!r}  MP3数={len(mp3_files)}")
         if args.dry_run:
             print("※ DRY-RUN モード（ファイルは変更されません）")
-        renamed_count = rename_mp3s_by_trck(mp3_files, prefix, args.dry_run)
+        renamed_count = rename_mp3s_by_trck(mp3_files, prefix, args.dry_run, variants_for_renaming)
         rename_status = "確認完了" if args.dry_run else "改名完了"
         print(f"{rename_status}: {renamed_count} 件")
         return
@@ -279,6 +329,7 @@ def main():
     # ── jobs順 × mp3ファイル順で1対1に割り当て ──
     pair_count = min(len(jobs), len(mp3_files))
     errors = 0
+    variants_for_renaming: dict[Path, str] = {}
 
     for i in range(pair_count):
         job      = jobs[i]
@@ -287,6 +338,7 @@ def main():
 
         try:
             track_num, title, variant = parse_label(label)
+            variants_for_renaming[mp3_path] = variant
         except ValueError as e:
             print(f"[{i+1:>3}] [SKIP] {e}")
             errors += 1
@@ -313,7 +365,7 @@ def main():
         prefix = args.rename_prefix.strip() or infer_rename_prefix(jobs_path)
         print("─" * 70)
         print(f"リネーム開始: prefix={prefix!r}")
-        renamed_count = rename_mp3s_by_trck(mp3_files[:pair_count], prefix, args.dry_run)
+        renamed_count = rename_mp3s_by_trck(mp3_files[:pair_count], prefix, args.dry_run, variants_for_renaming)
         rename_status = "確認完了" if args.dry_run else "改名完了"
         print(f"{rename_status}: {renamed_count} 件")
 

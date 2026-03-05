@@ -567,66 +567,65 @@ rising harmonic tension into final push
 end with sustained final chord and no abrupt cutoff
 """
 
-
-# 10. 女王、覚醒 BPM: 180, Keyscale: F# minor, duration: 298sec
+# 10. 女王、覚醒 BPM: 180, Keyscale: F# minor, duration: 296sec
 
 [[job]]
 label    = "10. 女王、覚醒 10-0-0"
 bpm      = 180
-duration = 298
+duration = 296
 keyscale = "F# minor"
 tags     = """
-second-form boss symphonic metal with sharper top layer
-primary rhythmic foundation: double-kick with tight snare grid
-main lead: solo soprano voice on wordless sustained tones
-subtle male chorus underlay, accent only
-16-bar micro-variation: string chug voicing shifts each cycle
-immediate high-energy entry; expanded final section with fuller choir support
+hard rock driven final boss awakening with immediate riff impact
+primary rhythmic foundation: palm-muted rhythm guitar locked to double-kick grid
+main lead: distorted electric lead guitar in upper register single-note hook
+subtle low brass downbeat hits, accent only
+16-bar micro-variation: riff shifts upward by one scale degree in second cycle
+immediate high-energy entry; brief rising harmonic tension before final drive
 end with clear harmonic resolution and sustained final chord, no abrupt cutoff
 """
 
 [[job]]
 label    = "10. 女王、覚醒 10-1-0"
 bpm      = 180
-duration = 298
+duration = 296
 keyscale = "F# minor"
 tags     = """
-awakened boss cue with metal backbone and vocal highlight
-primary rhythmic foundation: 16th-note low strings locked to kick
-main lead: solo soprano voice in short, high-register phrases
-occasional organ stab, accent only
-8-bar rhythmic variation: cymbal placement shifts subtly
-brief rising harmonic tension before final refrain
+aggressive hard rock boss cue with dense guitar wall
+primary rhythmic foundation: steady double-kick with tight snare backbeat
+main lead: electric lead guitar bending high sustained tones
+subtle string pad underneath, accent only
+8-bar rhythmic variation: snare accent shifts while riff remains fixed
+drop in density to drum-and-bass break for one short section
 close with sustained final chord and no abrupt cutoff
 """
 
 [[job]]
 label    = "10. 女王、覚醒 10-2-0"
 bpm      = 180
-duration = 298
+duration = 296
 keyscale = "F# minor"
 tags     = """
-orchestral-metal escalation with compact dramatic arc
-primary rhythmic foundation: syncopated rhythm guitar over double-kick
-main lead: electric lead guitar carrying the main hook line
-subtle soprano single-note entry, accent only
-16-bar micro-variation: hook line shifts register in second pass
-drop in density for a short mid-section break
+rock-centered awakened queen theme with dominant guitar presence
+primary rhythmic foundation: 16th-note guitar chugs aligned to kick
+main lead: electric lead guitar stating angular descending motif
+subtle pipe organ stab appearing once, accent only
+16-bar micro-variation: lead motif gains added upper harmony in repeat
+immediate high-energy entry; expanded final section with doubled lead guitar
 end naturally with clear harmonic resolution and sustained final chord
 """
 
 [[job]]
 label    = "10. 女王、覚醒 10-3-0"
 bpm      = 180
-duration = 298
+duration = 296
 keyscale = "F# minor"
 tags     = """
-second-form boss theme with iron-and-voice contrast
-primary rhythmic foundation: steady double-kick with marching snare accents
-main lead: solo soprano sustaining long tones above the riff
-occasional low brass hit, accent only
-8-bar variation: snare ghost-note pattern shifts subtly
-brief rising harmonic tension into expanded final push
+violent hard rock final confrontation with stage-like intensity
+primary rhythmic foundation: driving kick-snare pattern with down-tuned rhythm guitar
+main lead: electric lead guitar carrying four-note motif in aggressive phrasing
+subtle soprano sustained high note appearing once, accent only
+8-bar variation: riff syncopation shifts slightly in second cycle
+brief rising harmonic tension into final refrain
 finish with sustained final chord and no abrupt cutoff
 """
 

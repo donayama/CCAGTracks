@@ -1,0 +1,995 @@
+# Steam Samurai Cruise Original Soundtrack
+# Composed by 渡辺碧衣 (Aoi Watanabe)
+# Released: 2019
+
+# 01. 新江戸、夜明け前 BPM: 88, Keyscale: D minor, duration: 194sec
+
+[[job]]
+label    = "01. 新江戸、夜明け前 01-0-0"
+bpm      = 88
+duration = 194
+keyscale = "D minor"
+tags     = """
+Ambient-inflected Japanese jazz introduction at restrained tempo
+Primary rhythmic foundation: sparse contrabass pulse with distant steam pulse
+Main lead instrument: shakuhachi long-tone phrases outlining descending motif
+Supporting accent instruments: subtle string pad sustain, occasional low piano accent only
+Ascending melodic line appears once in mid section before returning to motif
+Expanded final section reduces rhythmic motion in last 12 bars
+Clear harmonic resolution with sustained final chord and extended pad sustain, no abrupt cutoff
+"""
+
+[[job]]
+label    = "01. 新江戸、夜明け前 01-1-0"
+bpm      = 88
+duration = 194
+keyscale = "D minor"
+tags     = """
+Minimal modern chamber jazz texture with Japanese timbre focus
+Primary rhythmic foundation: slow heartbeat contrabass pizzicato
+Main lead instrument: shakuhachi breath-shaped melodic arc
+Supporting accent instruments: brief shamisen harmonic touch, subtle steam texture accent only
+Rising harmonic tension through low string swell in middle 16 bars
+Drop in density before final return of four-note motif
+Expanded final section simplifies harmony, clear harmonic resolution, sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "01. 新江戸、夜明け前 01-2-0"
+bpm      = 88
+duration = 194
+keyscale = "D minor"
+tags     = """
+Neo-Edo atmospheric jazz prelude
+Primary rhythmic foundation: restrained low bass pulses with long rests
+Main lead instrument: solo shakuhachi presenting descending four-note motif
+Supporting accent instruments: occasional brushed cymbal swell, subtle string sustain only
+Gradual textural build over 16-bar cycle without adding density
+Melodic deceleration in last phrase before cadence
+Expanded final section with reduced motion, clear harmonic resolution, sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "01. 新江戸、夜明け前 01-3-0"
+bpm      = 88
+duration = 194
+keyscale = "D minor"
+tags     = """
+Slow-burning Japanese modal jazz opener
+Primary rhythmic foundation: low contrabass pedal tone with soft steam rhythm layer
+Main lead instrument: shakuhachi centered expressive tone
+Supporting accent instruments: brief muted trumpet shadow, subtle pad accent only
+Ascending melodic contour in middle section before returning to grounded motif
+Rhythmic density thins across final 8 bars
+Expanded final section, clear harmonic resolution, sustained final chord, no abrupt cutoff
+"""
+
+# 02. 夜鴉の足音 BPM: 118, Keyscale: D minor, duration: 202sec
+
+[[job]]
+label    = "02. 夜鴉の足音 02-0-0"
+bpm      = 118
+duration = 202
+keyscale = "D minor"
+tags     = """
+Japanese funk jazz hybrid at steady mid-tempo groove
+Primary rhythmic foundation: shamisen 16th-note pulse with brushed drum pattern
+Main lead instrument: muted trumpet carrying four-note descending motif
+Supporting accent instruments: subtle flugelhorn unison shadow, brief Rhodes chord stabs accent only
+Immediate groove entry without intro swell
+16-bar micro-variation through bass movement and light harmonic shift
+Expanded final section drops kick in last 4 bars, clear harmonic resolution, sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "02. 夜鴉の足音 02-1-0"
+bpm      = 118
+duration = 202
+keyscale = "D minor"
+tags     = """
+Neo-Edo street jazz with grounded funk pulse
+Primary rhythmic foundation: walking contrabass with shamisen rhythmic grid
+Main lead instrument: muted trumpet midrange melodic phrasing
+Supporting accent instruments: occasional flugelhorn blend, subtle steam texture accent only
+Ascending melodic line in B section over stable groove
+Light rhythmic change every 8 bars to maintain flow
+Expanded final section reduces rhythmic density, clear harmonic resolution, sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "02. 夜鴉の足音 02-2-0"
+bpm      = 118
+duration = 202
+keyscale = "D minor"
+tags     = """
+Work-focused Japanese jazz funk with urban atmosphere
+Primary rhythmic foundation: consistent shamisen 16th subdivision with brush snare
+Main lead instrument: muted trumpet defined motif statements
+Supporting accent instruments: brief Rhodes comping, subtle flugelhorn accent only
+Rising harmonic tension through bass climb in middle 16 bars
+Drop in density before final motif restatement
+Expanded final section with kick removal in last bars, clear harmonic resolution, sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "02. 夜鴉の足音 02-3-0"
+bpm      = 118
+duration = 202
+keyscale = "D minor"
+tags     = """
+Japanese modal funk groove with restrained brass texture
+Primary rhythmic foundation: shamisen percussive rhythm and steady bass line
+Main lead instrument: muted trumpet focused melodic arcs
+Supporting accent instruments: occasional flugelhorn layer, subtle steam hiss accent only
+Immediate high-focus groove entry
+Micro-variation every 16 bars through chord voicing shift
+Expanded final section simplifies harmonic motion, clear harmonic resolution, sustained final chord, no abrupt cutoff
+"""
+
+# 03. 霧濃い朝の取引 BPM: 112, Keyscale: F minor, duration: 188sec
+
+[[job]]
+label    = "03. 霧濃い朝の取引 03-0-0"
+bpm      = 112
+duration = 188
+keyscale = "F minor"
+tags     = """
+Japanese jazz ballad with restrained funk undercurrent
+Primary rhythmic foundation: soft cajón pulse with light shamisen subdivision
+Main lead instrument: sanshin carrying nasal melodic contour
+Supporting accent instruments: subtle flugelhorn chord support, occasional bass slide accent only
+Ascending melodic line in middle section over stable groove
+Light harmonic shift every 16 bars to avoid stagnation
+Expanded final section drops rhythmic density in last 8 bars, clear harmonic resolution, sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "03. 霧濃い朝の取引 03-1-0"
+bpm      = 112
+duration = 188
+keyscale = "F minor"
+tags     = """
+Port-side Japanese modal jazz with humid atmosphere
+Primary rhythmic foundation: steady contrabass pulse with brushed percussion texture
+Main lead instrument: sanshin lyrical phrases centered on four-note motif
+Supporting accent instruments: brief shamisen rhythmic accent, subtle horn pad only
+Rising harmonic tension through bass ascent in B section
+Drop in density before final motif return
+Expanded final section simplifies groove, clear harmonic resolution, sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "03. 霧濃い朝の取引 03-2-0"
+bpm      = 112
+duration = 188
+keyscale = "F minor"
+tags     = """
+Neo-Edo harbor jazz with understated swing feel
+Primary rhythmic foundation: light cajón and walking bass combination
+Main lead instrument: sanshin expressive midrange melody
+Supporting accent instruments: occasional flugelhorn unison touch, subtle mist texture accent only
+16-bar micro-variation through chord color change
+Melodic deceleration leading into closing phrase
+Expanded final section reduces harmonic motion, clear harmonic resolution, sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "03. 霧濃い朝の取引 03-3-0"
+bpm      = 112
+duration = 188
+keyscale = "F minor"
+tags     = """
+Japanese urban jazz with gentle funk underlayer
+Primary rhythmic foundation: shamisen light subdivision with steady bass anchor
+Main lead instrument: sanshin melodic storytelling over minor mode
+Supporting accent instruments: brief Rhodes chord accents, subtle horn swell only
+Ascending melodic contour in central section
+Light rhythmic change every 8 bars for sustained focus
+Expanded final section thins percussion in last bars, clear harmonic resolution, sustained final chord, no abrupt cutoff
+"""
+
+# 04. 夜鴉会の集会所 BPM: 96, Keyscale: A minor, duration: 211sec
+
+[[job]]
+label    = "04. 夜鴉会の集会所 04-0-0"
+bpm      = 96
+duration = 211
+keyscale = "A minor"
+tags     = """
+Laid-back Japanese jazz lounge texture with grounded pulse
+Primary rhythmic foundation: soft brushed drum pattern with relaxed bass line
+Main lead instrument: Fender Rhodes chordal melody in mid register
+Supporting accent instruments: subtle shamisen single-note fills, occasional muted trumpet accent only
+16-bar harmonic cycle with slight voicing shifts
+Drop in density before final reprise of motif fragment
+Expanded final section simplifies groove in last 12 bars, clear harmonic resolution, sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "04. 夜鴉会の集会所 04-1-0"
+bpm      = 96
+duration = 211
+keyscale = "A minor"
+tags     = """
+Neo-Edo interior jazz with restrained swing
+Primary rhythmic foundation: steady contrabass walk with light brush snare
+Main lead instrument: Fender Rhodes melodic top-line within chord voicings
+Supporting accent instruments: brief shamisen decorative tones, subtle horn pad accent only
+Ascending melodic line in B section over stable rhythm
+Micro-variation every 16 bars through bass articulation change
+Expanded final section reduces rhythmic density, clear harmonic resolution, sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "04. 夜鴉会の集会所 04-2-0"
+bpm      = 96
+duration = 211
+keyscale = "A minor"
+tags     = """
+Japanese modal jazz room ambiance with relaxed tempo
+Primary rhythmic foundation: soft bass pulse and brushed cymbal texture
+Main lead instrument: Fender Rhodes sustained melodic phrases
+Supporting accent instruments: occasional muted trumpet response, subtle shamisen accent only
+Rising harmonic tension through extended chord movement in middle 16 bars
+Melodic deceleration before closing section
+Expanded final section thins percussion in last bars, clear harmonic resolution, sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "04. 夜鴉会の集会所 04-3-0"
+bpm      = 96
+duration = 211
+keyscale = "A minor"
+tags     = """
+Japanese jazz lounge groove designed for long listening focus
+Primary rhythmic foundation: consistent bass line with light brush groove
+Main lead instrument: Fender Rhodes expressive chord melody
+Supporting accent instruments: brief shamisen harmonic touch, subtle room ambience accent only
+Light rhythmic change every 8 bars to prevent fatigue
+Drop in density before final harmonic return
+Expanded final section simplifies harmonic motion, clear harmonic resolution, sustained final chord, no abrupt cutoff
+"""
+
+# 05. 帝都の昼顔 BPM: 122, Keyscale: G minor, duration: 197sec
+
+[[job]]
+label    = "05. 帝都の昼顔 05-0-0"
+bpm      = 122
+duration = 197
+keyscale = "G minor"
+tags     = """
+Bright urban Japanese jazz funk with open daytime tone
+Primary rhythmic foundation: shamisen 16th-note groove with brushed drum backbeat
+Main lead instrument: muted trumpet lyrical motif statements
+Supporting accent instruments: subtle flugelhorn unison layer, brief transverse flute accent only
+Immediate groove entry with stable harmonic bed
+16-bar micro-variation through chord voicing lift in B section
+Expanded final section drops kick in last 4 bars, clear harmonic resolution, sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "05. 帝都の昼顔 05-1-0"
+bpm      = 122
+duration = 197
+keyscale = "G minor"
+tags     = """
+Daytime Neo-Edo street jazz with controlled swing
+Primary rhythmic foundation: walking contrabass and steady shamisen subdivision
+Main lead instrument: muted trumpet centered melodic arcs
+Supporting accent instruments: occasional flugelhorn harmony touch, subtle flute accent only
+Ascending melodic line in middle 16 bars
+Light rhythmic change every 8 bars to maintain forward motion
+Expanded final section reduces rhythmic density before cadence, clear harmonic resolution, sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "05. 帝都の昼顔 05-2-0"
+bpm      = 122
+duration = 197
+keyscale = "G minor"
+tags     = """
+Japanese modal funk reflecting dual public persona
+Primary rhythmic foundation: percussive shamisen rhythm with steady bass anchor
+Main lead instrument: muted trumpet midrange melody
+Supporting accent instruments: brief Rhodes chord stabs, subtle horn blend accent only
+Rising harmonic tension through bass climb in B section
+Drop in density before final motif restatement
+Expanded final section simplifies harmonic motion, clear harmonic resolution, sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "05. 帝都の昼顔 05-3-0"
+bpm      = 122
+duration = 197
+keyscale = "G minor"
+tags     = """
+Open-air Japanese jazz groove with restrained funk character
+Primary rhythmic foundation: shamisen rhythmic grid and brush-driven snare
+Main lead instrument: muted trumpet expressive phrasing
+Supporting accent instruments: occasional flugelhorn support, subtle flute accent only
+Immediate high-focus groove without extended intro
+16-bar harmonic shift adds contrast without breaking flow
+Expanded final section drops kick in last bars, clear harmonic resolution, sustained final chord, no abrupt cutoff
+"""
+
+# 06. 電信局の謀議 BPM: 104, Keyscale: C minor, duration: 178sec
+
+[[job]]
+label    = "06. 電信局の謀議 06-0-0"
+bpm      = 104
+duration = 178
+keyscale = "C minor"
+tags     = """
+Tense Japanese jazz minimalism with investigative tone
+Primary rhythmic foundation: low contrabass pizzicato pulse with light cajón taps
+Main lead instrument: muted trumpet narrow-range motif fragments
+Supporting accent instruments: subtle shamisen single-note responses, brief telegraph click accent only
+Rising harmonic tension through chromatic bass movement in middle section
+16-bar micro-variation via rhythmic displacement
+Expanded final section reduces rhythmic density in last 12 bars, clear harmonic resolution, sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "06. 電信局の謀議 06-1-0"
+bpm      = 104
+duration = 178
+keyscale = "C minor"
+tags     = """
+Neo-Edo conspiracy jazz with restrained groove
+Primary rhythmic foundation: steady bass pulse and soft brush texture
+Main lead instrument: muted trumpet angular melodic line
+Supporting accent instruments: occasional shamisen harmonic accent, subtle Morse-like click texture only
+Ascending melodic contour in B section over stable rhythm
+Drop in density before final motif restatement
+Expanded final section simplifies harmonic motion, clear harmonic resolution, sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "06. 電信局の謀議 06-2-0"
+bpm      = 104
+duration = 178
+keyscale = "C minor"
+tags     = """
+Investigative Japanese modal jazz with measured pacing
+Primary rhythmic foundation: contrabass ostinato with light percussive taps
+Main lead instrument: muted trumpet centered motif development
+Supporting accent instruments: brief shamisen rhythmic punctuation, subtle steam texture accent only
+Light rhythmic change every 8 bars to sustain focus
+Rising harmonic tension through extended chord voicing shift
+Expanded final section reduces motion before cadence, clear harmonic resolution, sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "06. 電信局の謀議 06-3-0"
+bpm      = 104
+duration = 178
+keyscale = "C minor"
+tags     = """
+Japanese urban suspense jazz with controlled intensity
+Primary rhythmic foundation: low bass pulses and restrained brush snare
+Main lead instrument: muted trumpet midrange phrasing built on four-note motif
+Supporting accent instruments: occasional shamisen single-note echo, subtle telegraph accent only
+Ascending melodic line briefly heightens tension in central 16 bars
+Drop in density across final phrase
+Expanded final section simplifies harmonic progression, clear harmonic resolution, sustained final chord, no abrupt cutoff
+"""
+
+# 07. 御茶ノ水機関橋 BPM: 116, Keyscale: E minor, duration: 224sec
+
+[[job]]
+label    = "07. 御茶ノ水機関橋 07-0-0"
+bpm      = 116
+duration = 224
+keyscale = "E minor"
+tags     = """
+Industrial Japanese funk jazz with mechanical pulse
+Primary rhythmic foundation: dense shamisen 16th-note grid with brush-driven snare
+Main lead instrument: muted trumpet assertive motif statements
+Supporting accent instruments: subtle flugelhorn shadow layer, occasional steam piston accent only
+Immediate groove entry with steady bass propulsion
+16-bar micro-variation through bass octave shift and chord color change
+Expanded final section reduces rhythmic density in last 12 bars, clear harmonic resolution, sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "07. 御茶ノ水機関橋 07-1-0"
+bpm      = 116
+duration = 224
+keyscale = "E minor"
+tags     = """
+Neo-Edo industrial jazz with grounded swing feel
+Primary rhythmic foundation: walking contrabass and tight shamisen subdivision
+Main lead instrument: muted trumpet midrange melodic arcs
+Supporting accent instruments: brief flugelhorn blend, subtle metallic texture accent only
+Ascending melodic line in B section over stable groove
+Light rhythmic change every 8 bars to sustain forward motion
+Expanded final section drops kick in final 4 bars, clear harmonic resolution, sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "07. 御茶ノ水機関橋 07-2-0"
+bpm      = 116
+duration = 224
+keyscale = "E minor"
+tags     = """
+Japanese modal funk reflecting heavy machinery rhythm
+Primary rhythmic foundation: percussive shamisen rhythm synced with bass ostinato
+Main lead instrument: muted trumpet focused motif development
+Supporting accent instruments: occasional flugelhorn harmony touch, subtle steam hiss accent only
+Rising harmonic tension through bass climb in central 16 bars
+Drop in density before final motif return
+Expanded final section simplifies harmonic motion, clear harmonic resolution, sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "07. 御茶ノ水機関橋 07-3-0"
+bpm      = 116
+duration = 224
+keyscale = "E minor"
+tags     = """
+Urban industrial Japanese jazz groove with steady drive
+Primary rhythmic foundation: shamisen rhythmic engine and consistent bass pulse
+Main lead instrument: muted trumpet controlled melodic phrasing
+Supporting accent instruments: brief metallic percussive accent, subtle horn blend only
+Immediate high-focus groove without extended intro
+16-bar harmonic shift adds contrast without breaking flow
+Expanded final section reduces percussion intensity, clear harmonic resolution, sustained final chord, no abrupt cutoff
+"""
+
+# 08. 外国租界の夜 BPM: 120, Keyscale: Bb minor, duration: 199sec
+
+[[job]]
+label    = "08. 外国租界の夜 08-0-0"
+bpm      = 120
+duration = 199
+keyscale = "Bb minor"
+tags     = """
+Western-leaning modal jazz with Neo-Edo undertone
+Primary rhythmic foundation: steady brushed drum groove with bowed bass sustain
+Main lead instrument: flugelhorn warm midrange melody without mute
+Supporting accent instruments: subtle Fender Rhodes chord support, occasional single shamisen accent only
+Ascending melodic line in B section over stable harmony
+16-bar micro-variation through chord voicing color shift
+Expanded final section drops kick in last 4 bars, clear harmonic resolution, sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "08. 外国租界の夜 08-1-0"
+bpm      = 120
+duration = 199
+keyscale = "Bb minor"
+tags     = """
+Continental jazz atmosphere with restrained swing feel
+Primary rhythmic foundation: soft brush snare pattern and grounded bass pulse
+Main lead instrument: flugelhorn lyrical melodic arcs
+Supporting accent instruments: brief Rhodes voicing accents, subtle distant shamisen touch only
+Rising harmonic tension through bass ascent in middle 16 bars
+Drop in density before final motif echo
+Expanded final section simplifies harmonic motion, clear harmonic resolution, sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "08. 外国租界の夜 08-2-0"
+bpm      = 120
+duration = 199
+keyscale = "Bb minor"
+tags     = """
+Neo-Edo foreign quarter jazz with controlled elegance
+Primary rhythmic foundation: walking contrabass with light brush texture
+Main lead instrument: flugelhorn centered melodic phrasing
+Supporting accent instruments: occasional Rhodes chord swell, subtle single shamisen accent only
+Light rhythmic change every 8 bars to prevent stagnation
+Melodic deceleration in final phrase before cadence
+Expanded final section reduces rhythmic density, clear harmonic resolution, sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "08. 外国租界の夜 08-3-0"
+bpm      = 120
+duration = 199
+keyscale = "Bb minor"
+tags     = """
+French-influenced modal jazz tone within urban setting
+Primary rhythmic foundation: steady bass anchor and brush-driven groove
+Main lead instrument: flugelhorn expressive midrange melody
+Supporting accent instruments: brief Rhodes comping accent, subtle steam texture only
+Ascending melodic contour through central 16 bars
+Drop in density across last section before resolution
+Expanded final section drops kick in last bars, clear harmonic resolution, sustained final chord, no abrupt cutoff
+"""
+
+# 09. 路地の格闘 BPM: 132, Keyscale: E minor, duration: 182sec
+
+[[job]]
+label    = "09. 路地の格闘 09-0-0"
+bpm      = 132
+duration = 182
+keyscale = "E minor"
+tags     = """
+Japanese street funk battle groove with controlled drive
+Primary rhythmic foundation: percussive shamisen strike pattern with tight snare backbeat
+Main lead instrument: muted trumpet short motif bursts
+Supporting accent instruments: subtle flugelhorn punch accents, brief cajón reinforcement only
+Immediate high-energy entry
+16-bar micro-variation through bass articulation shift
+Expanded final section drops kick in last 4 bars, clear harmonic resolution, sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "09. 路地の格闘 09-1-0"
+bpm      = 132
+duration = 182
+keyscale = "E minor"
+tags     = """
+Neo-Edo combat jazz with steady rhythmic focus
+Primary rhythmic foundation: shamisen 16th-note engine and driving bass ostinato
+Main lead instrument: muted trumpet assertive midrange phrasing
+Supporting accent instruments: occasional flugelhorn layer, subtle metallic accent only
+Ascending melodic line in B section over consistent groove
+Light rhythmic change every 8 bars to maintain tension
+Expanded final section reduces rhythmic density before cadence, clear harmonic resolution, sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "09. 路地の格闘 09-2-0"
+bpm      = 132
+duration = 182
+keyscale = "E minor"
+tags     = """
+Urban Japanese modal funk for close-quarters battle
+Primary rhythmic foundation: sharp shamisen attack synced with snare accents
+Main lead instrument: muted trumpet motif-driven lines
+Supporting accent instruments: brief flugelhorn response phrases, subtle steam texture accent only
+Rising harmonic tension through bass climb in middle section
+Drop in density before final motif restatement
+Expanded final section simplifies harmonic motion, clear harmonic resolution, sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "09. 路地の格闘 09-3-0"
+bpm      = 132
+duration = 182
+keyscale = "E minor"
+tags     = """
+Japanese funk combat groove with restrained intensity control
+Primary rhythmic foundation: shamisen rhythmic grid with tight drum support
+Main lead instrument: muted trumpet focused melodic arcs
+Supporting accent instruments: occasional cajón accent, subtle flugelhorn layer only
+Immediate groove entry without extended buildup
+16-bar harmonic shift adds contrast without breaking pulse
+Expanded final section drops kick and thins percussion, clear harmonic resolution, sustained final chord, no abrupt cutoff
+"""
+
+# 10. 列強の手先 BPM: 128, Keyscale: C minor, duration: 191sec
+
+[[job]]
+label    = "10. 列強の手先 10-0-0"
+bpm      = 128
+duration = 191
+keyscale = "C minor"
+tags     = """
+Japanese urban jazz combat with subtle dissonant color
+Primary rhythmic foundation: low-register shamisen subdivision with steady bass pulse
+Main lead instrument: flugelhorn tense midrange melodic line
+Supporting accent instruments: brief muted trumpet stab accents, subtle steam texture only
+Immediate groove entry with controlled drive
+16-bar micro-variation through chromatic bass movement
+Expanded final section drops kick in last 4 bars, clear harmonic resolution, sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "10. 列強の手先 10-1-0"
+bpm      = 128
+duration = 191
+keyscale = "C minor"
+tags     = """
+Neo-Edo spy battle jazz with restrained forward motion
+Primary rhythmic foundation: shamisen rhythmic engine and tight snare backbeat
+Main lead instrument: flugelhorn angular motif development
+Supporting accent instruments: occasional muted trumpet response, subtle metallic accent only
+Ascending melodic contour in B section with harmonic shift
+Light rhythmic change every 8 bars to sustain tension
+Expanded final section reduces rhythmic density before cadence, clear harmonic resolution, sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "10. 列強の手先 10-2-0"
+bpm      = 128
+duration = 191
+keyscale = "C minor"
+tags     = """
+Japanese modal funk with investigative edge
+Primary rhythmic foundation: steady contrabass ostinato and percussive shamisen strikes
+Main lead instrument: flugelhorn focused melodic arcs
+Supporting accent instruments: brief muted trumpet harmony touch, subtle steam hiss accent only
+Rising harmonic tension through bass climb in central 16 bars
+Drop in density before final motif restatement
+Expanded final section simplifies harmonic motion, clear harmonic resolution, sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "10. 列強の手先 10-3-0"
+bpm      = 128
+duration = 191
+keyscale = "C minor"
+tags     = """
+Urban Japanese jazz groove reflecting hidden adversary
+Primary rhythmic foundation: shamisen 16th-note grid with driving drum support
+Main lead instrument: flugelhorn expressive midrange phrasing
+Supporting accent instruments: occasional muted trumpet stab, subtle percussive accent only
+Immediate high-focus groove without buildup
+16-bar harmonic shift adds contrast while maintaining flow
+Expanded final section drops kick and thins percussion, clear harmonic resolution, sustained final chord, no abrupt cutoff
+"""
+
+# 11. 黒幕との対峙 BPM: 138, Keyscale: F minor, duration: 207sec
+
+[[job]]
+label    = "11. 黒幕との対峙 11-0-0"
+bpm      = 138
+duration = 207
+keyscale = "F minor"
+tags     = """
+High-tempo Japanese jazz combat with expanded ensemble drive
+Primary rhythmic foundation: shamisen rapid subdivision with full drum kit backbeat
+Main lead instrument: muted trumpet strong motif projection
+Supporting accent instruments: subtle flugelhorn unison layer, brief string stab accent only
+Immediate high-energy entry
+16-bar micro-variation through bass octave lift and chord shift
+Expanded final section drops kick in last 4 bars, clear harmonic resolution, sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "11. 黒幕との対峙 11-1-0"
+bpm      = 138
+duration = 207
+keyscale = "F minor"
+tags     = """
+Neo-Edo executive battle jazz with tight rhythmic control
+Primary rhythmic foundation: shamisen 16th-note engine and driving snare pattern
+Main lead instrument: muted trumpet angular melodic arcs
+Supporting accent instruments: occasional flugelhorn harmony touch, subtle string accent only
+Ascending melodic line in B section over stable groove
+Light rhythmic change every 8 bars to sustain tension
+Expanded final section reduces rhythmic density before cadence, clear harmonic resolution, sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "11. 黒幕との対峙 11-2-0"
+bpm      = 138
+duration = 207
+keyscale = "F minor"
+tags     = """
+Japanese modal funk battle theme with broadened texture
+Primary rhythmic foundation: rapid shamisen strikes synchronized with full drum kit
+Main lead instrument: muted trumpet assertive midrange phrasing
+Supporting accent instruments: brief flugelhorn response, subtle orchestral string accent only
+Rising harmonic tension through bass climb in central 16 bars
+Drop in density before final motif restatement
+Expanded final section simplifies harmonic motion, clear harmonic resolution, sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "11. 黒幕との対峙 11-3-0"
+bpm      = 138
+duration = 207
+keyscale = "F minor"
+tags     = """
+Urban Japanese jazz confrontation with controlled intensity
+Primary rhythmic foundation: shamisen rhythmic grid and tight kick-snare interplay
+Main lead instrument: muted trumpet focused motif statements
+Supporting accent instruments: occasional flugelhorn unison support, subtle string stab accent only
+Immediate high-focus groove without extended buildup
+16-bar harmonic shift maintains forward motion
+Expanded final section drops kick and thins percussion, clear harmonic resolution, sustained final chord, no abrupt cutoff
+"""
+
+# 12. 蒸気装甲の巨人 BPM: 142, Keyscale: D minor, duration: 243sec
+
+[[job]]
+label    = "12. 蒸気装甲の巨人 12-0-0"
+bpm      = 142
+duration = 243
+keyscale = "D minor"
+tags     = """
+Industrial Japanese jazz battle with mechanical undertone
+Primary rhythmic foundation: rapid shamisen subdivision with full drum kit drive
+Main lead instrument: muted trumpet forceful motif projection
+Supporting accent instruments: subtle flugelhorn unison layer, occasional metallic bell accent only
+Immediate high-energy entry
+16-bar micro-variation through bass octave shifts and chord tightening
+Expanded final section introduces gradual drum thinning in last 12 bars, clear harmonic resolution, sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "12. 蒸気装甲の巨人 12-1-0"
+bpm      = 142
+duration = 243
+keyscale = "D minor"
+tags     = """
+Neo-Edo mechanized combat jazz with steady propulsion
+Primary rhythmic foundation: shamisen rhythmic engine synchronized with kick-snare pattern
+Main lead instrument: muted trumpet angular midrange lines
+Supporting accent instruments: brief flugelhorn harmony touch, subtle steam pulse accent only
+Ascending melodic line in B section over constant groove
+Light rhythmic change every 8 bars to sustain tension
+Expanded final section reduces snare presence before cadence, clear harmonic resolution, sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "12. 蒸気装甲の巨人 12-2-0"
+bpm      = 142
+duration = 243
+keyscale = "D minor"
+tags     = """
+Japanese modal funk boss theme with industrial texture
+Primary rhythmic foundation: dense shamisen strikes layered with driving drum kit
+Main lead instrument: muted trumpet assertive motif statements
+Supporting accent instruments: occasional flugelhorn blend, subtle metallic percussive accent only
+Rising harmonic tension through bass climb in central 16 bars
+Drop in density before final motif return
+Expanded final section introduces half-time feel in final 8 bars, clear harmonic resolution, sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "12. 蒸気装甲の巨人 12-3-0"
+bpm      = 142
+duration = 243
+keyscale = "D minor"
+tags     = """
+Industrial urban Japanese jazz with expanded battle structure
+Primary rhythmic foundation: shamisen 16th-note grid and forceful drum kit interplay
+Main lead instrument: muted trumpet strong melodic arcs
+Supporting accent instruments: brief metallic bell accent, subtle steam texture only
+Immediate high-energy entry with stable harmonic center
+16-bar harmonic shift reinforces motif development
+Expanded final section removes snare before final cadence, clear harmonic resolution, sustained final chord, no abrupt cutoff
+"""
+
+# 13. 煙と血の決着 BPM: 88, Keyscale: F minor, duration: 171sec
+
+[[job]]
+label    = "13. 煙と血の決着 13-0-0"
+bpm      = 88
+duration = 171
+keyscale = "F minor"
+tags     = """
+Post-battle Japanese modal jazz with restrained atmosphere
+Primary rhythmic foundation: slow contrabass pedal tone with minimal percussion pulse
+Main lead instrument: sanshin expressive melodic line centered on four-note motif
+Supporting accent instruments: subtle low string sustain, occasional distant steam accent only
+Ascending melodic contour briefly in middle section before returning to motif
+Drop in density before final phrase
+Expanded final section simplifies harmonic motion in last 12 bars, clear harmonic resolution, sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "13. 煙と血の決着 13-1-0"
+bpm      = 88
+duration = 171
+keyscale = "F minor"
+tags     = """
+Slow Japanese jazz reflection with grounded pulse
+Primary rhythmic foundation: steady low bass sustain and sparse brush touch
+Main lead instrument: sanshin lyrical midrange phrasing
+Supporting accent instruments: brief muted trumpet echo, subtle ambient pad accent only
+Rising harmonic tension through low string swell in B section
+Melodic deceleration leading into closing motif
+Expanded final section reduces rhythmic density, clear harmonic resolution, sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "13. 煙と血の決着 13-2-0"
+bpm      = 88
+duration = 171
+keyscale = "F minor"
+tags     = """
+Japanese urban jazz lament with controlled tempo
+Primary rhythmic foundation: minimal bass pulse with long rests
+Main lead instrument: sanshin centered motif development
+Supporting accent instruments: subtle string pad layer, occasional distant steam accent only
+16-bar micro-variation through chord voicing shift
+Drop in density before final sustained phrase
+Expanded final section simplifies harmony in last bars, clear harmonic resolution, sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "13. 煙と血の決着 13-3-0"
+bpm      = 88
+duration = 171
+keyscale = "F minor"
+tags     = """
+Reflective Japanese modal piece with subdued groove
+Primary rhythmic foundation: low contrabass pedal and soft brush texture
+Main lead instrument: sanshin expressive melodic arc
+Supporting accent instruments: brief muted trumpet shadow, subtle steam ambience accent only
+Ascending melodic line in central section before returning to core motif
+Light rhythmic change across middle 16 bars
+Expanded final section thins percussion and bass motion, clear harmonic resolution, sustained final chord, no abrupt cutoff
+"""
+
+# 14. 夜鴉の別れ BPM: 76, Keyscale: A minor, duration: 218sec
+
+[[job]]
+label    = "14. 夜鴉の別れ 14-0-0"
+bpm      = 76
+duration = 218
+keyscale = "A minor"
+tags     = """
+Slow Neo-Edo interior jazz with reflective tone
+Primary rhythmic foundation: soft brushed drum pulse with sustained bass movement
+Main lead instrument: Fender Rhodes sparse melodic phrasing
+Supporting accent instruments: subtle shamisen single-note echoes, occasional bowed bass accent only
+Ascending melodic line appears once in middle section before settling
+16-bar micro-variation through chord voicing change
+Expanded final section reduces rhythmic density in last 12 bars, clear harmonic resolution, sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "14. 夜鴉の別れ 14-1-0"
+bpm      = 76
+duration = 218
+keyscale = "A minor"
+tags     = """
+Japanese modal jazz farewell with restrained groove
+Primary rhythmic foundation: low bass pedal and minimal brush texture
+Main lead instrument: Fender Rhodes midrange melodic arcs
+Supporting accent instruments: brief shamisen harmonic accents, subtle muted trumpet shadow only
+Rising harmonic tension in B section through bass ascent
+Melodic deceleration before final motif return
+Expanded final section simplifies harmonic motion, clear harmonic resolution, sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "14. 夜鴉の別れ 14-2-0"
+bpm      = 76
+duration = 218
+keyscale = "A minor"
+tags     = """
+Interior Japanese jazz meditation with subdued tempo
+Primary rhythmic foundation: sustained contrabass tones with light brush taps
+Main lead instrument: Fender Rhodes expressive chord melody
+Supporting accent instruments: occasional shamisen decorative tone, subtle ambient room accent only
+Light rhythmic change every 16 bars to maintain flow
+Drop in density before closing phrase
+Expanded final section thins percussion and bass motion, clear harmonic resolution, sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "14. 夜鴉の別れ 14-3-0"
+bpm      = 76
+duration = 218
+keyscale = "A minor"
+tags     = """
+Japanese urban jazz farewell with calm pulse
+Primary rhythmic foundation: slow bass sustain and restrained brush pattern
+Main lead instrument: Fender Rhodes lyrical melodic contour
+Supporting accent instruments: brief shamisen response notes, subtle horn pad accent only
+Ascending melodic contour briefly lifts tension in central 16 bars
+Drop in density across final section
+Expanded final section reduces rhythmic articulation, clear harmonic resolution, sustained final chord, no abrupt cutoff
+"""
+
+# 15. 蒸気と桜 BPM: 108, Keyscale: D minor, duration: 252sec
+
+[[job]]
+label    = "15. 蒸気と桜 15-0-0"
+bpm      = 108
+duration = 252
+keyscale = "D minor"
+tags     = """
+Orchestral Japanese jazz fusion with broadened tonal space
+Primary rhythmic foundation: steady low strings pulse with restrained timpani pattern
+Main lead instrument: violin presenting expanded four-note motif
+Supporting accent instruments: subtle shamisen tremolo layer, occasional muted trumpet accent only
+Ascending melodic line in central section over stable harmonic bed
+16-bar micro-variation through orchestral voicing expansion
+Expanded final section reduces rhythmic density in last 12 bars, clear harmonic resolution, sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "15. 蒸気と桜 15-1-0"
+bpm      = 108
+duration = 252
+keyscale = "D minor"
+tags     = """
+Japanese symphonic jazz blend with controlled tempo
+Primary rhythmic foundation: low string ostinato with soft cymbal swells
+Main lead instrument: violin lyrical midrange phrasing
+Supporting accent instruments: brief shamisen harmonic touch, subtle brass pad accent only
+Rising harmonic tension through bass ascent in middle 16 bars
+Drop in density before final motif restatement
+Expanded final section simplifies harmonic motion, clear harmonic resolution, sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "15. 蒸気と桜 15-2-0"
+bpm      = 108
+duration = 252
+keyscale = "D minor"
+tags     = """
+Orchestral Neo-Edo theme with reflective character
+Primary rhythmic foundation: steady string pulse and restrained percussion layer
+Main lead instrument: violin expressive motif development
+Supporting accent instruments: occasional muted trumpet response, subtle shamisen accent only
+Light rhythmic change every 8 bars to prevent stagnation
+Melodic deceleration leading into closing cadence
+Expanded final section reduces harmonic motion in final 16 bars, clear harmonic resolution, sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "15. 蒸気と桜 15-3-0"
+bpm      = 108
+duration = 252
+keyscale = "D minor"
+tags     = """
+Japanese orchestral jazz finale with widened sonic frame
+Primary rhythmic foundation: low string pedal with restrained drum texture
+Main lead instrument: violin sustained melodic arcs
+Supporting accent instruments: brief shamisen high-register motif echo, subtle brass accent only
+Ascending melodic contour builds toward final section
+Drop in density across last 12 bars before cadence
+Expanded final section slows rhythmic articulation, clear harmonic resolution, sustained final chord, no abrupt cutoff
+"""
+
+# 16. ソ・ラ♭・ソ・ファ（三味線独奏版） BPM: 72, Keyscale: D minor, duration: 164sec
+
+[[job]]
+label    = "16. ソ・ラ♭・ソ・ファ（三味線独奏版） 16-0-0"
+bpm      = 72
+duration = 164
+keyscale = "D minor"
+tags     = """
+Solo Japanese traditional performance with modal focus
+Primary rhythmic foundation: free-tempo pulse guided by subtle internal subdivision
+Main lead instrument: shamisen presenting four-note descending motif
+Supporting accent instruments: subtle room resonance sustain, occasional string harmonic accent only
+Ascending melodic variation appears in middle section
+16-bar implied phrasing through dynamic shaping
+Expanded final section reduces note density in last 12 bars, clear harmonic resolution, sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "16. ソ・ラ♭・ソ・ファ（三味線独奏版） 16-1-0"
+bpm      = 72
+duration = 164
+keyscale = "D minor"
+tags     = """
+Minimalist shamisen solo built around descending motif
+Primary rhythmic foundation: steady internal pulse without percussion
+Main lead instrument: shamisen expressive midrange articulation
+Supporting accent instruments: subtle natural resonance tail, brief percussive string accent only
+Melodic deceleration shapes central variation
+Light micro-variation through register shift
+Expanded final section simplifies melodic motion in last 8 bars, clear harmonic resolution, sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "16. ソ・ラ♭・ソ・ファ（三味線独奏版） 16-2-0"
+bpm      = 72
+duration = 164
+keyscale = "D minor"
+tags     = """
+Traditional Japanese solo interpretation with modal restraint
+Primary rhythmic foundation: implied slow pulse defined by phrase spacing
+Main lead instrument: shamisen centered motif exploration
+Supporting accent instruments: subtle fret noise resonance, occasional muted string accent only
+Ascending melodic contour briefly lifts tension in middle 16 bars
+Drop in density before final restatement
+Expanded final section thins articulation toward cadence, clear harmonic resolution, sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "16. ソ・ラ♭・ソ・ファ（三味線独奏版） 16-3-0"
+bpm      = 72
+duration = 164
+keyscale = "D minor"
+tags     = """
+Intimate shamisen solo with focused motif repetition
+Primary rhythmic foundation: slow internal subdivision without external percussion
+Main lead instrument: shamisen sustained melodic arcs
+Supporting accent instruments: subtle room ambience sustain, brief string percussive accent only
+16-bar structural arc shaped by dynamic control
+Melodic deceleration toward final cadence
+Expanded final section reduces note density in final 8 bars, clear harmonic resolution, sustained final chord, no abrupt cutoff
+"""

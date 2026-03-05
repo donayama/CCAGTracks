@@ -1,0 +1,1059 @@
+# Perfect Lap Standard Original Soundtrack
+# Composed by Keiko Nishijima & The Threshold Trio
+# Released: 2024
+
+# 01. Before You Cut the Engine BPM: 72, Keyscale: E minor, duration: 188sec
+
+[[job]]
+label    = "01. Before You Cut the Engine 01-0-0"
+bpm      = 72
+duration = 188
+keyscale = "E minor"
+tags     = """
+Jazz ballad trio with restrained tempo and wide spatial phrasing
+Primary rhythmic foundation: brushed drums with soft triplet swing under slow pulse
+Main lead instrument: piano single-note phrasing with deliberate pauses
+Supporting accent instruments: contrabass arco sustained tones, subtle brush swells accent only
+Introduce sparse ascending melodic line in middle section
+Maintain Em7 tonal color throughout with light 16-bar micro-variation
+Enter expanded final section, reduce rhythmic density in last 12 bars
+Clear harmonic resolution with sustained final chord and no abrupt cutoff
+"""
+
+[[job]]
+label    = "01. Before You Cut the Engine 01-1-0"
+bpm      = 72
+duration = 188
+keyscale = "E minor"
+tags     = """
+Slow hard bop ballad focused on reflective pre-drive atmosphere
+Primary rhythmic foundation: soft brush swing with minimal kick presence
+Main lead instrument: piano low-register melody with measured timing drift
+Supporting accent instruments: contrabass long bowed notes, occasional cymbal accent only
+Use rising harmonic tension in middle 8 bars without increasing density
+Keep dynamic restrained, avoid sudden swells
+Enter expanded final section, simplify harmonic motion over final 16 bars
+Clear harmonic resolution with sustained final chord and no abrupt cutoff
+"""
+
+[[job]]
+label    = "01. Before You Cut the Engine 01-2-0"
+bpm      = 72
+duration = 188
+keyscale = "E minor"
+tags     = """
+Unplugged jazz trio intro theme with human timing variance
+Primary rhythmic foundation: light swing pattern with subtle snare brush texture
+Main lead instrument: piano sparse motif built around Em7 tones
+Supporting accent instruments: contrabass gentle walking fragments, brief cymbal shimmer accent only
+Introduce drop in density at midpoint before reintroducing motif
+Maintain tonal stability without modulation
+Enter expanded final section, remove kick in last 8 bars
+Clear harmonic resolution with sustained final chord and no abrupt cutoff
+"""
+
+[[job]]
+label    = "01. Before You Cut the Engine 01-3-0"
+bpm      = 72
+duration = 188
+keyscale = "E minor"
+tags     = """
+Minimal jazz ballad establishing garage atmosphere
+Primary rhythmic foundation: brushed swing with long rests between phrases
+Main lead instrument: piano right-hand melody with slight human lag
+Supporting accent instruments: contrabass sustained low E, occasional rim click accent only
+Use ascending melodic line briefly in second half
+Avoid dramatic contrast, preserve steady emotional temperature
+Enter expanded final section, reduce rhythmic density over final 12 bars
+Clear harmonic resolution with sustained final chord and no abrupt cutoff
+"""
+
+# 02. Asphalt Dialogue BPM: 138, Keyscale: E minor, duration: 201sec
+
+[[job]]
+label    = "02. Asphalt Dialogue 02-0-0"
+bpm      = 138
+duration = 201
+keyscale = "E minor"
+tags     = """
+Hard bop trio with urban daytime drive momentum
+Primary rhythmic foundation: swung ride cymbal with steady walking bass
+Main lead instrument: piano call-and-response phrasing across mid register
+Supporting accent instruments: contrabass walking line, brief snare fills accent only
+Immediate high-energy entry with defined groove
+Introduce rising harmonic tension in second chorus without density overload
+Enter expanded final section, drop kick in last 4 bars
+Clear harmonic resolution with sustained final chord and no abrupt cutoff
+"""
+
+[[job]]
+label    = "02. Asphalt Dialogue 02-1-0"
+bpm      = 138
+duration = 201
+keyscale = "E minor"
+tags     = """
+Urban hard bop groove emphasizing forward motion
+Primary rhythmic foundation: strong walking bass quarter-note propulsion
+Main lead instrument: piano syncopated melody with conversational phrasing
+Supporting accent instruments: ride cymbal swing pattern, occasional tom accent only
+Maintain light 8-bar rhythmic change to prevent fatigue
+Avoid excessive contrast between sections
+Enter expanded final section, sustain pad-like piano voicing after groove stops
+Clear harmonic resolution with sustained final chord and no abrupt cutoff
+"""
+
+[[job]]
+label    = "02. Asphalt Dialogue 02-2-0"
+bpm      = 138
+duration = 201
+keyscale = "E minor"
+tags     = """
+Hard bop city circuit theme with precision focus
+Primary rhythmic foundation: walking bass with tight snare swing
+Main lead instrument: piano mid-register melodic line with subtle timing drift
+Supporting accent instruments: brief cymbal crashes accent only, short bass slides
+Immediate groove establishment without intro padding
+Introduce drop in density for 8 bars before final build
+Enter expanded final section, remove kick in final 4 bars
+Clear harmonic resolution with sustained final chord and no abrupt cutoff
+"""
+
+[[job]]
+label    = "02. Asphalt Dialogue 02-3-0"
+bpm      = 138
+duration = 201
+keyscale = "E minor"
+tags     = """
+Daytime course hard bop with mechanical yet human pulse
+Primary rhythmic foundation: ride-led swing with anchored walking bass
+Main lead instrument: piano motif built around Em7 intervals
+Supporting accent instruments: subtle snare ghost notes, occasional bass accent only
+Maintain tonal stability across full duration
+Light 16-bar micro-variation in piano voicing
+Enter expanded final section, drop kick in last 4 bars and simplify harmony
+Clear harmonic resolution with sustained final chord and no abrupt cutoff
+"""
+
+# 03. Wet Corner BPM: 128, Keyscale: E minor, duration: 194sec
+
+[[job]]
+label    = "03. Wet Corner 03-0-0"
+bpm      = 128
+duration = 194
+keyscale = "E minor"
+tags     = """
+Hard bop groove with reduced tempo for rain conditions
+Primary rhythmic foundation: walking bass with softened ride swing
+Main lead instrument: piano restrained right-hand melody with lighter attack
+Supporting accent instruments: brief snare brush accents, subtle cymbal swell accent only
+Introduce slight drop in density after first chorus
+Maintain steady forward motion without sudden dynamic spikes
+Enter expanded final section, drop kick in last 4 bars
+Clear harmonic resolution with sustained final chord and no abrupt cutoff
+"""
+
+[[job]]
+label    = "03. Wet Corner 03-1-0"
+bpm      = 128
+duration = 194
+keyscale = "E minor"
+tags     = """
+Rain-soaked hard bop maintaining controlled precision
+Primary rhythmic foundation: muted walking bass with softened snare swing
+Main lead instrument: piano mid-register motif with careful spacing
+Supporting accent instruments: occasional tom accent only, subtle bass slide
+Use rising harmonic tension in middle section without increasing density
+Keep micro-variation every 8 bars for flow
+Enter expanded final section, sustain piano voicing after groove stops
+Clear harmonic resolution with sustained final chord and no abrupt cutoff
+"""
+
+[[job]]
+label    = "03. Wet Corner 03-2-0"
+bpm      = 128
+duration = 194
+keyscale = "E minor"
+tags     = """
+Controlled hard bop adaptation of city theme for wet surface
+Primary rhythmic foundation: walking bass with light ride pattern
+Main lead instrument: piano descending phrase countered by ascending melodic line later
+Supporting accent instruments: subtle cymbal taps accent only, brief snare ghost notes
+Immediate groove entry without dramatic intro
+Introduce drop in density before final chorus
+Enter expanded final section, remove kick in last 8 bars
+Clear harmonic resolution with sustained final chord and no abrupt cutoff
+"""
+
+[[job]]
+label    = "03. Wet Corner 03-3-0"
+bpm      = 128
+duration = 194
+keyscale = "E minor"
+tags     = """
+Rain course hard bop emphasizing grip and restraint
+Primary rhythmic foundation: steady walking bass with restrained snare pattern
+Main lead instrument: piano motif shaped around Em7 tones
+Supporting accent instruments: brief rim clicks accent only, subtle cymbal decay
+Maintain tonal stability and avoid over-dense layering
+Light rhythmic change every 8 bars to prevent fatigue
+Enter expanded final section, drop kick and simplify harmony in final 12 bars
+Clear harmonic resolution with sustained final chord and no abrupt cutoff
+"""
+
+# 04. Before the Mountain BPM: 124, Keyscale: E minor, duration: 213sec
+
+[[job]]
+label    = "04. Before the Mountain 04-0-0"
+bpm      = 124
+duration = 213
+keyscale = "E minor"
+tags     = """
+Walking jazz ascent theme with gradual instrumentation build
+Primary rhythmic foundation: solo walking bass opening for first section
+Main lead instrument: contrabass melodic walking line
+Supporting accent instruments: piano enters later with brief chord accents, subtle brush texture accent only
+Introduce ascending melodic line during second half
+Avoid dramatic shifts, keep steady climb sensation
+Enter expanded final section, reduce rhythmic density in last 16 bars
+Clear harmonic resolution with sustained final chord and no abrupt cutoff
+"""
+
+[[job]]
+label    = "04. Before the Mountain 04-1-0"
+bpm      = 124
+duration = 213
+keyscale = "E minor"
+tags     = """
+Ascending mountain drive in walking jazz style
+Primary rhythmic foundation: persistent quarter-note bass propulsion
+Main lead instrument: contrabass expressive walking phrasing
+Supporting accent instruments: piano light voicings accent only, occasional cymbal brush
+Maintain micro-variation every 16 bars
+Introduce rising harmonic tension before summit section
+Enter expanded final section, drop kick in final 8 bars
+Clear harmonic resolution with sustained final chord and no abrupt cutoff
+"""
+
+[[job]]
+label    = "04. Before the Mountain 04-2-0"
+bpm      = 124
+duration = 213
+keyscale = "E minor"
+tags     = """
+Mountain ascent theme focused on endurance and steady control
+Primary rhythmic foundation: walking bass with light brush swing added mid-track
+Main lead instrument: contrabass carrying primary melodic contour
+Supporting accent instruments: brief piano fills accent only, subtle cymbal shimmer
+Immediate groove from bass without intro padding
+Introduce drop in density before final climb segment
+Enter expanded final section, simplify harmonic motion in last 12 bars
+Clear harmonic resolution with sustained final chord and no abrupt cutoff
+"""
+
+[[job]]
+label    = "04. Before the Mountain 04-3-0"
+bpm      = 124
+duration = 213
+keyscale = "E minor"
+tags     = """
+Walking jazz climb emphasizing physical weight of ascent
+Primary rhythmic foundation: steady bass quarter-notes with minimal snare
+Main lead instrument: contrabass melodic emphasis in low register
+Supporting accent instruments: piano delayed entrance accent only, brief brush accents
+Maintain tonal stability throughout track
+Light rhythmic change every 8 bars for momentum
+Enter expanded final section, remove kick and soften bass in last 8 bars
+Clear harmonic resolution with sustained final chord and no abrupt cutoff
+"""
+
+# 05. Ridgeline BPM: 96, Keyscale: E minor, duration: 182sec
+
+[[job]]
+label    = "05. Ridgeline 05-0-0"
+bpm      = 96
+duration = 182
+keyscale = "E minor"
+tags     = """
+Freeform jazz fragment with suspended pulse near summit
+Primary rhythmic foundation: sparse brushed snare with long rests between phrases
+Main lead instrument: piano abstract mid-register motif without fixed repetition
+Supporting accent instruments: contrabass sustained low tones accent only, subtle cymbal wash accent only
+Introduce drop in density at midpoint to create air
+Avoid strong dynamic peaks, maintain plateau atmosphere
+Enter expanded final section, reduce rhythmic density in last 12 bars
+Clear harmonic resolution with sustained final chord and no abrupt cutoff
+"""
+
+[[job]]
+label    = "05. Ridgeline 05-1-0"
+bpm      = 96
+duration = 182
+keyscale = "E minor"
+tags     = """
+Open-form jazz plateau theme with reflective pacing
+Primary rhythmic foundation: light swing suggestion with minimal kick presence
+Main lead instrument: piano fragmented melodic phrases around Em7 tones
+Supporting accent instruments: contrabass long bowed notes accent only, occasional rim click accent only
+Use ascending melodic line briefly before returning to sparse texture
+Maintain tonal stability without modulation
+Enter expanded final section, simplify harmonic motion over final 16 bars
+Clear harmonic resolution with sustained final chord and no abrupt cutoff
+"""
+
+[[job]]
+label    = "05. Ridgeline 05-2-0"
+bpm      = 96
+duration = 182
+keyscale = "E minor"
+tags     = """
+Summit section jazz with restrained forward motion
+Primary rhythmic foundation: brushed triplet feel with extended silence gaps
+Main lead instrument: piano high-register motif with deliberate spacing
+Supporting accent instruments: contrabass pedal tone accent only, subtle cymbal decay accent only
+Introduce rising harmonic tension in second half without density increase
+Avoid sudden tempo change
+Enter expanded final section, remove kick and thin texture in last 8 bars
+Clear harmonic resolution with sustained final chord and no abrupt cutoff
+"""
+
+[[job]]
+label    = "05. Ridgeline 05-3-0"
+bpm      = 96
+duration = 182
+keyscale = "E minor"
+tags     = """
+Freeform ridge atmosphere in unplugged trio format
+Primary rhythmic foundation: minimal swing pulse with light snare brush
+Main lead instrument: piano modal exploration centered on E minor
+Supporting accent instruments: contrabass sustained harmonics accent only, brief cymbal shimmer accent only
+Maintain subtle 16-bar micro-variation
+Avoid over-dense layering or fast runs
+Enter expanded final section, gradually reduce rhythmic activity in last 12 bars
+Clear harmonic resolution with sustained final chord and no abrupt cutoff
+"""
+
+# 06. Harmonica: Mountain Descent BPM: 132, Keyscale: E minor, duration: 199sec
+
+[[job]]
+label    = "06. Harmonica: Mountain Descent 06-0-0"
+bpm      = 132
+duration = 199
+keyscale = "E minor"
+tags     = """
+Hard bop descent theme with expressive breath phrasing
+Primary rhythmic foundation: walking bass with steady swing ride
+Main lead instrument: harmonica lyrical lead carrying descending contour
+Supporting accent instruments: piano chord stabs accent only, brief snare fills accent only
+Immediate groove entry with defined swing pulse
+Introduce drop in density before final descent phrase
+Enter expanded final section, drop kick in last 8 bars
+Clear harmonic resolution with sustained final chord and no abrupt cutoff
+"""
+
+[[job]]
+label    = "06. Harmonica: Mountain Descent 06-1-0"
+bpm      = 132
+duration = 199
+keyscale = "E minor"
+tags     = """
+Mountain descent hard bop emphasizing controlled acceleration
+Primary rhythmic foundation: walking bass with light snare swing
+Main lead instrument: harmonica sustained tones followed by agile runs
+Supporting accent instruments: subtle piano fills accent only, occasional cymbal crash accent only
+Use ascending melodic line briefly to counter descending contour
+Maintain steady tonal center without modulation
+Enter expanded final section, remove kick and simplify harmony in final 12 bars
+Clear harmonic resolution with sustained final chord and no abrupt cutoff
+"""
+
+[[job]]
+label    = "06. Harmonica: Mountain Descent 06-2-0"
+bpm      = 132
+duration = 199
+keyscale = "E minor"
+tags     = """
+Jazz trio with harmonica lead reflecting downhill flow
+Primary rhythmic foundation: strong walking bass propulsion
+Main lead instrument: harmonica mid-register melody with natural breath spacing
+Supporting accent instruments: piano syncopated chords accent only, brief snare ghost notes accent only
+Immediate swing feel without extended intro
+Introduce rising harmonic tension before final chorus
+Enter expanded final section, drop kick in last 4 bars
+Clear harmonic resolution with sustained final chord and no abrupt cutoff
+"""
+
+[[job]]
+label    = "06. Harmonica: Mountain Descent 06-3-0"
+bpm      = 132
+duration = 199
+keyscale = "E minor"
+tags     = """
+Descent groove in hard bop style with human timing drift
+Primary rhythmic foundation: walking bass and ride-led swing pattern
+Main lead instrument: harmonica expressive melodic phrasing around Em7 tones
+Supporting accent instruments: piano brief counter-lines accent only, subtle cymbal swell accent only
+Maintain light rhythmic change every 8 bars
+Avoid excessive density increase
+Enter expanded final section, reduce rhythmic density in last 16 bars
+Clear harmonic resolution with sustained final chord and no abrupt cutoff
+"""
+
+# 07. Night Run BPM: 118, Keyscale: E minor, duration: 224sec
+
+[[job]]
+label    = "07. Night Run 07-0-0"
+bpm      = 118
+duration = 224
+keyscale = "E minor"
+tags     = """
+Cool jazz trio for nocturnal circuit focus
+Primary rhythmic foundation: brushed snare with soft ride pattern and minimal kick
+Main lead instrument: piano low-register melody with measured phrasing
+Supporting accent instruments: contrabass arco sustained tones accent only, occasional cymbal swell accent only
+Introduce ascending melodic line briefly in second half
+Maintain restrained dynamics and avoid density spikes
+Enter expanded final section, drop kick in last 4 bars and thin texture
+Clear harmonic resolution with sustained final chord and no abrupt cutoff
+"""
+
+[[job]]
+label    = "07. Night Run 07-1-0"
+bpm      = 118
+duration = 224
+keyscale = "E minor"
+tags     = """
+Night drive cool jazz with reflective swing
+Primary rhythmic foundation: light swing groove with brushed snare emphasis
+Main lead instrument: piano mid-register motif shaped around Em7 tones
+Supporting accent instruments: contrabass subtle walking fragments accent only, brief rim click accent only
+Use drop in density midway to deepen concentration
+Avoid strong dynamic contrast
+Enter expanded final section, sustain piano voicing after groove stops
+Clear harmonic resolution with sustained final chord and no abrupt cutoff
+"""
+
+[[job]]
+label    = "07. Night Run 07-2-0"
+bpm      = 118
+duration = 224
+keyscale = "E minor"
+tags     = """
+Late-night circuit theme in unplugged cool jazz format
+Primary rhythmic foundation: soft ride cymbal pulse with sparse kick
+Main lead instrument: piano lyrical line with slight human lag
+Supporting accent instruments: contrabass bowed notes accent only, subtle cymbal decay accent only
+Maintain 16-bar micro-variation without tempo shift
+Keep tonal stability and moderate intensity
+Enter expanded final section, reduce rhythmic density in final 12 bars
+Clear harmonic resolution with sustained final chord and no abrupt cutoff
+"""
+
+[[job]]
+label    = "07. Night Run 07-3-0"
+bpm      = 118
+duration = 224
+keyscale = "E minor"
+tags     = """
+Cool jazz night session emphasizing controlled breathing space
+Primary rhythmic foundation: brushed swing with extended rests
+Main lead instrument: piano sparse motif in upper register
+Supporting accent instruments: contrabass pedal tone accent only, occasional soft cymbal accent only
+Introduce rising harmonic tension subtly in middle section
+Avoid over-dense chord clusters
+Enter expanded final section, remove kick in last 8 bars
+Clear harmonic resolution with sustained final chord and no abrupt cutoff
+"""
+
+# 08. Zero Error BPM: 140, Keyscale: E minor, duration: 178sec
+
+[[job]]
+label    = "08. Zero Error 08-0-0"
+bpm      = 140
+duration = 178
+keyscale = "E minor"
+tags     = """
+Metronomic hard bop unison representing theoretical precision
+Primary rhythmic foundation: strict ride pattern with locked walking bass
+Main lead instrument: piano in exact unison with bass and snare accents
+Supporting accent instruments: brief cymbal crash accent only, subtle rim click accent only
+Immediate high-energy entry with rigid alignment
+Maintain uniform articulation across first half
+Enter expanded final section, drop kick in last 4 bars and simplify harmony
+Clear harmonic resolution with sustained final chord and no abrupt cutoff
+"""
+
+[[job]]
+label    = "08. Zero Error 08-1-0"
+bpm      = 140
+duration = 178
+keyscale = "E minor"
+tags     = """
+Hard bop trio in precise unison without timing drift
+Primary rhythmic foundation: consistent quarter-note walking bass under strict swing
+Main lead instrument: piano synchronized exactly with bass line
+Supporting accent instruments: occasional snare accent only, subtle cymbal shimmer accent only
+Maintain tonal stability and mechanical clarity
+Introduce slight drop in density before final phrase
+Enter expanded final section, remove kick in final 8 bars
+Clear harmonic resolution with sustained final chord and no abrupt cutoff
+"""
+
+[[job]]
+label    = "08. Zero Error 08-2-0"
+bpm      = 140
+duration = 178
+keyscale = "E minor"
+tags     = """
+Precision-focused hard bop with no human lag
+Primary rhythmic foundation: tight ride cymbal and locked bass groove
+Main lead instrument: piano unison melody played without swing variation
+Supporting accent instruments: brief tom accent only, subtle cymbal decay accent only
+Immediate groove start without intro fill
+Avoid expressive tempo fluctuation
+Enter expanded final section, drop kick and thin texture in last 12 bars
+Clear harmonic resolution with sustained final chord and no abrupt cutoff
+"""
+
+[[job]]
+label    = "08. Zero Error 08-3-0"
+bpm      = 140
+duration = 178
+keyscale = "E minor"
+tags     = """
+Rigid unison trio emphasizing calculated alignment
+Primary rhythmic foundation: steady swing pattern locked to metronome feel
+Main lead instrument: piano carrying unison phrase in mid register
+Supporting accent instruments: brief snare accents only, occasional cymbal accent only
+Maintain minimal micro-variation to preserve strictness
+Avoid dynamic swell
+Enter expanded final section, reduce rhythmic density in final 16 bars
+Clear harmonic resolution with sustained final chord and no abrupt cutoff
+"""
+
+# 09. The Morning of the New PB BPM: 96, Keyscale: E minor, duration: 171sec
+
+[[job]]
+label    = "09. The Morning of the New PB 09-0-0"
+bpm      = 96
+duration = 171
+keyscale = "E minor"
+tags     = """
+Jazz blues trio expressing quiet post-record reflection
+Primary rhythmic foundation: shuffle groove with soft walking bass
+Main lead instrument: piano blues-based melody centered on E minor
+Supporting accent instruments: contrabass steady quarter-notes accent only, brief snare shuffle accents accent only
+Introduce ascending melodic line in second chorus
+Maintain moderate density without tempo increase
+Enter expanded final section, drop kick in last 4 bars
+Clear harmonic resolution with sustained final chord and no abrupt cutoff
+"""
+
+[[job]]
+label    = "09. The Morning of the New PB 09-1-0"
+bpm      = 96
+duration = 171
+keyscale = "E minor"
+tags     = """
+Mid-tempo blues in unplugged trio format
+Primary rhythmic foundation: relaxed shuffle pulse with light ride support
+Main lead instrument: piano lyrical motif using blue-note inflection
+Supporting accent instruments: contrabass subtle walking movement accent only, occasional rim click accent only
+Avoid strong dynamic contrast, preserve steady mood
+Use drop in density midway to deepen focus
+Enter expanded final section, sustain piano voicing after groove stops
+Clear harmonic resolution with sustained final chord and no abrupt cutoff
+"""
+
+[[job]]
+label    = "09. The Morning of the New PB 09-2-0"
+bpm      = 96
+duration = 171
+keyscale = "E minor"
+tags     = """
+Reflective jazz blues following personal best achievement
+Primary rhythmic foundation: soft shuffle with minimal kick presence
+Main lead instrument: piano mid-register melody with subtle timing drift
+Supporting accent instruments: brief bass slide accent only, subtle cymbal accent only
+Maintain tonal stability around Em7 coloration
+Introduce rising harmonic tension before final turnaround
+Enter expanded final section, remove kick in last 8 bars
+Clear harmonic resolution with sustained final chord and no abrupt cutoff
+"""
+
+[[job]]
+label    = "09. The Morning of the New PB 09-3-0"
+bpm      = 96
+duration = 171
+keyscale = "E minor"
+tags     = """
+Blues-tinged trio theme with understated optimism
+Primary rhythmic foundation: steady shuffle groove with brushed snare
+Main lead instrument: piano blues progression phrasing in upper register
+Supporting accent instruments: contrabass pedal tone accent only, brief cymbal shimmer accent only
+Maintain 16-bar micro-variation without adding density
+Avoid sudden dynamic spikes
+Enter expanded final section, simplify harmonic motion over final 12 bars
+Clear harmonic resolution with sustained final chord and no abrupt cutoff
+"""
+
+# 10. Distance from Perfect BPM: 84, Keyscale: E minor, duration: 187sec
+
+[[job]]
+label    = "10. Distance from Perfect 10-0-0"
+bpm      = 84
+duration = 187
+keyscale = "E minor"
+tags     = """
+Solo piano jazz meditation on theoretical gap
+Primary rhythmic foundation: implied slow pulse without percussion
+Main lead instrument: piano expressive melody built on Em7 tones
+Supporting accent instruments: brief low-register pedal resonance accent only
+Introduce ascending melodic line in middle section
+Maintain restrained dynamic contour
+Enter expanded final section, reduce harmonic movement in last 16 bars
+Clear harmonic resolution with sustained final chord and no abrupt cutoff
+"""
+
+[[job]]
+label    = "10. Distance from Perfect 10-1-0"
+bpm      = 84
+duration = 187
+keyscale = "E minor"
+tags     = """
+Unaccompanied piano piece for ghost comparison screen
+Primary rhythmic foundation: free rubato with subtle internal pulse
+Main lead instrument: piano mid-register motif with natural timing variance
+Supporting accent instruments: occasional low octave accent only
+Use rising harmonic tension before gentle descent
+Avoid dense chord clusters
+Enter expanded final section, sustain final voicing over last 12 bars
+Clear harmonic resolution with sustained final chord and no abrupt cutoff
+"""
+
+[[job]]
+label    = "10. Distance from Perfect 10-2-0"
+bpm      = 84
+duration = 187
+keyscale = "E minor"
+tags     = """
+Reflective solo piano exploring precision and limitation
+Primary rhythmic foundation: slow implied 4/4 with elongated rests
+Main lead instrument: piano lyrical line in upper register
+Supporting accent instruments: brief bass octave accent only
+Maintain tonal stability without modulation
+Introduce drop in density before final phrase
+Enter expanded final section, allow harmonic motion to slow in last 16 bars
+Clear harmonic resolution with sustained final chord and no abrupt cutoff
+"""
+
+[[job]]
+label    = "10. Distance from Perfect 10-3-0"
+bpm      = 84
+duration = 187
+keyscale = "E minor"
+tags     = """
+Solo jazz piano with restrained emotional contour
+Primary rhythmic foundation: gentle rubato phrasing without drums
+Main lead instrument: piano motif centered on E minor intervals
+Supporting accent instruments: subtle pedal resonance accent only
+Maintain 8-bar micro-variation through phrasing changes
+Avoid sudden tempo acceleration
+Enter expanded final section, sustain final chord with gradual decay
+Clear harmonic resolution with sustained final chord and no abrupt cutoff
+"""
+
+# 11. Last Lap Rain BPM: 146, Keyscale: E minor, duration: 208sec
+
+[[job]]
+label    = "11. Last Lap Rain 11-0-0"
+bpm      = 146
+duration = 208
+keyscale = "E minor"
+tags     = """
+Hard bop rain variant with natural tempo lift for final lap
+Primary rhythmic foundation: accelerated walking bass with assertive ride swing
+Main lead instrument: piano driving mid-register melodic line
+Supporting accent instruments: brief snare fills accent only, subtle cymbal crash accent only
+Immediate high-energy entry with forward push
+Introduce rising harmonic tension across middle chorus
+Enter expanded final section, drop kick in last 4 bars and thin texture
+Clear harmonic resolution with sustained final chord and no abrupt cutoff
+"""
+
+[[job]]
+label    = "11. Last Lap Rain 11-1-0"
+bpm      = 146
+duration = 208
+keyscale = "E minor"
+tags     = """
+Final lap rain hard bop emphasizing controlled acceleration
+Primary rhythmic foundation: strong walking bass quarter-notes with tight swing
+Main lead instrument: piano motif built around Em7 tones with slight human lag
+Supporting accent instruments: occasional tom accent only, brief bass slide accent only
+Maintain 8-bar micro-variation to prevent fatigue
+Avoid over-dense layering
+Enter expanded final section, remove snare before final resolution
+Clear harmonic resolution with sustained final chord and no abrupt cutoff
+"""
+
+[[job]]
+label    = "11. Last Lap Rain 11-2-0"
+bpm      = 146
+duration = 208
+keyscale = "E minor"
+tags     = """
+Rain condition sprint in unplugged jazz trio format
+Primary rhythmic foundation: ride-led swing with active walking bass
+Main lead instrument: piano ascending melodic line during build sections
+Supporting accent instruments: subtle rim clicks accent only, brief cymbal swell accent only
+Immediate groove without intro padding
+Introduce drop in density for 8 bars before final surge
+Enter expanded final section, remove kick in last 8 bars
+Clear harmonic resolution with sustained final chord and no abrupt cutoff
+"""
+
+[[job]]
+label    = "11. Last Lap Rain 11-3-0"
+bpm      = 146
+duration = 208
+keyscale = "E minor"
+tags     = """
+High-tempo hard bop rain chase with focused momentum
+Primary rhythmic foundation: walking bass with sharpened snare articulation
+Main lead instrument: piano syncopated melody across mid and upper register
+Supporting accent instruments: brief cymbal crash accent only, subtle bass accent only
+Maintain tonal stability without modulation
+Light rhythmic change every 8 bars for drive continuity
+Enter expanded final section, gradual drum thinning in final 12 bars
+Clear harmonic resolution with sustained final chord and no abrupt cutoff
+"""
+
+# 12. Dry Last Lap BPM: 142, Keyscale: E minor, duration: 202sec
+
+[[job]]
+label    = "12. Dry Last Lap 12-0-0"
+bpm      = 142
+duration = 202
+keyscale = "E minor"
+tags     = """
+Hard bop final lap under dry conditions with tightened focus
+Primary rhythmic foundation: walking bass propulsion with steady ride swing
+Main lead instrument: piano clear mid-register motif with firm articulation
+Supporting accent instruments: brief snare accents accent only, subtle cymbal shimmer accent only
+Immediate high-energy entry with clean groove
+Introduce rising harmonic tension before final chorus
+Enter expanded final section, drop kick in last 4 bars
+Clear harmonic resolution with sustained final chord and no abrupt cutoff
+"""
+
+[[job]]
+label    = "12. Dry Last Lap 12-1-0"
+bpm      = 142
+duration = 202
+keyscale = "E minor"
+tags     = """
+Focused sprint hard bop with refined intensity
+Primary rhythmic foundation: consistent quarter-note walking bass
+Main lead instrument: piano ascending melodic line to mark decisive corners
+Supporting accent instruments: occasional rim click accent only, brief tom accent only
+Maintain subtle 16-bar micro-variation
+Avoid abrupt dynamic shifts
+Enter expanded final section, remove snare before final resolution
+Clear harmonic resolution with sustained final chord and no abrupt cutoff
+"""
+
+[[job]]
+label    = "12. Dry Last Lap 12-2-0"
+bpm      = 142
+duration = 202
+keyscale = "E minor"
+tags     = """
+Dry surface last lap in unplugged jazz trio style
+Primary rhythmic foundation: ride-led swing with anchored bass groove
+Main lead instrument: piano motif centered on Em7 intervals
+Supporting accent instruments: subtle cymbal accent only, brief bass slide accent only
+Immediate groove establishment without intro fill
+Introduce drop in density mid-track before final build
+Enter expanded final section, remove kick in last 8 bars
+Clear harmonic resolution with sustained final chord and no abrupt cutoff
+"""
+
+[[job]]
+label    = "12. Dry Last Lap 12-3-0"
+bpm      = 142
+duration = 202
+keyscale = "E minor"
+tags     = """
+Accelerated hard bop finale emphasizing precision over volume
+Primary rhythmic foundation: walking bass with tight snare swing
+Main lead instrument: piano syncopated melody with measured articulation
+Supporting accent instruments: brief cymbal crash accent only, subtle rim click accent only
+Maintain tonal stability and avoid density overload
+Light rhythmic change every 8 bars to sustain flow
+Enter expanded final section, gradual drum thinning in final 16 bars
+Clear harmonic resolution with sustained final chord and no abrupt cutoff
+"""
+
+# 13. When the Timer Stops BPM: 138, Keyscale: E minor, duration: 184sec
+
+[[job]]
+label    = "13. When the Timer Stops 13-0-0"
+bpm      = 138
+duration = 184
+keyscale = "E minor"
+tags     = """
+Hard bop trio aligned with finish-line intensity
+Primary rhythmic foundation: steady walking bass with assertive ride swing
+Main lead instrument: piano driving mid-register melody with tight articulation
+Supporting accent instruments: brief snare accents accent only, subtle cymbal crash accent only
+Immediate groove entry without extended intro
+Introduce drop in density after midpoint before final approach
+Enter expanded final section, drop kick in last 4 bars and simplify harmony
+Clear harmonic resolution with sustained final chord and no abrupt cutoff
+"""
+
+[[job]]
+label    = "13. When the Timer Stops 13-1-0"
+bpm      = 138
+duration = 184
+keyscale = "E minor"
+tags     = """
+Finish sequence hard bop with controlled forward momentum
+Primary rhythmic foundation: walking bass propulsion with consistent swing ride
+Main lead instrument: piano syncopated motif built around Em7 intervals
+Supporting accent instruments: occasional rim click accent only, brief tom accent only
+Maintain 8-bar micro-variation to prevent fatigue
+Avoid sudden silence or isolated drum hits
+Enter expanded final section, remove kick in last 8 bars
+Clear harmonic resolution with sustained final chord and no abrupt cutoff
+"""
+
+[[job]]
+label    = "13. When the Timer Stops 13-2-0"
+bpm      = 138
+duration = 184
+keyscale = "E minor"
+tags     = """
+Hard bop finish theme emphasizing arrival rather than climax
+Primary rhythmic foundation: ride-led swing with anchored walking bass
+Main lead instrument: piano ascending melodic line leading to final cadence
+Supporting accent instruments: subtle cymbal shimmer accent only, brief bass accent only
+Immediate high-energy entry with defined groove
+Introduce rising harmonic tension in penultimate section
+Enter expanded final section, gradual drum thinning in final 12 bars
+Clear harmonic resolution with sustained final chord and no abrupt cutoff
+"""
+
+[[job]]
+label    = "13. When the Timer Stops 13-3-0"
+bpm      = 138
+duration = 184
+keyscale = "E minor"
+tags     = """
+Jazz trio finish-line cue with disciplined swing
+Primary rhythmic foundation: steady quarter-note walking bass and light snare swing
+Main lead instrument: piano firm mid-register motif with measured phrasing
+Supporting accent instruments: brief cymbal crash accent only, subtle rim click accent only
+Maintain tonal stability without modulation
+Introduce drop in density before final resolution
+Enter expanded final section, remove snare before final resolution
+Clear harmonic resolution with sustained final chord and no abrupt cutoff
+"""
+
+# 14. Back to the Garage BPM: 76, Keyscale: E minor, duration: 191sec
+
+[[job]]
+label    = "14. Back to the Garage 14-0-0"
+bpm      = 76
+duration = 191
+keyscale = "E minor"
+tags     = """
+Jazz ballad reprise reflecting post-run atmosphere
+Primary rhythmic foundation: brushed swing with minimal kick presence
+Main lead instrument: piano single-note melody with gentle pacing
+Supporting accent instruments: contrabass arco sustained tones accent only, subtle cymbal swell accent only
+Introduce ascending melodic line briefly in middle section
+Maintain restrained dynamic contour
+Enter expanded final section, reduce rhythmic density in last 16 bars
+Clear harmonic resolution with sustained final chord and no abrupt cutoff
+"""
+
+[[job]]
+label    = "14. Back to the Garage 14-1-0"
+bpm      = 76
+duration = 191
+keyscale = "E minor"
+tags     = """
+Slow trio ballad with slightly elevated pulse after drive
+Primary rhythmic foundation: soft brush pattern with light swing
+Main lead instrument: piano motif centered on Em7 tones
+Supporting accent instruments: contrabass subtle walking fragments accent only, brief rim click accent only
+Maintain tonal stability and avoid density increase
+Use drop in density midway to deepen focus
+Enter expanded final section, sustain piano voicing after groove stops
+Clear harmonic resolution with sustained final chord and no abrupt cutoff
+"""
+
+[[job]]
+label    = "14. Back to the Garage 14-2-0"
+bpm      = 76
+duration = 191
+keyscale = "E minor"
+tags     = """
+Reflective unplugged jazz ballad after finish
+Primary rhythmic foundation: brushed snare with extended rests
+Main lead instrument: piano mid-register melody with slight human lag
+Supporting accent instruments: contrabass pedal tone accent only, subtle cymbal decay accent only
+Maintain 16-bar micro-variation without tempo shift
+Avoid abrupt dynamic spikes
+Enter expanded final section, remove kick in last 8 bars
+Clear harmonic resolution with sustained final chord and no abrupt cutoff
+"""
+
+[[job]]
+label    = "14. Back to the Garage 14-3-0"
+bpm      = 76
+duration = 191
+keyscale = "E minor"
+tags     = """
+Garage return theme in restrained jazz trio format
+Primary rhythmic foundation: gentle swing with brushed snare texture
+Main lead instrument: piano lyrical upper-register motif
+Supporting accent instruments: contrabass sustained low E accent only, brief cymbal shimmer accent only
+Maintain steady mood without strong contrast
+Introduce drop in density before final phrase
+Enter expanded final section, simplify harmonic motion in last 12 bars
+Clear harmonic resolution with sustained final chord and no abrupt cutoff
+"""
+
+# 15. The Perfect Ghost BPM: 140, Keyscale: E minor, duration: 242sec
+
+[[job]]
+label    = "15. The Perfect Ghost 15-0-0"
+bpm      = 140
+duration = 242
+keyscale = "E minor"
+tags     = """
+Hard bop unison theme transitioning from precision to human drift
+Primary rhythmic foundation: strict walking bass and locked ride pattern in opening section
+Main lead instrument: piano unison melody aligned exactly with bass for first chorus
+Supporting accent instruments: brief snare accents accent only, subtle cymbal crash accent only
+Immediate high-energy entry with rigid alignment for first 16 bars
+After unison section, reintroduce slight human timing variance in piano phrasing
+Enter expanded final section, gradual drum thinning in final 16 bars
+Clear harmonic resolution with sustained final chord and no abrupt cutoff
+"""
+
+[[job]]
+label    = "15. The Perfect Ghost 15-1-0"
+bpm      = 140
+duration = 242
+keyscale = "E minor"
+tags     = """
+Precision-driven hard bop evolving into expressive trio interplay
+Primary rhythmic foundation: quarter-note walking bass with controlled swing
+Main lead instrument: piano mid-register unison motif that gradually loosens
+Supporting accent instruments: occasional tom accent only, subtle rim click accent only
+Maintain tonal stability around Em7 coloration
+Introduce rising harmonic tension once drift returns
+Enter expanded final section, remove snare before final resolution
+Clear harmonic resolution with sustained final chord and no abrupt cutoff
+"""
+
+[[job]]
+label    = "15. The Perfect Ghost 15-2-0"
+bpm      = 140
+duration = 242
+keyscale = "E minor"
+tags     = """
+Unison trio statement transforming into humanized hard bop
+Primary rhythmic foundation: tight ride-led swing in first half, then relaxed swing feel
+Main lead instrument: piano clear mid-register melodic line leading transition
+Supporting accent instruments: brief bass accent only, subtle cymbal shimmer accent only
+Immediate groove without intro padding
+Introduce drop in density before final chorus
+Enter expanded final section, remove kick in last 8 bars
+Clear harmonic resolution with sustained final chord and no abrupt cutoff
+"""
+
+[[job]]
+label    = "15. The Perfect Ghost 15-3-0"
+bpm      = 140
+duration = 242
+keyscale = "E minor"
+tags     = """
+Hard bop culmination balancing exactness and organic variation
+Primary rhythmic foundation: steady walking bass under consistent ride swing
+Main lead instrument: piano motif beginning in exact unison then adding slight lag
+Supporting accent instruments: brief snare accents accent only, subtle cymbal decay accent only
+Maintain 16-bar micro-variation to preserve flow
+Avoid excessive density increase after drift returns
+Enter expanded final section, gradual drum thinning and harmonic simplification
+Clear harmonic resolution with sustained final chord and no abrupt cutoff
+"""
+
+# 16. Em7 — Room Tone BPM: 60, Keyscale: E minor, duration: 153sec
+
+[[job]]
+label    = "16. Em7 — Room Tone 16-0-0"
+bpm      = 60
+duration = 153
+keyscale = "E minor"
+tags     = """
+Minimal piano resonance piece focused on single Em7 voicing
+Primary rhythmic foundation: no percussion, sustained harmonic space
+Main lead instrument: piano single struck Em7 chord with natural decay
+Supporting accent instruments: subtle room resonance accent only
+Maintain extended silence after initial chord strike
+Avoid additional melodic development
+Enter expanded final section, further reduce harmonic motion in last 16 bars
+Clear harmonic resolution with sustained final chord and no abrupt cutoff
+"""
+
+[[job]]
+label    = "16. Em7 — Room Tone 16-1-0"
+bpm      = 60
+duration = 153
+keyscale = "E minor"
+tags     = """
+Ambient jazz coda built around a single sustained chord
+Primary rhythmic foundation: implied slow pulse through decay only
+Main lead instrument: piano low-register Em7 voicing allowed to resonate fully
+Supporting accent instruments: subtle room noise accent only
+Introduce drop in density by allowing longer silence intervals
+Avoid rhythmic articulation or additional harmony
+Enter expanded final section, sustain final chord until near silence
+Clear harmonic resolution with sustained final chord and no abrupt cutoff
+"""
+
+[[job]]
+label    = "16. Em7 — Room Tone 16-2-0"
+bpm      = 60
+duration = 153
+keyscale = "E minor"
+tags     = """
+Solo piano room capture emphasizing tonal afterglow
+Primary rhythmic foundation: no defined groove, only natural decay
+Main lead instrument: piano mid-register Em7 struck once with controlled touch
+Supporting accent instruments: faint room vibration accent only
+Maintain tonal stability without modulation
+Avoid secondary melodic material
+Enter expanded final section, allow decay to thin texture gradually
+Clear harmonic resolution with sustained final chord and no abrupt cutoff
+"""
+
+[[job]]
+label    = "16. Em7 — Room Tone 16-3-0"
+bpm      = 60
+duration = 153
+keyscale = "E minor"
+tags     = """
+Closing jazz vignette centered on sustained harmonic space
+Primary rhythmic foundation: absence of percussion, extended resonance field
+Main lead instrument: piano single Em7 chord held through pedal sustain
+Supporting accent instruments: subtle ambient resonance accent only
+Maintain quiet dynamic throughout
+Avoid abrupt silence or percussive ending
+Enter expanded final section, extend decay over final 16 bars
+Clear harmonic resolution with sustained final chord and no abrupt cutoff
+"""

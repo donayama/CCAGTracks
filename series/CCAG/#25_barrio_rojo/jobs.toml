@@ -1,0 +1,1180 @@
+# Barrio Rojo: Combate Original Soundtrack
+# Composed by Carmen Villalba & Ensemble Tablao
+# Released: 2023
+
+# 01. Bienvenidos al Barrio BPM: 96, Keyscale: A minor, duration: 192sec
+
+[[job]]
+label    = "01. Bienvenidos al Barrio 01-0-0"
+bpm      = 96
+duration = 192
+keyscale = "A minor"
+tags     = """
+Flamenco Soleá-influenced ambient introduction
+Slow 12-beat rhythmic pulse implied by low cajón taps
+Main lead: flamenco guitar single-note phrasing with wide spacing
+Subtle contrabass sustained low tones, brief seagull-like ambient textures
+Ascending melodic line referencing A–Bb–C motif in early section
+Light 16-bar micro-variation through harmonic inversion
+Expanded final section with drop in density and reduced cajón presence
+Clear harmonic resolution with sustained final chord and no abrupt cutoff
+"""
+
+[[job]]
+label    = "01. Bienvenidos al Barrio 01-1-0"
+bpm      = 96
+duration = 192
+keyscale = "A minor"
+tags     = """
+Soleá-based slow flamenco theme for title screen
+Primary rhythmic foundation: restrained hand-muted guitar compás
+Main lead: expressive flamenco guitar falseta
+Occasional subtle contrabass accent notes only
+Rising harmonic tension through repeated A–Bb motion
+Every 8 bars introduce light melodic ornament shift
+Expanded final section with rhythmic simplification in last 12 bars
+Clear harmonic resolution, sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "01. Bienvenidos al Barrio 01-2-0"
+bpm      = 96
+duration = 192
+keyscale = "A minor"
+tags     = """
+Minimal flamenco opening in Soleá character
+Primary pulse carried by sparse low cajón accents
+Main lead: clean flamenco guitar with long decay notes
+Subtle environmental pad accent only in background
+Gradual build through ascending melodic line mid-track
+16-bar structural micro-variation via altered bass pedal
+Expanded final section reducing rhythmic density
+Clear harmonic resolution with sustained final chord and no abrupt cutoff
+"""
+
+[[job]]
+label    = "01. Bienvenidos al Barrio 01-3-0"
+bpm      = 96
+duration = 192
+keyscale = "A minor"
+tags     = """
+Traditional Soleá-inspired flamenco intro
+Primary rhythmic foundation: slow palm-muted guitar compás
+Main lead: lyrical flamenco guitar melody
+Occasional subtle low contrabass reinforcement only
+Drop in density after midpoint to emphasize space
+Small ornamental variation every 8 bars to prevent fatigue
+Expanded final section with simplified harmonic motion
+Clear harmonic resolution and sustained final chord, no abrupt cutoff
+"""
+
+# 02. Palmas del Puerto BPM: 172, Keyscale: A minor, duration: 212sec
+
+[[job]]
+label    = "02. Palmas del Puerto 02-0-0"
+bpm      = 172
+duration = 212
+keyscale = "A minor"
+tags     = """
+Fast Bulería-driven flamenco action groove
+Primary rhythmic foundation: 12-beat compás with active cajón
+Main lead: aggressive flamenco guitar rasgueado patterns
+Subtle contrabass walking line accent only
+Immediate high-energy entry with full rhythmic drive
+Light 8-bar rhythmic accent shift within compás cycle
+Final 8 bars introduce half-time feel and gradual drum thinning
+Clear harmonic resolution with sustained final chord and no abrupt cutoff
+"""
+
+[[job]]
+label    = "02. Palmas del Puerto 02-1-0"
+bpm      = 172
+duration = 212
+keyscale = "A minor"
+tags     = """
+High-tempo Bulería for port combat stage
+Primary rhythm: cajón and palmas seca interplay
+Main lead: rapid flamenco guitar picado lines
+Occasional subtle palmas sorda accent only
+Immediate rhythmic drive from first bar
+Ascending melodic line in mid-section variation
+Final 8 bars remove snare accents and thin percussion
+Clear harmonic resolution with sustained final chord and no abrupt cutoff
+"""
+
+[[job]]
+label    = "02. Palmas del Puerto 02-2-0"
+bpm      = 172
+duration = 212
+keyscale = "A minor"
+tags     = """
+Bulería-based street combat groove
+Primary rhythmic foundation: tight cajón with shifting accents
+Main lead: flamenco guitar alternating rasgueado and picado
+Subtle contrabass pedal tone accent only
+Immediate high-energy entry
+Every 16 bars slight harmonic color change
+Gradual drum thinning and half-time feel in final 8 bars
+Clear harmonic resolution, sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "02. Palmas del Puerto 02-3-0"
+bpm      = 172
+duration = 212
+keyscale = "A minor"
+tags     = """
+Rapid Bulería flamenco action theme
+Primary rhythm: dense palmas seca over cajón groove
+Main lead: fast flamenco guitar melodic runs
+Occasional subtle bass reinforcement only
+Strong rhythmic start without intro
+Rising harmonic tension through repeated motif cycling
+Final section introduces half-time compás and percussion reduction
+Clear harmonic resolution with sustained final chord and no abrupt cutoff
+"""
+
+# 03. La Caravana BPM: 124, Keyscale: A minor, duration: 198sec
+
+[[job]]
+label    = "03. La Caravana 03-0-0"
+bpm      = 124
+duration = 198
+keyscale = "A minor"
+tags     = """
+Tango flamenco groove with urban undertone
+Primary rhythmic foundation: straight 4/4 cajón pulse
+Main lead: flamenco guitar alternating rasgueado and short picado phrases
+Subtle low synth bass accent only to suggest external presence
+Light 8-bar groove variation through accent displacement
+Rising harmonic tension in middle section via repeated bass pedal
+Final 8 bars drop kick and simplify harmonic motion
+Clear harmonic resolution with sustained final chord and no abrupt cutoff
+"""
+
+[[job]]
+label    = "03. La Caravana 03-1-0"
+bpm      = 124
+duration = 198
+keyscale = "A minor"
+tags     = """
+Modernized tango flamenco stage theme
+Primary rhythmic foundation: steady cajón backbeat
+Main lead: flamenco guitar melodic hook with tight articulation
+Occasional subtle palmas accent only in transitions
+16-bar micro-variation through syncopated bass shift
+Drop in density at midpoint for brief contrast
+Last 8 bars remove kick and sustain pad under guitar
+Clear harmonic resolution, sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "03. La Caravana 03-2-0"
+bpm      = 124
+duration = 198
+keyscale = "A minor"
+tags     = """
+Flamenco tango with intrusive electronic color
+Primary rhythm: 4-beat cajón and muted bass groove
+Main lead: flamenco guitar rhythmic strumming motif
+Subtle synth bass accent only with filtered tone
+Ascending melodic line in secondary section
+Light rhythmic change every 8 bars to maintain flow
+Expanded final section with reduced rhythmic density
+Clear harmonic resolution with sustained final chord and no abrupt cutoff
+"""
+
+[[job]]
+label    = "03. La Caravana 03-3-0"
+bpm      = 124
+duration = 198
+keyscale = "A minor"
+tags     = """
+Street-stage tango flamenco progression
+Primary rhythmic foundation: consistent cajón pulse
+Main lead: crisp flamenco guitar melodic phrasing
+Occasional subtle contrabass reinforcement only
+Gradual build through repeated harmonic cycle
+Short drop in density before final reprise
+Last 4 bars drop kick and extend harmonic sustain
+Clear harmonic resolution and sustained final chord, no abrupt cutoff
+"""
+
+# 04. La Cocina de la Abuela BPM: 88, Keyscale: A minor, duration: 176sec
+
+[[job]]
+label    = "04. La Cocina de la Abuela 04-0-0"
+bpm      = 88
+duration = 176
+keyscale = "A minor"
+tags     = """
+Nana-inspired flamenco lullaby atmosphere
+Primary rhythmic foundation: very soft fingerstyle guitar pulse
+Main lead: warm flamenco guitar thumb melody
+Subtle humming vocal accent only without words
+Ascending melodic line gently introduced mid-track
+Minimal harmonic movement to preserve calm focus
+Expanded final section reducing rhythmic activity
+Clear harmonic resolution with sustained final chord and no abrupt cutoff
+"""
+
+[[job]]
+label    = "04. La Cocina de la Abuela 04-1-0"
+bpm      = 88
+duration = 176
+keyscale = "A minor"
+tags     = """
+Soft flamenco nana safe-zone theme
+Primary rhythm: light muted guitar compás
+Main lead: lyrical flamenco guitar single-note line
+Occasional subtle room ambience accent only
+Small 16-bar variation via melodic ornament shift
+Drop in density after midpoint for breathing space
+Final 8 bars remove rhythmic articulation
+Clear harmonic resolution, sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "04. La Cocina de la Abuela 04-2-0"
+bpm      = 88
+duration = 176
+keyscale = "A minor"
+tags     = """
+Gentle flamenco lullaby texture
+Primary rhythmic foundation: sparse fingerpicked guitar
+Main lead: expressive flamenco guitar melody
+Subtle low contrabass accent only in select measures
+Light harmonic change every 16 bars
+Melodic deceleration entering final section
+Clear harmonic resolution with sustained final chord and no abrupt cutoff
+"""
+
+[[job]]
+label    = "04. La Cocina de la Abuela 04-3-0"
+bpm      = 88
+duration = 176
+keyscale = "A minor"
+tags     = """
+Intimate nana-style flamenco interlude
+Primary rhythm: restrained guitar pulse without percussion
+Main lead: soft flamenco guitar falseta
+Occasional subtle ambient kitchen texture accent only
+Ascending melodic contour in middle section
+Expanded final section simplifying harmonic motion
+Sustained final chord after rhythmic stop
+Clear harmonic resolution, no abrupt cutoff
+"""
+
+# 05. Primera Pelea BPM: 164, Keyscale: A minor, duration: 206sec
+
+[[job]]
+label    = "05. Primera Pelea 05-0-0"
+bpm      = 164
+duration = 206
+keyscale = "A minor"
+tags     = """
+Bulería-based tutorial combat groove
+Primary rhythmic foundation: cajón-driven 12-beat compás
+Main lead: tight flamenco guitar rasgueado motif
+Subtle palmas sorda accent only at phrase endings
+Immediate rhythmic entry without intro
+Light 8-bar accent variation to teach compás feel
+Final 8 bars introduce gradual drum thinning
+Clear harmonic resolution with sustained final chord and no abrupt cutoff
+"""
+
+[[job]]
+label    = "05. Primera Pelea 05-1-0"
+bpm      = 164
+duration = 206
+keyscale = "A minor"
+tags     = """
+Mid-fast flamenco combat training theme
+Primary rhythm: steady cajón with restrained dynamics
+Main lead: rhythmic flamenco guitar chord stabs
+Occasional subtle contrabass accent only for grounding
+Ascending melodic line introduced in second section
+Drop in density at midpoint for structural clarity
+Final section removes snare accents and simplifies harmony
+Clear harmonic resolution with sustained final chord and no abrupt cutoff
+"""
+
+[[job]]
+label    = "05. Primera Pelea 05-2-0"
+bpm      = 164
+duration = 206
+keyscale = "A minor"
+tags     = """
+Structured Bulería action groove
+Primary rhythmic foundation: palm-muted guitar compás with cajón
+Main lead: articulated flamenco guitar picado phrases
+Subtle palmas seca accent only during transitions
+Immediate forward motion from first bar
+16-bar micro-variation through altered bass pedal
+Gradual rhythmic thinning in final 8 bars
+Clear harmonic resolution with sustained final chord and no abrupt cutoff
+"""
+
+[[job]]
+label    = "05. Primera Pelea 05-3-0"
+bpm      = 164
+duration = 206
+keyscale = "A minor"
+tags     = """
+Flamenco street-fight tutorial piece
+Primary rhythm: active cajón over 12-beat cycle
+Main lead: driving flamenco guitar strumming hook
+Occasional subtle bass reinforcement only
+Short drop in density before final reprise
+Half-time feel introduced in last 8 bars
+Clear harmonic resolution with sustained final chord and no abrupt cutoff
+"""
+
+# 06. El Guardaespaldas BPM: 142, Keyscale: A minor, duration: 214sec
+
+[[job]]
+label    = "06. El Guardaespaldas 06-0-0"
+bpm      = 142
+duration = 214
+keyscale = "A minor"
+tags     = """
+Siguiriya-influenced mid-tempo combat theme
+Primary rhythmic foundation: heavy cajón accent pattern
+Main lead: forceful flamenco guitar rasgueado lines
+Subtle low contrabass accent only for weight
+Rising harmonic tension through repeated low pedal
+8-bar micro-variation via accent shift
+Final 4 bars drop kick and reduce harmonic motion
+Clear harmonic resolution with sustained final chord and no abrupt cutoff
+"""
+
+[[job]]
+label    = "06. El Guardaespaldas 06-1-0"
+bpm      = 142
+duration = 214
+keyscale = "A minor"
+tags     = """
+Dark-toned flamenco battle groove
+Primary rhythm: syncopated cajón with muted guitar compás
+Main lead: flamenco guitar melodic bursts
+Occasional subtle palmas sorda accent only
+Drop in density after midpoint to emphasize space
+Gradual harmonic simplification entering final section
+Final bars sustain pad after groove stops
+Clear harmonic resolution with sustained final chord and no abrupt cutoff
+"""
+
+[[job]]
+label    = "06. El Guardaespaldas 06-2-0"
+bpm      = 142
+duration = 214
+keyscale = "A minor"
+tags     = """
+Weighted Siguiriya combat pattern
+Primary rhythmic foundation: strong low cajón pulse
+Main lead: angular flamenco guitar motif
+Subtle contrabass pedal accent only
+Ascending melodic contour in secondary section
+Light rhythmic change every 8 bars
+Last 4 bars remove kick and extend harmonic sustain
+Clear harmonic resolution with sustained final chord and no abrupt cutoff
+"""
+
+[[job]]
+label    = "06. El Guardaespaldas 06-3-0"
+bpm      = 142
+duration = 214
+keyscale = "A minor"
+tags     = """
+Mid-tempo flamenco confrontation theme
+Primary rhythm: steady cajón and palm-muted compás
+Main lead: expressive flamenco guitar melodic phrasing
+Occasional subtle bass accent only
+Short drop in density before final phrase
+Final section simplifies harmonic motion and reduces percussion
+Clear harmonic resolution with sustained final chord and no abrupt cutoff
+"""
+
+# 07. Al Atardecer BPM: 104, Keyscale: A minor, duration: 208sec
+
+[[job]]
+label    = "07. Al Atardecer 07-0-0"
+bpm      = 104
+duration = 208
+keyscale = "A minor"
+tags     = """
+Free-form flamenco falseta-inspired field theme
+Primary rhythmic foundation: implied slow 12-beat pulse without percussion
+Main lead: expressive flamenco guitar melodic improvisation
+Subtle ambient street texture accent only in background
+Ascending melodic line introduced after first 16 bars
+Light harmonic variation every 16 bars to avoid repetition
+Expanded final section with reduced melodic density
+Clear harmonic resolution with sustained final chord and no abrupt cutoff
+"""
+
+[[job]]
+label    = "07. Al Atardecer 07-1-0"
+bpm      = 104
+duration = 208
+keyscale = "A minor"
+tags     = """
+Evening street flamenco interlude
+Primary rhythm: soft palm-muted guitar compás
+Main lead: lyrical flamenco guitar single-note phrasing
+Occasional subtle distant bell accent only
+Drop in density at midpoint for transitional mood
+16-bar micro-variation through ornament change
+Expanded final section simplifying harmonic motion
+Clear harmonic resolution with sustained final chord and no abrupt cutoff
+"""
+
+[[job]]
+label    = "07. Al Atardecer 07-2-0"
+bpm      = 104
+duration = 208
+keyscale = "A minor"
+tags     = """
+Transitional flamenco field piece at dusk
+Primary rhythmic foundation: light fingerstyle guitar pulse
+Main lead: melodic flamenco guitar falseta
+Subtle low contrabass accent only in select measures
+Rising harmonic tension through repeated bass note
+Light rhythmic shift every 8 bars to maintain flow
+Final section reduces motion and extends sustain
+Clear harmonic resolution with sustained final chord and no abrupt cutoff
+"""
+
+[[job]]
+label    = "07. Al Atardecer 07-3-0"
+bpm      = 104
+duration = 208
+keyscale = "A minor"
+tags     = """
+Falseta-driven flamenco atmosphere
+Primary rhythm: restrained guitar compás without percussion
+Main lead: expressive flamenco guitar melody
+Occasional subtle ambient wind accent only
+Ascending melodic contour in middle section
+Expanded final section with drop in density
+Clear harmonic resolution and sustained final chord, no abrupt cutoff
+"""
+
+# 08. El Jefe del Puerto BPM: 178, Keyscale: A minor, duration: 232sec
+
+[[job]]
+label    = "08. El Jefe del Puerto 08-0-0"
+bpm      = 178
+duration = 232
+keyscale = "A minor"
+tags     = """
+High-tempo flamenco boss confrontation theme
+Primary rhythmic foundation: dense cajón over rapid 12-beat cycle
+Main lead: fast flamenco guitar picado runs
+Subtle violin accent only in brief upper-register phrases
+Immediate high-energy entry with full rhythmic intensity
+16-bar micro-variation through bass motion change
+Final 8 bars introduce half-time feel and gradual drum thinning
+Clear harmonic resolution with sustained final chord and no abrupt cutoff
+"""
+
+[[job]]
+label    = "08. El Jefe del Puerto 08-1-0"
+bpm      = 178
+duration = 232
+keyscale = "A minor"
+tags     = """
+Rapid flamenco duel in open street
+Primary rhythm: active palmas seca and cajón interplay
+Main lead: articulated flamenco guitar melodic bursts
+Occasional subtle contrabass accent only
+Immediate rhythmic drive from first bar
+Rising harmonic tension in mid-section through repeated motif
+Final section removes snare accents and simplifies groove
+Clear harmonic resolution with sustained final chord and no abrupt cutoff
+"""
+
+[[job]]
+label    = "08. El Jefe del Puerto 08-2-0"
+bpm      = 178
+duration = 232
+keyscale = "A minor"
+tags     = """
+Boss-stage flamenco Bulería escalation
+Primary rhythmic foundation: tight cajón with shifting accents
+Main lead: flamenco guitar rapid rasgueado patterns
+Subtle violin accent only at structural transitions
+Immediate forward momentum without intro
+8-bar rhythmic accent variation to prevent fatigue
+Final 8 bars gradual drum thinning and half-time feel
+Clear harmonic resolution with sustained final chord and no abrupt cutoff
+"""
+
+[[job]]
+label    = "08. El Jefe del Puerto 08-3-0"
+bpm      = 178
+duration = 232
+keyscale = "A minor"
+tags     = """
+Fast flamenco confrontation theme
+Primary rhythm: layered palmas over driving cajón pulse
+Main lead: sharp flamenco guitar picado hook
+Occasional subtle bass reinforcement only
+Strong opening attack from first measure
+Ascending melodic line during secondary section
+Final section reduces percussion density before resolution
+Clear harmonic resolution with sustained final chord and no abrupt cutoff
+"""
+
+# 09. Duende BPM: 72, Keyscale: A minor, duration: 168sec
+
+[[job]]
+label    = "09. Duende 09-0-0"
+bpm      = 72
+duration = 168
+keyscale = "A minor"
+tags     = """
+Free-tempo flamenco guitar solo for pre-duel silence
+Primary rhythmic foundation: minimal implied pulse without percussion
+Main lead: exposed flamenco guitar single-take phrasing
+Subtle room resonance accent only from natural decay
+Ascending melodic line emerging after first section
+Light 16-bar micro-variation through altered bass drone
+Expanded final section with melodic deceleration
+Clear harmonic resolution with sustained final chord and no abrupt cutoff
+"""
+
+[[job]]
+label    = "09. Duende 09-1-0"
+bpm      = 72
+duration = 168
+keyscale = "A minor"
+tags     = """
+Intimate flamenco guitar interlude before confrontation
+Primary rhythmic foundation: slow rubato compás feel
+Main lead: expressive flamenco guitar falseta
+Occasional subtle low harmonic accent only
+Drop in density mid-track to create suspended space
+Rising harmonic tension through repeated A pedal
+Expanded final section reducing melodic activity
+Clear harmonic resolution with sustained final chord and no abrupt cutoff
+"""
+
+[[job]]
+label    = "09. Duende 09-2-0"
+bpm      = 72
+duration = 168
+keyscale = "A minor"
+tags     = """
+Solo flamenco guitar meditation
+Primary rhythmic foundation: free-form pulse with long pauses
+Main lead: warm flamenco guitar melodic line
+Subtle ambient studio air accent only
+Ascending melodic contour in secondary phrase
+16-bar variation through harmonic color shift
+Expanded final section with simplified harmonic motion
+Clear harmonic resolution with sustained final chord and no abrupt cutoff
+"""
+
+[[job]]
+label    = "09. Duende 09-3-0"
+bpm      = 72
+duration = 168
+keyscale = "A minor"
+tags     = """
+Pre-duel flamenco guitar reflection
+Primary rhythmic foundation: slow implied 12-beat cycle
+Main lead: detailed flamenco guitar ornamented melody
+Occasional subtle harmonic overtone accent only
+Drop in density after midpoint for structural contrast
+Melodic deceleration entering final passage
+Clear harmonic resolution with sustained final chord and no abrupt cutoff
+"""
+
+# 10. El Duelo BPM: 118, Keyscale: A minor, duration: 214sec
+
+[[job]]
+label    = "10. El Duelo 10-0-0"
+bpm      = 118
+duration = 214
+keyscale = "A minor"
+tags     = """
+Soleá-based duel confrontation theme
+Primary rhythmic foundation: restrained cajón on slow 12-beat cycle
+Main lead: heavy flamenco guitar compás and melodic statements
+Subtle palmas sorda accent only on phrase endings
+Immediate grounded entry without flourish
+Light 8-bar accent variation to maintain focus
+Final 4 bars drop kick and simplify harmonic motion
+Clear harmonic resolution with sustained final chord and no abrupt cutoff
+"""
+
+[[job]]
+label    = "10. El Duelo 10-1-0"
+bpm      = 118
+duration = 214
+keyscale = "A minor"
+tags     = """
+Measured flamenco duel theme
+Primary rhythm: muted guitar compás with low cajón pulse
+Main lead: expressive flamenco guitar falseta
+Occasional subtle contrabass accent only for depth
+Ascending melodic line in second section
+Drop in density before final reprise
+Last 8 bars remove percussion and sustain harmonic pad
+Clear harmonic resolution with sustained final chord and no abrupt cutoff
+"""
+
+[[job]]
+label    = "10. El Duelo 10-2-0"
+bpm      = 118
+duration = 214
+keyscale = "A minor"
+tags     = """
+Focused one-on-one flamenco combat groove
+Primary rhythmic foundation: slow compás articulation
+Main lead: articulated flamenco guitar melodic motif
+Subtle palmas accent only in transitional bars
+Rising harmonic tension through repeated bass pedal
+16-bar micro-variation via altered melodic ending
+Expanded final section reducing rhythmic density
+Clear harmonic resolution with sustained final chord and no abrupt cutoff
+"""
+
+[[job]]
+label    = "10. El Duelo 10-3-0"
+bpm      = 118
+duration = 214
+keyscale = "A minor"
+tags     = """
+Structured Soleá duel pattern
+Primary rhythm: steady low cajón accents
+Main lead: flamenco guitar melodic phrasing with wide spacing
+Occasional subtle bass reinforcement only
+Short drop in density at midpoint
+Final section simplifies harmonic motion and removes kick
+Clear harmonic resolution with sustained final chord and no abrupt cutoff
+"""
+
+# 11. Sangre y Sal BPM: 108, Keyscale: A minor, duration: 186sec
+
+[[job]]
+label    = "11. Sangre y Sal 11-0-0"
+bpm      = 108
+duration = 186
+keyscale = "A minor"
+tags     = """
+Siguiriya-based post-battle cooldown theme
+Primary rhythmic foundation: restrained cajón pulse with wide spacing
+Main lead: flamenco guitar slow rasgueado resolving into single-note phrases
+Subtle palmas sorda accent only in first section
+Drop in density after midpoint to release tension
+16-bar micro-variation through altered bass sustain
+Expanded final section reducing rhythmic motion in last 12 bars
+Clear harmonic resolution with sustained final chord and no abrupt cutoff
+"""
+
+[[job]]
+label    = "11. Sangre y Sal 11-1-0"
+bpm      = 108
+duration = 186
+keyscale = "A minor"
+tags     = """
+Low-intensity flamenco aftermath groove
+Primary rhythm: soft cajón and muted guitar compás
+Main lead: expressive flamenco guitar descending motif
+Occasional subtle contrabass accent only for grounding
+Ascending melodic line briefly introduced before release
+Light rhythmic shift every 8 bars
+Final 8 bars remove kick and simplify harmonic motion
+Clear harmonic resolution with sustained final chord and no abrupt cutoff
+"""
+
+[[job]]
+label    = "11. Sangre y Sal 11-2-0"
+bpm      = 108
+duration = 186
+keyscale = "A minor"
+tags     = """
+Reflective Siguiriya-influenced resolution piece
+Primary rhythmic foundation: slow 12-beat compás with minimal accents
+Main lead: flamenco guitar falseta with long sustain
+Subtle ambient wave-like texture accent only
+Rising harmonic tension early, then gradual release
+Drop in density before final section
+Expanded final passage with reduced percussion
+Clear harmonic resolution with sustained final chord and no abrupt cutoff
+"""
+
+[[job]]
+label    = "11. Sangre y Sal 11-3-0"
+bpm      = 108
+duration = 186
+keyscale = "A minor"
+tags     = """
+Post-conflict flamenco cooldown theme
+Primary rhythm: sparse cajón over muted compás
+Main lead: lyrical flamenco guitar melody
+Occasional subtle palmas accent only at phrase edges
+16-bar harmonic variation to avoid repetition
+Melodic deceleration entering final 8 bars
+Clear harmonic resolution with sustained final chord and no abrupt cutoff
+"""
+
+# 12. La Verdad del Dinero BPM: 116, Keyscale: A minor, duration: 178sec
+
+[[job]]
+label    = "12. La Verdad del Dinero 12-0-0"
+bpm      = 116
+duration = 178
+keyscale = "A minor"
+tags     = """
+Narrative-focused flamenco romance-style cue
+Primary rhythmic foundation: steady 4-beat muted guitar pulse
+Main lead: flamenco guitar single-note storytelling motif
+Subtle contrabass sustained accent only beneath harmony
+Ascending melodic line to suggest discovery
+Light 8-bar micro-variation through rhythmic displacement
+Final 4 bars drop kick and simplify harmonic motion
+Clear harmonic resolution with sustained final chord and no abrupt cutoff
+"""
+
+[[job]]
+label    = "12. La Verdad del Dinero 12-1-0"
+bpm      = 116
+duration = 178
+keyscale = "A minor"
+tags     = """
+Romance-style flamenco exposition theme
+Primary rhythm: restrained cajón in straight 4/4
+Main lead: articulated flamenco guitar melodic phrase
+Occasional subtle paper-like percussive accent only
+Rising harmonic tension through repeated bass pedal
+Drop in density at midpoint for clarity
+Final section sustains harmonic pad after groove stops
+Clear harmonic resolution with sustained final chord and no abrupt cutoff
+"""
+
+[[job]]
+label    = "12. La Verdad del Dinero 12-2-0"
+bpm      = 116
+duration = 178
+keyscale = "A minor"
+tags     = """
+Investigation-driven flamenco groove
+Primary rhythmic foundation: light cajón and muted compás
+Main lead: flamenco guitar focused melodic hook
+Subtle contrabass accent only in transitional bars
+16-bar harmonic color shift for micro-variation
+Ascending melodic contour in secondary section
+Expanded final section reducing rhythmic density
+Clear harmonic resolution with sustained final chord and no abrupt cutoff
+"""
+
+[[job]]
+label    = "12. La Verdad del Dinero 12-3-0"
+bpm      = 116
+duration = 178
+keyscale = "A minor"
+tags     = """
+Expository flamenco mid-tempo cue
+Primary rhythm: steady guitar compás without heavy percussion
+Main lead: flamenco guitar narrative motif
+Occasional subtle low bass reinforcement only
+Drop in density before final reprise
+Last 8 bars simplify harmonic motion and remove rhythmic accents
+Clear harmonic resolution with sustained final chord and no abrupt cutoff
+"""
+
+# 13. La Abuela en Peligro BPM: 138, Keyscale: A minor, duration: 202sec
+
+[[job]]
+label    = "13. La Abuela en Peligro 13-0-0"
+bpm      = 138
+duration = 202
+keyscale = "A minor"
+tags     = """
+Siguiriya-driven urgent flamenco tension cue
+Primary rhythmic foundation: heavy cajón accents on altered 12-beat cycle
+Main lead: forceful flamenco guitar rasgueado with sharp articulation
+Subtle contrabass low pedal accent only
+Immediate rhythmic drive from first measure
+Rising harmonic tension through repeated descending motif
+Final 8 bars drop kick and reduce harmonic movement
+Clear harmonic resolution with sustained final chord and no abrupt cutoff
+"""
+
+[[job]]
+label    = "13. La Abuela en Peligro 13-1-0"
+bpm      = 138
+duration = 202
+keyscale = "A minor"
+tags     = """
+Dark mid-tempo flamenco confrontation theme
+Primary rhythm: dense cajón pulse with muted compás
+Main lead: angular flamenco guitar melodic bursts
+Occasional subtle palmas sorda accent only
+Ascending melodic line in secondary section
+8-bar micro-variation through accent displacement
+Expanded final section simplifying harmonic motion
+Clear harmonic resolution with sustained final chord and no abrupt cutoff
+"""
+
+[[job]]
+label    = "13. La Abuela en Peligro 13-2-0"
+bpm      = 138
+duration = 202
+keyscale = "A minor"
+tags     = """
+Intense flamenco crisis groove
+Primary rhythmic foundation: strong low cajón hits
+Main lead: articulated flamenco guitar rapid phrases
+Subtle ambient low drone accent only
+Immediate forward motion without intro
+Drop in density briefly before final reprise
+Last 4 bars remove percussion and sustain harmony
+Clear harmonic resolution with sustained final chord and no abrupt cutoff
+"""
+
+[[job]]
+label    = "13. La Abuela en Peligro 13-3-0"
+bpm      = 138
+duration = 202
+keyscale = "A minor"
+tags     = """
+Urgent Siguiriya-influenced action cue
+Primary rhythm: syncopated cajón with palm-muted guitar compás
+Main lead: expressive flamenco guitar melodic tension line
+Occasional subtle bass reinforcement only
+16-bar harmonic variation to maintain progression
+Final section reduces rhythmic density and simplifies harmony
+Clear harmonic resolution with sustained final chord and no abrupt cutoff
+"""
+
+# 14. Por Mi Gente BPM: 168, Keyscale: A minor, duration: 210sec
+
+[[job]]
+label    = "14. Por Mi Gente 14-0-0"
+bpm      = 168
+duration = 210
+keyscale = "A minor"
+tags     = """
+Bulería-based gathering theme before final stage
+Primary rhythmic foundation: active cajón over rapid 12-beat cycle
+Main lead: bold flamenco guitar melodic hook
+Subtle wordless chorus accent only in structural peaks
+Immediate high-energy entry with full compás
+Light 8-bar accent shift to prevent fatigue
+Final 8 bars introduce half-time feel and gradual drum thinning
+Clear harmonic resolution with sustained final chord and no abrupt cutoff
+"""
+
+[[job]]
+label    = "14. Por Mi Gente 14-1-0"
+bpm      = 168
+duration = 210
+keyscale = "A minor"
+tags     = """
+Collective Bulería flamenco groove
+Primary rhythm: layered palmas seca and cajón interplay
+Main lead: driving flamenco guitar rasgueado motif
+Occasional subtle contrabass accent only
+Immediate rhythmic drive without intro
+Ascending melodic line in mid-section variation
+Final 8 bars remove snare accents and simplify groove
+Clear harmonic resolution with sustained final chord and no abrupt cutoff
+"""
+
+[[job]]
+label    = "14. Por Mi Gente 14-2-0"
+bpm      = 168
+duration = 210
+keyscale = "A minor"
+tags     = """
+Pre-final stage flamenco escalation theme
+Primary rhythmic foundation: tight cajón with shifting accents
+Main lead: flamenco guitar articulated picado phrases
+Subtle chorus swell accent only at transitions
+Immediate forward motion from first bar
+16-bar micro-variation through altered bass movement
+Gradual drum thinning and half-time feel in final 8 bars
+Clear harmonic resolution with sustained final chord and no abrupt cutoff
+"""
+
+[[job]]
+label    = "14. Por Mi Gente 14-3-0"
+bpm      = 168
+duration = 210
+keyscale = "A minor"
+tags     = """
+Community-driven Bulería action theme
+Primary rhythm: dense palmas over driving cajón pulse
+Main lead: expressive flamenco guitar melodic line
+Occasional subtle bass reinforcement only
+Strong opening attack from first measure
+Drop in density briefly before final reprise
+Final section simplifies harmonic motion and reduces percussion
+Clear harmonic resolution with sustained final chord and no abrupt cutoff
+"""
+
+# 15. Pies de Llama BPM: 182, Keyscale: A minor, duration: 238sec
+
+[[job]]
+label    = "15. Pies de Llama 15-0-0"
+bpm      = 182
+duration = 238
+keyscale = "A minor"
+tags     = """
+Ultra-fast Bulería final-stage combat theme
+Primary rhythmic foundation: relentless 12-beat cajón drive
+Main lead: rapid flamenco guitar picado runs
+Subtle contrabass walking accent only beneath harmony
+Immediate high-energy entry with full rhythmic intensity
+16-bar micro-variation through accent displacement
+Final 8 bars introduce half-time feel and gradual drum thinning
+Clear harmonic resolution with sustained final chord and no abrupt cutoff
+"""
+
+[[job]]
+label    = "15. Pies de Llama 15-1-0"
+bpm      = 182
+duration = 238
+keyscale = "A minor"
+tags     = """
+High-speed flamenco climax groove
+Primary rhythm: dense palmas seca and cajón interplay
+Main lead: flamenco guitar fast rasgueado motif
+Occasional subtle bass pedal accent only
+Immediate rhythmic drive from first measure
+Ascending melodic line during mid-section escalation
+Final 8 bars remove snare accents and simplify compás
+Clear harmonic resolution with sustained final chord and no abrupt cutoff
+"""
+
+[[job]]
+label    = "15. Pies de Llama 15-2-0"
+bpm      = 182
+duration = 238
+keyscale = "A minor"
+tags     = """
+Blazing Bulería confrontation theme
+Primary rhythmic foundation: tight cajón with shifting accents
+Main lead: articulated flamenco guitar rapid melodic bursts
+Subtle ambient harmonic accent only at transitions
+Immediate forward momentum without intro
+Light 8-bar rhythmic variation to prevent fatigue
+Gradual drum thinning and half-time feel in final 8 bars
+Clear harmonic resolution with sustained final chord and no abrupt cutoff
+"""
+
+[[job]]
+label    = "15. Pies de Llama 15-3-0"
+bpm      = 182
+duration = 238
+keyscale = "A minor"
+tags     = """
+Final-stage flamenco acceleration cue
+Primary rhythm: layered palmas over driving cajón pulse
+Main lead: sharp flamenco guitar picado hook
+Occasional subtle contrabass reinforcement only
+Strong opening attack from first bar
+Drop in density briefly before last section
+Final section reduces percussion density before resolution
+Clear harmonic resolution with sustained final chord and no abrupt cutoff
+"""
+
+# 16. Tras el Humo BPM: 94, Keyscale: A minor, duration: 204sec
+
+[[job]]
+label    = "16. Tras el Humo 16-0-0"
+bpm      = 94
+duration = 204
+keyscale = "A minor"
+tags     = """
+Soleá-inspired return theme after climax
+Primary rhythmic foundation: soft palm-muted guitar compás
+Main lead: reflective flamenco guitar melodic phrasing
+Subtle contrabass sustained accent only beneath harmony
+Ascending melodic line referencing opening motif
+Light 16-bar micro-variation through harmonic inversion
+Expanded final section reducing rhythmic density
+Clear harmonic resolution with sustained final chord and no abrupt cutoff
+"""
+
+[[job]]
+label    = "16. Tras el Humo 16-1-0"
+bpm      = 94
+duration = 204
+keyscale = "A minor"
+tags     = """
+Calm flamenco post-conflict groove
+Primary rhythm: restrained cajón with wide spacing
+Main lead: lyrical flamenco guitar falseta
+Occasional subtle ambient wind accent only
+Drop in density at midpoint to emphasize stillness
+8-bar harmonic variation to maintain flow
+Expanded final section simplifying harmonic motion
+Clear harmonic resolution with sustained final chord and no abrupt cutoff
+"""
+
+[[job]]
+label    = "16. Tras el Humo 16-2-0"
+bpm      = 94
+duration = 204
+keyscale = "A minor"
+tags     = """
+Return-to-home flamenco Soleá texture
+Primary rhythmic foundation: sparse guitar pulse without heavy percussion
+Main lead: expressive flamenco guitar single-note line
+Subtle low bass reinforcement accent only
+Ascending melodic contour in secondary section
+Light rhythmic change every 16 bars
+Final section removes percussion and extends sustain
+Clear harmonic resolution with sustained final chord and no abrupt cutoff
+"""
+
+[[job]]
+label    = "16. Tras el Humo 16-3-0"
+bpm      = 94
+duration = 204
+keyscale = "A minor"
+tags     = """
+Soleá-based reflective ending cue
+Primary rhythm: gentle guitar compás with minimal cajón
+Main lead: warm flamenco guitar melodic motif
+Occasional subtle harmonic overtone accent only
+Short drop in density before final reprise
+Expanded final section with melodic deceleration
+Clear harmonic resolution and sustained final chord, no abrupt cutoff
+"""
+
+# 17. Lluvia en el Barrio BPM: 122, Keyscale: A minor, duration: 218sec
+
+[[job]]
+label    = "17. Lluvia en el Barrio 17-0-0"
+bpm      = 122
+duration = 218
+keyscale = "A minor"
+tags     = """
+Tango flamenco end-credit groove
+Primary rhythmic foundation: steady 4-beat cajón pulse
+Main lead: melodic flamenco guitar hook with clear articulation
+Subtle palmas seca accent only in refrain sections
+Immediate rhythmic entry without long intro
+16-bar micro-variation through bass motion shift
+Final 4 bars drop kick and sustain harmonic pad
+Clear harmonic resolution with sustained final chord and no abrupt cutoff
+"""
+
+[[job]]
+label    = "17. Lluvia en el Barrio 17-1-0"
+bpm      = 122
+duration = 218
+keyscale = "A minor"
+tags     = """
+Mid-tempo tango flamenco closure theme
+Primary rhythm: muted guitar compás with light cajón
+Main lead: expressive flamenco guitar single-note melody
+Occasional subtle contrabass accent only
+Ascending melodic line during second section
+Light rhythmic shift every 8 bars to prevent fatigue
+Expanded final section reducing rhythmic density
+Clear harmonic resolution with sustained final chord and no abrupt cutoff
+"""
+
+[[job]]
+label    = "17. Lluvia en el Barrio 17-2-0"
+bpm      = 122
+duration = 218
+keyscale = "A minor"
+tags     = """
+Rain-soaked tango flamenco groove
+Primary rhythmic foundation: consistent cajón and muted compás
+Main lead: flamenco guitar lyrical motif
+Subtle ambient rain texture accent only in background
+Drop in density at midpoint for contrast
+8-bar harmonic variation to maintain flow
+Final section simplifies harmony and removes percussion
+Clear harmonic resolution with sustained final chord and no abrupt cutoff
+"""
+
+[[job]]
+label    = "17. Lluvia en el Barrio 17-3-0"
+bpm      = 122
+duration = 218
+keyscale = "A minor"
+tags     = """
+Closing tango flamenco progression
+Primary rhythm: steady cajón with restrained dynamics
+Main lead: flamenco guitar melodic phrasing with rhythmic clarity
+Occasional subtle palmas accent only at transitions
+Ascending melodic contour in mid-section
+Expanded final section with reduced rhythmic motion
+Clear harmonic resolution and sustained final chord, no abrupt cutoff
+"""
+
+# 18. Palmas Solas BPM: 132, Keyscale: A minor, duration: 151sec
+
+[[job]]
+label    = "18. Palmas Solas 18-0-0"
+bpm      = 132
+duration = 151
+keyscale = "A minor"
+tags     = """
+Palmas-only flamenco rhythmic showcase
+Primary rhythmic foundation: layered handclap compás variations
+Main lead: high-register palmas seca pattern
+Subtle low palmas sorda accent only for depth
+Immediate rhythmic entry without melodic intro
+Light 8-bar accent displacement across compás cycles
+Final 8 bars gradually thin rhythmic density
+Clear harmonic resolution with sustained final chord and no abrupt cutoff
+"""
+
+[[job]]
+label    = "18. Palmas Solas 18-1-0"
+bpm      = 132
+duration = 151
+keyscale = "A minor"
+tags     = """
+Handclap-driven flamenco rhythm study
+Primary rhythm: alternating palmas seca and sorda layers
+Main lead: articulated high palmas rhythmic motif
+Occasional subtle foot tap accent only
+Ascending rhythmic complexity in mid-section
+16-bar micro-variation through accent shift
+Final section reduces layers and simplifies pattern
+Clear harmonic resolution with sustained final chord and no abrupt cutoff
+"""
+
+[[job]]
+label    = "18. Palmas Solas 18-2-0"
+bpm      = 132
+duration = 151
+keyscale = "A minor"
+tags     = """
+Minimalist palmas flamenco groove
+Primary rhythmic foundation: steady 4-beat handclap pulse
+Main lead: syncopated palmas seca pattern
+Subtle low handclap accent only beneath primary rhythm
+Drop in density after midpoint to create contrast
+Light accent variation every 8 bars
+Final 8 bars gradually remove upper claps
+Clear harmonic resolution with sustained final chord and no abrupt cutoff
+"""
+
+[[job]]
+label    = "18. Palmas Solas 18-3-0"
+bpm      = 132
+duration = 151
+keyscale = "A minor"
+tags     = """
+Flamenco compás exploration through palmas
+Primary rhythm: structured handclap cycle without instruments
+Main lead: crisp palmas seca motif
+Occasional subtle sorda reinforcement accent only
+Immediate rhythmic clarity from first measure
+Rising rhythmic tension via layered accents
+Expanded final section reducing rhythmic density
+Clear harmonic resolution with sustained final chord and no abrupt cutoff
+"""
