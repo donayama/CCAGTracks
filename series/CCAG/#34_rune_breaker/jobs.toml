@@ -1,0 +1,927 @@
+# Rune Breaker: Frontier Pulse Original Soundtrack
+# Composed by 藤代マコト (Makoto Fujishiro)**
+# Released: 2024
+
+# 01. Into the Frontier BPM: 148, Keyscale: E minor, duration: 202sec
+
+[[job]]
+label    = "01. Into the Frontier 01-0-0"
+bpm      = 148
+duration = 202
+keyscale = "E minor"
+tags     = """
+JRPG action RPG field theme, instant start, no intro
+steady fast rock groove with straight driving kick and active snare
+FM synth lead hard timbre carries the main melody from beat one
+electric guitar provides brief syncopated riff accents, accent only
+bass stays offbeat and forward-moving, subtle string support only in the late refrain
+8th-note melody runs with small 16-bar variation and light rhythmic change every 8 bars
+expanded final section with reduced guitar activity and lighter kick pattern
+clear harmonic resolution, sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "01. Into the Frontier 01-1-0"
+bpm      = 148
+duration = 202
+keyscale = "E minor"
+tags     = """
+classic fast action RPG opener, no atmospheric intro
+simple fast drums and offbeat bass create immediate forward motion
+FM synth lead hard timbre is the only main lead instrument
+electric guitar adds occasional clipped counter-riff, accent only
+brief pad support appears only near section peaks, subtle and thin
+memorable 8th-note melodic line stays in front with clean repetition control
+expanded final section drops kick in the last 4 bars and relaxes harmonic motion
+clear harmonic resolution, sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "01. Into the Frontier 01-2-0"
+bpm      = 148
+duration = 202
+keyscale = "E minor"
+tags     = """
+frontier field run theme, immediate entry, no intro
+tight rock rhythm with brisk kick-snare pattern and constant bass push
+FM synth lead hard timbre opens on the motif and remains the main voice
+electric guitar gives subtle syncopated stabs between phrases, accent only
+occasional light strings widen the refrain without taking lead
+rising harmonic tension appears in the middle while melody stays in 8th-note motion
+expanded final section simplifies the drum pattern and lets the melody decelerate slightly
+clear harmonic resolution, sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "01. Into the Frontier 01-3-0"
+bpm      = 148
+duration = 202
+keyscale = "E minor"
+tags     = """
+retro-styled action RPG field music, instant start from beat one
+driving rock foundation with simple fast drums and offbeat bass
+FM synth lead hard timbre states a clear singable melody immediately
+electric guitar remains secondary with brief chugging accents, accent only
+subtle upper pad appears in later loops for mild lift, accent only
+micro-variation every 16 bars keeps flow stable for productivity listening
+expanded final section removes dense fills and lets the groove breathe
+clear harmonic resolution, sustained final chord, no abrupt cutoff
+"""
+
+# 02. Frontier Rush BPM: 152, Keyscale: G minor, duration: 224sec
+
+[[job]]
+label    = "02. Frontier Rush 02-0-0"
+bpm      = 152
+duration = 224
+keyscale = "G minor"
+tags     = """
+JRPG action RPG field anthem, instant start, no intro
+steady fast beat with dry kick, firm snare, and offbeat bass drive
+FM synth lead hard timbre plays the core hook as the main melody
+electric guitar adds syncopated riff answers, brief and secondary
+subtle strings appear only on the hook return, accent only
+8th-note melody stays nonstop with a slight lift in harmonic tension after midpoint
+expanded final section reduces rhythmic density and removes extra fills
+clear harmonic resolution, sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "02. Frontier Rush 02-1-0"
+bpm      = 152
+duration = 224
+keyscale = "G minor"
+tags     = """
+fast frontier travel theme, no atmospheric lead-in
+simple rock drums lock to a forward 4-beat pulse while bass leans offbeat
+FM synth lead hard timbre is the clear main lead from the first note
+electric guitar gives occasional unison pushes at phrase endings, accent only
+brief string layer broadens the chorus contour, subtle and thin
+melody remains easy to grasp and repeats with small 8-bar rhythmic adjustments
+expanded final section drops kick in the last bars and lets the pad hold
+clear harmonic resolution, sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "02. Frontier Rush 02-2-0"
+bpm      = 152
+duration = 224
+keyscale = "G minor"
+tags     = """
+classic PC-style action RPG field track, immediate full-speed entry
+drums are simple and quick, bass is active but never crowded
+FM synth lead hard timbre drives the famous hook with 8th-note motion
+electric guitar supports with brief syncopated downstroke accents, accent only
+subtle upper strings join only during the broadest refrain, accent only
+mid-track rising harmonic tension gives a sense of wider terrain without slowing the flow
+expanded final section simplifies harmony and lets the final melody breathe
+clear harmonic resolution, sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "02. Frontier Rush 02-3-0"
+bpm      = 152
+duration = 224
+keyscale = "G minor"
+tags     = """
+field run centerpiece, instant start, no intro at all
+driving rock groove with clean kick pattern and sharp snare placement
+FM synth lead hard timbre remains the sole main lead throughout
+electric guitar provides occasional biting riff punctuation, accent only
+brief pad and thin strings stay behind the melody, accent only
+16-bar micro-variation and light rhythmic change every 8 bars prevent fatigue
+expanded final section uses melodic deceleration and reduced cymbal activity
+clear harmonic resolution, sustained final chord, no abrupt cutoff
+"""
+
+# 03. Red Dust, Full Speed BPM: 156, Keyscale: A minor, duration: 211sec
+
+[[job]]
+label    = "03. Red Dust, Full Speed 03-0-0"
+bpm      = 156
+duration = 211
+keyscale = "A minor"
+tags     = """
+desert field chase theme, instant start, no intro
+fast rock pulse with dry kick, compact tom support, and offbeat bass motion
+FM synth lead hard timbre carries a sun-bright 8th-note melody
+electric guitar adds brief dusty syncopated riff figures, accent only
+subtle string shade appears only in the refrain for extra width
+melody remains continuous while harmony shifts slightly every 16 bars
+expanded final section lowers drum activity and shortens guitar replies
+clear harmonic resolution, sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "03. Red Dust, Full Speed 03-1-0"
+bpm      = 156
+duration = 211
+keyscale = "A minor"
+tags     = """
+high-speed frontier desert theme, no atmospheric lead-in
+simple fast drums and bass create a firm running stride
+FM synth lead hard timbre states the main hook from the first beat
+electric guitar gives occasional sharp riff accents between melody phrases
+brief upper pad appears only at section peaks, accent only
+small 8-bar rhythmic adjustments keep the groove alive without breaking focus
+expanded final section drops kick in the last 4 bars and lets the melody settle
+clear harmonic resolution, sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "03. Red Dust, Full Speed 03-2-0"
+bpm      = 156
+duration = 211
+keyscale = "A minor"
+tags     = """
+retro action RPG sand-zone field music, immediate full-speed entry
+tight kick-snare foundation with bass pushing slightly ahead on the offbeat
+FM synth lead hard timbre remains the clear melodic center
+electric guitar uses subtle palm-muted answers, accent only
+occasional string lift supports the refrain without changing the hierarchy
+rising harmonic tension appears in the second half while the melody never stops
+expanded final section simplifies harmonic motion and removes busy fills
+clear harmonic resolution, sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "03. Red Dust, Full Speed 03-3-0"
+bpm      = 156
+duration = 211
+keyscale = "A minor"
+tags     = """
+classic fast field track for open desert movement, no intro
+simple fast drums, active bass, and clipped rhythm guitar set the pace
+FM synth lead hard timbre starts immediately with a memorable 8th-note line
+electric guitar remains secondary with brief syncopated strikes, accent only
+subtle pad support enters only in the later hook return, accent only
+16-bar micro-variation and mild phrase extension keep the track fresh
+expanded final section reduces cymbal presence and lets the last chord ring
+clear harmonic resolution, sustained final chord, no abrupt cutoff
+"""
+
+# 04. Guardian of the Dead Ruin BPM: 160, Keyscale: D minor, duration: 198sec
+
+[[job]]
+label    = "04. Guardian of the Dead Ruin 04-0-0"
+bpm      = 160
+duration = 198
+keyscale = "D minor"
+tags     = """
+ruin field approach theme, instant start, no intro
+fast rock groove with direct kick-snare drive and low bass momentum
+FM synth lead hard timbre carries a more angular main melody
+electric guitar adds brief syncopated riff weight, accent only
+subtle strings appear only at the refrain edge for added breadth
+melodic line keeps 8th-note movement with wider leaps than the earlier field tracks
+expanded final section reduces rhythmic density and smooths harmonic change
+clear harmonic resolution, sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "04. Guardian of the Dead Ruin 04-1-0"
+bpm      = 160
+duration = 198
+keyscale = "D minor"
+tags     = """
+ancient ruin run theme, no atmospheric lead-in
+simple fast drums and offbeat bass create a tense forward pull
+FM synth lead hard timbre is the main lead from beat one
+electric guitar gives occasional clipped answers after melodic peaks, accent only
+brief upper string support stays in the background, accent only
+small 8-bar rhythmic shifts and 16-bar phrase variation support long listening flow
+expanded final section drops kick late and lets the upper harmony sustain
+clear harmonic resolution, sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "04. Guardian of the Dead Ruin 04-2-0"
+bpm      = 160
+duration = 198
+keyscale = "D minor"
+tags     = """
+retro-styled action RPG ruin field music, instant start
+firm rock pulse with dry snare, steady kick, and bass locked to forward motion
+FM synth lead hard timbre presents a sharp memorable motif
+electric guitar remains supporting with brief syncopated crunch accents
+subtle pad and thin strings widen only selected hook statements, accent only
+rising harmonic tension in the middle hints at the tower ahead without losing speed
+expanded final section simplifies the drum pattern and eases phrase density
+clear harmonic resolution, sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "04. Guardian of the Dead Ruin 04-3-0"
+bpm      = 160
+duration = 198
+keyscale = "D minor"
+tags     = """
+fast ruin-zone field track, immediate entry, no intro
+simple fast drums with a narrow fill language preserve clarity
+FM synth lead hard timbre stays in front with continuous 8th-note motion
+electric guitar adds occasional low-register riff punctuation, accent only
+brief strings support the late refrain, subtle and secondary
+micro-variation every 16 bars keeps the melody active without dramatic disruption
+expanded final section removes dense fills and lets the last phrase broaden
+clear harmonic resolution, sustained final chord, no abrupt cutoff
+"""
+
+# 05. Gate of the Sealed Tower BPM: 164, Keyscale: B minor, duration: 182sec
+
+[[job]]
+label    = "05. Gate of the Sealed Tower 05-0-0"
+bpm      = 164
+duration = 182
+keyscale = "B minor"
+tags     = """
+pre-tower approach theme, instant start, no intro
+fast rock beat with firm kick and narrow snare pattern
+FM synth lead hard timbre states a tense upward-moving main melody
+electric guitar provides brief syncopated gate-like riff accents, accent only
+subtle pad support appears only near the section peaks, accent only
+melodic motion remains in 8th notes with slightly tighter phrase spacing
+expanded final section reduces harmonic motion and softens cymbal activity
+clear harmonic resolution, sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "05. Gate of the Sealed Tower 05-1-0"
+bpm      = 164
+duration = 182
+keyscale = "B minor"
+tags     = """
+tower entrance field theme, no atmospheric preface
+simple fast drums and offbeat bass create urgent forward pressure
+FM synth lead hard timbre is the only main lead and enters on beat one
+electric guitar adds occasional clipped answers at phrase ends, accent only
+brief thin strings widen the hook return without taking focus
+light rhythmic change every 8 bars keeps the approach feeling active
+expanded final section drops kick late and leaves a held upper pad
+clear harmonic resolution, sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "05. Gate of the Sealed Tower 05-2-0"
+bpm      = 164
+duration = 182
+keyscale = "B minor"
+tags     = """
+classic action RPG tower gate track, instant start
+tight rock foundation with dry snare and forward bass movement
+FM synth lead hard timbre carries a direct singable melody with climbing intervals
+electric guitar remains secondary with brief syncopated weight, accent only
+subtle string support arrives only in the broad refrain, accent only
+16-bar micro-variation and restrained fill work preserve productivity flow
+expanded final section simplifies the groove and lets the melody stretch
+clear harmonic resolution, sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "05. Gate of the Sealed Tower 05-3-0"
+bpm      = 164
+duration = 182
+keyscale = "B minor"
+tags     = """
+tower threshold run theme, no intro, immediate motion
+simple fast drums and bass lock into a sharper danger pulse
+FM synth lead hard timbre begins at once with the core motif in tighter form
+electric guitar gives occasional low chug accents between phrases
+brief pad and string color remain subtle and behind the lead, accent only
+rising harmonic tension in the latter half hints at the interior tower climb
+expanded final section reduces rhythmic density before the last cadence
+clear harmonic resolution, sustained final chord, no abrupt cutoff
+"""
+
+# 06. Tower of the Sealed BPM: 168, Keyscale: F# minor, duration: 235sec
+
+[[job]]
+label    = "06. Tower of the Sealed 06-0-0"
+bpm      = 168
+duration = 235
+keyscale = "F# minor"
+tags     = """
+tower dungeon theme, instant start, no intro
+fast action RPG groove with direct kick drive and active offbeat bass
+FM synth lead hard timbre carries a climbing main melody from beat one
+electric guitar adds brief syncopated stone-heavy riff support, accent only
+subtle string layer appears only on wider phrase returns, accent only
+8th-note melody runs nonstop with rising harmonic tension across the midsection
+expanded final section introduces gradual drum thinning in the last 8 bars
+clear harmonic resolution, sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "06. Tower of the Sealed 06-1-0"
+bpm      = 168
+duration = 235
+keyscale = "F# minor"
+tags     = """
+sealed tower ascent theme, no atmospheric lead-in
+simple fast drums and offbeat bass create a vertical sense of momentum
+FM synth lead hard timbre is the clear lead with angular upward phrases
+electric guitar gives occasional syncopated low-register punches, accent only
+brief pad support stays thin and distant, accent only
+light rhythmic change every 8 bars keeps the climb active without breaking focus
+expanded final section reduces fill density and slows melodic motion slightly
+clear harmonic resolution, sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "06. Tower of the Sealed 06-2-0"
+bpm      = 168
+duration = 235
+keyscale = "F# minor"
+tags     = """
+retro PC action RPG tower music, immediate full-speed entry
+tight rock foundation with narrow snare accents and clean kick pulse
+FM synth lead hard timbre drives a memorable 8th-note tower motif
+electric guitar remains secondary with brief syncopated answers, accent only
+subtle strings widen only selected hook statements, accent only
+16-bar micro-variation and controlled repetition maintain long-run clarity
+expanded final section uses gradual drum thinning and softer cymbal movement
+clear harmonic resolution, sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "06. Tower of the Sealed 06-3-0"
+bpm      = 168
+duration = 235
+keyscale = "F# minor"
+tags     = """
+first tower dungeon run, instant start, no intro at all
+fast drums and bass push forward while harmony stays stable
+FM synth lead hard timbre begins immediately with a sharp climbing line
+electric guitar offers occasional clipped riff emphasis, accent only
+brief thin pad support appears near sectional peaks, accent only
+mid-track rising harmonic tension and phrase compression increase pressure
+expanded final section simplifies harmonic motion and opens into a longer final chord
+clear harmonic resolution, sustained final chord, no abrupt cutoff
+"""
+
+# 07. Ascending BPM: 172, Keyscale: A# minor, duration: 209sec
+
+[[job]]
+label    = "07. Ascending 07-0-0"
+bpm      = 172
+duration = 209
+keyscale = "A# minor"
+tags     = """
+upper tower ascent theme, instant start, no intro
+fast action RPG beat with clear kick pulse and lean snare attack
+FM synth lead hard timbre carries the main melody in nonstop 8th notes
+electric guitar adds brief syncopated reinforcement, accent only
+subtle strings support broader space in the refrain and selected transitions
+light rhythmic change every 8 bars and upward phrase contour suggest climbing
+expanded final section introduces half-time feel in the final 8 bars
+clear harmonic resolution, sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "07. Ascending 07-1-0"
+bpm      = 172
+duration = 209
+keyscale = "A# minor"
+tags     = """
+tower mid-layer run theme, no atmospheric opening
+simple fast drums and offbeat bass build a constant upward pull
+FM synth lead hard timbre is the only main lead throughout
+electric guitar provides occasional short unison pushes, accent only
+brief string color widens the late refrain, subtle and secondary
+16-bar micro-variation keeps repetition controlled for productivity listening
+expanded final section removes snare before final resolution and thins the groove
+clear harmonic resolution, sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "07. Ascending 07-2-0"
+bpm      = 172
+duration = 209
+keyscale = "A# minor"
+tags     = """
+classic fast tower ascent cue, immediate entry, no intro
+tight kick-snare engine and active bass create a sharper danger pulse
+FM synth lead hard timbre presents a climbing angular melody
+electric guitar remains support with brief syncopated low accents
+subtle strings are present only to widen high sections, accent only
+rising harmonic tension in the second half increases the sense of altitude
+expanded final section shifts to a lighter drum feel and lengthens the cadence
+clear harmonic resolution, sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "07. Ascending 07-3-0"
+bpm      = 172
+duration = 209
+keyscale = "A# minor"
+tags     = """
+high-floor tower traversal theme, instant start from beat one
+simple fast drums, forward bass, and clipped guitar keep the texture lean
+FM synth lead hard timbre holds the melodic front with 8th-note persistence
+electric guitar gives brief syncopated edge, accent only
+brief string swells mark phrase peaks without changing the hierarchy
+small 8-bar rhythmic adjustments prevent fatigue while keeping the drive stable
+expanded final section uses gradual drum thinning and a broader held ending
+clear harmonic resolution, sustained final chord, no abrupt cutoff
+"""
+
+# 08. Seal Beast: Confronted BPM: 180, Keyscale: C minor, duration: 228sec
+
+[[job]]
+label    = "08. Seal Beast: Confronted 08-0-0"
+bpm      = 180
+duration = 228
+keyscale = "C minor"
+tags     = """
+tower boss battle, instant high-energy entry after a brief empty hit point
+simple fast drums drive a hard 4-beat charge with aggressive offbeat bass
+FM synth lead hard timbre remains the main melodic voice
+electric guitar joins with brief unison attacks and syncopated riff support
+subtle string layer appears only at major phrase returns, accent only
+main melody runs in nonstop 8th notes with compact phrase repeats
+expanded final section introduces half-time feel in the last 8 bars
+clear harmonic resolution, sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "08. Seal Beast: Confronted 08-1-0"
+bpm      = 180
+duration = 228
+keyscale = "C minor"
+tags     = """
+fast boss confrontation theme, no intro, direct impact
+tight kick-snare engine and driving bass create immediate battle pressure
+FM synth lead hard timbre states the boss motif from beat one
+electric guitar provides occasional forceful unison hits, accent only
+brief thin strings widen the refrain contour, accent only
+light 8-bar rhythmic changes keep the loop active without excess complexity
+expanded final section removes snare before final resolution and thins the drums
+clear harmonic resolution, sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "08. Seal Beast: Confronted 08-2-0"
+bpm      = 180
+duration = 228
+keyscale = "C minor"
+tags     = """
+retro action RPG boss music, instant start with no atmospheric intro
+simple fast drums and offbeat bass lock into a severe battle pulse
+FM synth lead hard timbre carries the main hook while guitar shadows briefly
+electric guitar gives occasional syncopated riff pressure, accent only
+subtle upper pad stays behind the lead and appears only in wider sections
+rising harmonic tension intensifies the middle without overloading the arrangement
+expanded final section uses gradual drum thinning and lower guitar density
+clear harmonic resolution, sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "08. Seal Beast: Confronted 08-3-0"
+bpm      = 180
+duration = 228
+keyscale = "C minor"
+tags     = """
+first seal beast boss battle, immediate full-speed attack
+fast kick-led rock rhythm and offbeat bass create nonstop pursuit energy
+FM synth lead hard timbre is the clear main lead with compressed 8th-note motion
+electric guitar adds brief unison phrases and short low accents, accent only
+occasional subtle strings support only the broadest returns
+16-bar micro-variation keeps the repeated battle loop sharp and readable
+expanded final section reduces cymbal weight and opens into a held cadence
+clear harmonic resolution, sustained final chord, no abrupt cutoff
+"""
+
+# 09. Second Tower: Deep Level BPM: 168, Keyscale: C# minor, duration: 221sec
+
+[[job]]
+label    = "09. Second Tower: Deep Level 09-0-0"
+bpm      = 168
+duration = 221
+keyscale = "C# minor"
+tags     = """
+second tower deep dungeon theme, instant start, no intro
+fast rock groove with clean kick drive and metallic bass push
+FM synth lead hard timbre carries a straighter more cutting main melody
+electric guitar adds brief syncopated metallic riff accents, accent only
+subtle pad support appears only in selected phrase peaks, accent only
+8th-note melody remains nonstop with slight 16-bar variation in contour
+expanded final section introduces gradual drum thinning in the last 8 bars
+clear harmonic resolution, sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "09. Second Tower: Deep Level 09-1-0"
+bpm      = 168
+duration = 221
+keyscale = "C# minor"
+tags     = """
+deep tower run theme, no atmospheric lead-in
+simple fast drums and offbeat bass make the structure feel sharper than stone
+FM synth lead hard timbre is the sole main lead from beat one
+electric guitar gives occasional clipped answers with cold syncopation
+brief upper strings are used only as accent color in the refrain
+small 8-bar rhythmic shifts keep the descent and climb feeling active
+expanded final section simplifies harmony and reduces drum density
+clear harmonic resolution, sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "09. Second Tower: Deep Level 09-2-0"
+bpm      = 168
+duration = 221
+keyscale = "C# minor"
+tags     = """
+metallic tower dungeon cue, immediate entry, no intro
+tight fast drums and bass create a focused mechanical stride
+FM synth lead hard timbre presents a hard-edged memorable hook
+electric guitar remains secondary with brief low-register riff pressure
+subtle thin pad supports only the broad hook returns, accent only
+rising harmonic tension appears in the second half while the lead stays continuous
+expanded final section uses melodic deceleration and lighter cymbal movement
+clear harmonic resolution, sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "09. Second Tower: Deep Level 09-3-0"
+bpm      = 168
+duration = 221
+keyscale = "C# minor"
+tags     = """
+retro-styled deep tower traversal music, instant full-speed opening
+simple fast drums, active bass, and clipped guitar preserve a lean four-layer texture
+FM synth lead hard timbre holds the melodic front throughout
+electric guitar adds occasional syncopated strikes, accent only
+brief subtle strings appear only near late phrase peaks
+16-bar micro-variation keeps the track useful for extended listening
+expanded final section lowers rhythmic activity and lengthens the final cadence
+clear harmonic resolution, sustained final chord, no abrupt cutoff
+"""
+
+# 10. Ancient Corridor BPM: 160, Keyscale: E minor, duration: 197sec
+
+[[job]]
+label    = "10. Ancient Corridor 10-0-0"
+bpm      = 160
+duration = 197
+keyscale = "E minor"
+tags     = """
+final approach field theme, instant start, no intro
+steady fast rock pulse with dry kick, controlled snare, and worn bass tone
+FM synth lead hard timbre carries a more weathered main melody
+electric guitar provides brief syncopated corridor-like echoes, accent only
+subtle strings appear only in the wider refrain, accent only
+melody stays in 8th-note motion but leaves slightly more air between phrases
+expanded final section reduces kick activity and softens harmonic movement
+clear harmonic resolution, sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "10. Ancient Corridor 10-1-0"
+bpm      = 160
+duration = 197
+keyscale = "E minor"
+tags     = """
+ancient ruin corridor field track, no atmospheric preface
+simple fast drums and offbeat bass keep the journey moving
+FM synth lead hard timbre is the clear main lead from beat one
+electric guitar adds occasional short support riffs, accent only
+brief pad support is thin and distant, accent only
+16-bar micro-variation and light rhythmic change every 8 bars prevent fatigue
+expanded final section drops kick in the last bars and lets upper harmony hold
+clear harmonic resolution, sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "10. Ancient Corridor 10-2-0"
+bpm      = 160
+duration = 197
+keyscale = "E minor"
+tags     = """
+retro action RPG final field cue, immediate entry
+tight rock foundation with restrained fills and forward bass
+FM synth lead hard timbre presents a direct memorable melody with older color
+electric guitar gives brief syncopated replies between lead phrases
+subtle strings widen only selected refrains, accent only
+mild rising harmonic tension in the middle hints at the final chamber ahead
+expanded final section simplifies the groove and allows melodic deceleration
+clear harmonic resolution, sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "10. Ancient Corridor 10-3-0"
+bpm      = 160
+duration = 197
+keyscale = "E minor"
+tags     = """
+last outdoor field run, instant start from the first beat
+simple fast drums and bass keep a firm but less severe danger pulse
+FM synth lead hard timbre stays dominant with continuous 8th-note motion
+electric guitar remains support with brief clipped accents, accent only
+occasional thin pad and strings remain subtle and behind the lead
+small 8-bar rhythmic adjustments keep movement alive without breaking focus
+expanded final section removes dense fills and ends on a broadened cadence
+clear harmonic resolution, sustained final chord, no abrupt cutoff
+"""
+
+# 11. Chamber of Root Runes BPM: 172, Keyscale: F minor, duration: 242sec
+
+[[job]]
+label    = "11. Chamber of Root Runes 11-0-0"
+bpm      = 172
+duration = 242
+keyscale = "F minor"
+tags     = """
+final dungeon theme, instant start, no intro
+fast action RPG groove with clear kick pulse and strong offbeat bass
+FM synth lead hard timbre carries the main melody from beat one
+electric guitar gives brief syncopated support and short unison pressure, accent only
+subtle strings are more present here but remain harmonic support, never lead
+8th-note melody runs nonstop with rising harmonic tension across the central section
+expanded final section introduces half-time feel in the final 8 bars
+clear harmonic resolution, sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "11. Chamber of Root Runes 11-1-0"
+bpm      = 172
+duration = 242
+keyscale = "F minor"
+tags     = """
+root chamber dungeon run, no atmospheric lead-in
+simple fast drums and bass create sustained final-area pressure
+FM synth lead hard timbre is the sole main lead throughout
+electric guitar adds occasional clipped low-register answers, accent only
+brief string swells support larger passages and transitions, subtle and secondary
+light rhythmic change every 8 bars keeps the loop active without losing concentration
+expanded final section removes snare before final resolution and lowers density
+clear harmonic resolution, sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "11. Chamber of Root Runes 11-2-0"
+bpm      = 172
+duration = 242
+keyscale = "F minor"
+tags     = """
+retro-styled final dungeon cue, immediate full-speed entry
+tight kick-snare engine and active bass hold a severe forward stride
+FM synth lead hard timbre presents a sharp memorable motif with long-line momentum
+electric guitar remains support with brief syncopated weight, accent only
+subtle strings fill the upper space during refrain returns, accent only
+16-bar micro-variation and controlled phrase extension maintain long-listen stability
+expanded final section uses gradual drum thinning and slower melodic landing
+clear harmonic resolution, sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "11. Chamber of Root Runes 11-3-0"
+bpm      = 172
+duration = 242
+keyscale = "F minor"
+tags     = """
+final rune chamber traversal, instant start from beat one
+simple fast drums, forward bass, and clipped guitar preserve the lean hierarchy
+FM synth lead hard timbre stays in front with nonstop 8th-note motion
+electric guitar adds occasional short unison emphasis, accent only
+brief upper strings remain supportive and never overtake the synth
+middle section raises harmonic tension while keeping the rhythm steady
+expanded final section simplifies harmonic motion and extends the last sustained chord
+clear harmonic resolution, sustained final chord, no abrupt cutoff
+"""
+
+# 12. Rune Core: Breach BPM: 188, Keyscale: G minor, duration: 251sec
+
+[[job]]
+label    = "12. Rune Core: Breach 12-0-0"
+bpm      = 188
+duration = 251
+keyscale = "G minor"
+tags     = """
+final boss battle, instant high-energy entry, no intro
+simple fast drums and offbeat bass drive an extreme forward charge
+FM synth lead hard timbre carries the main melody in constant 8th-note pressure
+electric guitar gives brief unison attacks and syncopated riff force, accent only
+subtle strings are absent except for a very brief upper accent near the final return
+one mid-track drop in density leaves drums nearly alone for a short break point
+expanded final section introduces half-time feel and gradual drum thinning in the last 8 bars
+clear harmonic resolution, sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "12. Rune Core: Breach 12-1-0"
+bpm      = 188
+duration = 251
+keyscale = "G minor"
+tags     = """
+maximum-speed boss theme, no atmospheric opening, direct attack
+tight kick-led rhythm and active bass create nonstop pressure
+FM synth lead hard timbre is the clear melodic center from the first note
+electric guitar adds occasional forceful unison shadowing, accent only
+brief upper pad appears only at the final return, accent only
+16-bar micro-variation keeps the repeated battle loop from blurring
+expanded final section removes snare before final resolution and broadens the cadence
+clear harmonic resolution, sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "12. Rune Core: Breach 12-2-0"
+bpm      = 188
+duration = 251
+keyscale = "G minor"
+tags     = """
+retro action RPG final boss music, immediate full-speed opening
+simple fast drums and bass stay lean so the lead can cut through
+FM synth lead hard timbre drives a compressed memorable hook
+electric guitar provides brief unison pushes and short low-end strikes, accent only
+subtle accent pad is used only in the widest phrase return
+rising harmonic tension and one short drop in density sharpen the central climax
+expanded final section uses gradual drum thinning and reduced harmonic change
+clear harmonic resolution, sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "12. Rune Core: Breach 12-3-0"
+bpm      = 188
+duration = 251
+keyscale = "G minor"
+tags     = """
+ultimate rune core breach battle, instant start, no intro at all
+fast kick-snare engine and offbeat bass create relentless pursuit energy
+FM synth lead hard timbre remains the main lead with nonstop 8th-note motion
+electric guitar adds occasional unison bite and syncopated riff support
+brief accent-only upper layer appears near the last hook return
+a short mid-track drop in density prepares the final charge without breaking flow
+expanded final section shifts toward half-time feel and lets the final melody decelerate
+clear harmonic resolution, sustained final chord, no abrupt cutoff
+"""
+
+# 13. Morning After the Seal BPM: 92, Keyscale: C major, duration: 178sec
+
+[[job]]
+label    = "13. Morning After the Seal 13-0-0"
+bpm      = 92
+duration = 178
+keyscale = "C major"
+tags     = """
+ending theme, instant start with no spoken or ambient preface
+slow steady pulse with soft electronic low beat and minimal percussion
+FM synth lead softened in tone carries the main melody alone
+brief pad support appears only beneath longer notes, accent only
+occasional high register echo is subtle and secondary, accent only
+the core motif is unfolded in longer note values with clear space between phrases
+expanded final section reduces rhythmic activity and lets the melody relax
+clear harmonic resolution, sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "13. Morning After the Seal 13-1-0"
+bpm      = 92
+duration = 178
+keyscale = "C major"
+tags     = """
+post-battle ending track, no atmospheric intro
+gentle electronic pulse with sparse low support and restrained beat
+FM synth lead is the clear main lead with the motif in restored full shape
+brief pad sustain sits behind the melody, accent only
+subtle upper shimmer appears only at phrase peaks, accent only
+16-bar micro-variation keeps the slow theme alive without strong contrast
+expanded final section simplifies harmonic motion and extends the final arrival
+clear harmonic resolution, sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "13. Morning After the Seal 13-2-0"
+bpm      = 92
+duration = 178
+keyscale = "C major"
+tags     = """
+clear-sky ending cue, immediate entry with no intro
+minimal soft groove and light bass support keep the theme grounded
+FM synth lead carries the melody with longer sustained phrasing
+occasional brief countertone appears in the upper register, accent only
+subtle pad support appears only in the last third, accent only
+the motif is slowed and allowed to breathe with careful phrase spacing
+expanded final section drops the pulse and lets the harmony settle into stillness
+clear harmonic resolution, sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "13. Morning After the Seal 13-3-0"
+bpm      = 92
+duration = 178
+keyscale = "C major"
+tags     = """
+ending reprise of the frontier motif, no ambient lead-in
+soft electronic rhythm and sparse low support create a calm landing
+FM synth lead remains the only main lead instrument
+brief pad and high echo accents stay subtle and secondary
+small phrase variation every 16 bars prevents static repetition
+melody uses longer note values and wider rests than the battle tracks
+expanded final section removes the beat and leaves extended pad sustain
+clear harmonic resolution, sustained final chord, no abrupt cutoff
+"""
+
+# 14. Frontier Rush — Root Form BPM: 84, Keyscale: G minor, duration: 184sec
+
+[[job]]
+label    = "14. Frontier Rush — Root Form 14-0-0"
+bpm      = 84
+duration = 184
+keyscale = "G minor"
+tags     = """
+bonus root-form theme, immediate entry with no intro
+free and sparse pulse with only light implied rhythm
+FM synth lead hard timbre remains the only main melodic instrument
+brief pad support appears only under the longest held tones, accent only
+occasional high echo ornament is subtle and secondary, accent only
+the central motif is exposed in isolated phrases with careful spacing
+expanded final section further reduces motion and lets the final phrase widen
+clear harmonic resolution, sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "14. Frontier Rush — Root Form 14-1-0"
+bpm      = 84
+duration = 184
+keyscale = "G minor"
+tags     = """
+solo synth bonus cadenza, no atmospheric preface
+minimal implied beat with long spaces between phrase entries
+FM synth lead hard timbre is the sole lead voice throughout
+brief distant pad is used only as accent under cadential notes
+subtle upper sparkle appears occasionally, accent only
+the motif is presented in broken segments and recombined over 16-bar variation
+expanded final section slows melodic motion and opens into a broad last cadence
+clear harmonic resolution, sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "14. Frontier Rush — Root Form 14-2-0"
+bpm      = 84
+duration = 184
+keyscale = "G minor"
+tags     = """
+root motif study, immediate entry, no intro
+very light pulse and wide phrase spacing create a reflective afterimage
+FM synth lead hard timbre carries the full thematic identity alone
+brief pad sustain and subtle echo remain background accents only
+occasional upper ornament is sparse and secondary
+small rhythmic freedom within stable phrase lengths keeps the piece coherent
+expanded final section drops remaining pulse and lets the motif decelerate
+clear harmonic resolution, sustained final chord, no abrupt cutoff
+"""
+
+[[job]]
+label    = "14. Frontier Rush — Root Form 14-3-0"
+bpm      = 84
+duration = 184
+keyscale = "G minor"
+tags     = """
+bonus solo synth epilogue, no lead-in
+minimal pulse with almost no percussion and long melodic breath
+FM synth lead hard timbre is the clear main lead from the first tone
+brief pad support appears only in the last section, accent only
+subtle high-register answer notes are occasional and secondary
+the motif is unfolded slowly with clear space and restrained repetition
+expanded final section leaves extended pad sustain under the last held note
+clear harmonic resolution, sustained final chord, no abrupt cutoff
+"""
