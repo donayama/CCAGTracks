@@ -10,4 +10,5 @@
 - [#13 Skydragon Scramble](13_skydragon_scramble.html)
 - [#17 Ruin Rush: Zero Second](17_ruinrush_zerosecond.html)
 - [#25 Barrio Rojo: Combate](25_barrio_rojo.html)
+- [#34 Rune Breaker: Frontier Pulse](34_rune_breaker.html)
 
